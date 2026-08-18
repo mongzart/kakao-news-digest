@@ -3,15 +3,16 @@ main.py
 매일 09/12/15/18/21/00시(KST)에 GitHub Actions cron으로 실행되는 엔트리포인트.
 1) 카테고리별 뉴스 수집
 2) DART 정기공시를 포함하고, 09시 슬롯이면 KOCCA RSS도 포함
-3) 카카오톡에는 카테고리별 대표 기사 1건씩만 압축 발송 (메시지 전체가 링크로 동작)
+3) 카카오톡에는 카테고리별 대표 기사 1건씩만 짧게 요약 발송
+   (URL은 본문에 넣지 않음 - 메시지 클릭/버튼으로 리포트 연결, URL 잘림 방지)
 4) 전체 수집 기사는 HTML 리포트(GitHub Pages)로 생성, 카톡 메시지에서 그 링크로 연결
-5) [추가] 매 실행의 다이제스트를 docs/archive/*.json 으로 누적 저장하여
+5) 매 실행의 다이제스트를 docs/archive/*.json 으로 누적 저장하여
    latest.html에서 과거 다이제스트를 드롭다운으로 열람할 수 있게 함
+6) 카톡 발송이 실패해도 HTML 리포트/아카이브 커밋은 진행되도록 발송부를 방어 처리
 """
 import os
 import json
 from datetime import datetime, timedelta, timezone
-
 from news_collector import collect_all, collect_institute_rss
 from dart_collector import fetch_target_periodic_reports
 from kakao_sender import send_digest
@@ -22,6 +23,9 @@ CONFIG_PATH = os.path.join(os.path.dirname(__file__), "..", "config", "keywords.
 DOCS_DIR = os.path.join(os.path.dirname(__file__), "..", "docs")
 ARCHIVE_DIR = os.path.join(DOCS_DIR, "archive")
 ARCHIVE_RETENTION_DAYS = int(os.environ.get("ARCHIVE_RETENTION_DAYS", "3"))
+
+# 카톡 한 줄에 표시할 제목 최대 길이 (초과 시 말줄임)
+KAKAO_TITLE_MAX = 26
 
 # 슬롯 간 간격(시간) - 3시간 슬롯은 실행 지연을 감안해 4시간, 09시는 자정 이후 공백 커버.
 SLOT_LOOKBACK_HOURS = {0: 4, 9: 10, 12: 4, 15: 4, 18: 4, 21: 4}
@@ -44,11 +48,12 @@ def _clean_display_title(title):
 
 
 def format_kakao_line(item, cat_label):
-    """카톡용 압축 한 줄: 카테고리 대표 기사 제목만 짧게 (링크는 메시지 클릭/버튼으로)."""
+    """카톡용 압축 한 줄: 짧은 제목만. 시각/URL 없음 (링크는 메시지 클릭/버튼으로)."""
     title = _clean_display_title(item["title"])
-    if len(title) > 26:
-        title = title[:25] + "…"
+    if len(title) > KAKAO_TITLE_MAX:
+        title = title[:KAKAO_TITLE_MAX - 1].rstrip() + "…"
     return f"· [{cat_label}] {title}"
+
 
 def _parse_archive_display_time(display_time, now_kst):
     """아카이브의 MM.DD HH:MM 문자열을 HTML item용 datetime으로 복원."""
@@ -81,14 +86,12 @@ def load_cached_disclosures(now_kst):
                 entries = json.load(f)
         except (json.JSONDecodeError, OSError):
             entries = []
-
     if not entries and os.path.isdir(ARCHIVE_DIR):
         entries = [
             {"file": fname}
             for fname in sorted(os.listdir(ARCHIVE_DIR), reverse=True)
             if fname.endswith(".json") and fname != "index.json"
         ]
-
     for entry in entries:
         fname = entry.get("file", "")
         if not fname.endswith(".json") or os.path.basename(fname) != fname:
@@ -99,7 +102,6 @@ def load_cached_disclosures(now_kst):
                 snapshot = json.load(f)
         except (json.JSONDecodeError, OSError):
             continue
-
         disclosure_articles = [
             article for article in snapshot.get("articles", [])
             if article.get("c") == "공시"
@@ -145,13 +147,14 @@ def build_digest(conf, now_kst):
         fetch_target_periodic_reports(conf.get("disclosure_monitoring", {})),
         now_kst,
     )
+
     institute_items = []
     if hour == 9:
         institute_items = collect_institute_rss(
             conf.get("research_sources", {}).get("verified_rss_feeds", {}), since_hours=lookback
         )
 
-    # --- 카톡용: 섹션별 대표 1건만 ---
+    # --- 카톡용: 섹션별 대표 1건만, 짧은 요약 ---
     kakao_lines = []
     if disclosure_items and hour == 9:
         kakao_lines.append(format_kakao_line(disclosure_items[0], "공시"))
@@ -196,7 +199,6 @@ def _prune_archives(entries, now_kst, retention_days):
         dt = _archive_datetime(fname)
         if dt is None or dt >= cutoff:
             kept.append(entry)
-
     for fname in os.listdir(ARCHIVE_DIR):
         if fname == "index.json" or not fname.endswith(".json"):
             continue
@@ -211,7 +213,7 @@ def _prune_archives(entries, now_kst, retention_days):
 
 def write_archive(sections, generated_at_str, now_kst, retention_days=ARCHIVE_RETENTION_DAYS):
     """이번 실행의 다이제스트를 docs/archive/{slug}.json 으로 저장하고
-    docs/archive/index.json 목록 맨 앞에 추가. 보존 기간은 기본 3일."""
+    docs/archive/index.json 목록 맨 앞에 추가."""
     os.makedirs(ARCHIVE_DIR, exist_ok=True)
 
     slug = _archive_slug(now_kst)
@@ -264,14 +266,21 @@ def main():
     if not kakao_lines:
         kakao_lines = ["신규 수집 항목이 없습니다."]
 
-    footer = f"\n\n▶ 전체 {total_items}건은 아래 버튼 또는 메시지 클릭"
+    # URL을 본문에 넣지 않음 - 긴 URL이 카톡 길이 제한에서 잘리는 문제 방지.
+    # 리포트 연결은 메시지 클릭(link) + '전체 기사 보기' 버튼(kakao_sender)으로 처리.
+    footer = f"\n\n▶ 전체 {total_items}건은 메시지를 클릭하세요" if report_url else ""
     body = header + "\n\n" + "\n".join(kakao_lines) + footer
 
-    ok = send_digest(header="", article_blocks=[body], first_link=report_url)
-    if not ok:
-        print("일부 실패 - 로그 확인 필요")
-        raise SystemExit(1)
-    print("완료")
+    # 카톡 발송이 실패해도 HTML 리포트/아카이브는 이미 생성됨.
+    # 예외로 프로세스를 죽이면 다음 스텝(Pages 커밋)이 스킵되므로 방어 처리.
+    try:
+        ok = send_digest(header="", article_blocks=[body], first_link=report_url)
+        if ok:
+            print("완료")
+        else:
+            print("::warning::카톡 발송 일부 실패 - HTML 리포트는 정상 생성됨")
+    except Exception as e:
+        print(f"::warning::카톡 발송 실패 (HTML 리포트는 정상 생성됨): {e}")
 
 
 if __name__ == "__main__":
