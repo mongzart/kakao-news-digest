@@ -276,5 +276,5 @@
   },
   "max_items_per_send": 9,
   "archive_retention_days": 3,
-  "html_report_base_url": "https://mongzart7056.github.io/kakao-news-digest"
+  "html_report_base_url": "https://mongzart.github.io/kakao-news-digest"
 }
