@@ -31,8 +31,7 @@ def refresh_access_token():
     access_token = data["access_token"]
     new_refresh = data.get("refresh_token")  # 카카오가 갱신된 refresh_token을 줄 수도 있음
     if new_refresh:
-        print("::warning::새 refresh_token이 발급되었습니다. GitHub Secret을 업데이트하세요:")
-        print(f"::warning::{new_refresh}")
+        print("::warning::새 refresh_token이 발급되었습니다. 토큰 재발급 필요 시점입니다.")
     return access_token
 
 
