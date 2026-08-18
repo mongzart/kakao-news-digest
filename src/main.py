@@ -44,11 +44,11 @@ def _clean_display_title(title):
 
 
 def format_kakao_line(item, cat_label):
-    """카톡용 압축 한 줄: 카테고리 대표 기사 헤드라인만 (링크는 메시지 전체 클릭으로 처리)."""
+    """카톡용 압축 한 줄: 카테고리 대표 기사 제목만 짧게 (링크는 메시지 클릭/버튼으로)."""
     title = _clean_display_title(item["title"])
-    date_str = item["published"].strftime("%m.%d %H:%M")
-    return f"📌 [{cat_label}] {title}  ({date_str})"
-
+    if len(title) > 26:
+        title = title[:25] + "…"
+    return f"· [{cat_label}] {title}"
 
 def _parse_archive_display_time(display_time, now_kst):
     """아카이브의 MM.DD HH:MM 문자열을 HTML item용 datetime으로 복원."""
@@ -264,7 +264,7 @@ def main():
     if not kakao_lines:
         kakao_lines = ["신규 수집 항목이 없습니다."]
 
-    footer = f"\n\n📎 전체 {total_items}건 보기: {report_url}" if report_url else ""
+    footer = f"\n\n▶ 전체 {total_items}건은 아래 버튼 또는 메시지 클릭"
     body = header + "\n\n" + "\n".join(kakao_lines) + footer
 
     ok = send_digest(header="", article_blocks=[body], first_link=report_url)
