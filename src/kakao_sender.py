@@ -2,6 +2,10 @@
 kakao_sender.py
 카카오 "나에게 보내기" API로 뉴스 다이제스트를 전송합니다.
 access token은 refresh token으로 매 실행 시 새로 발급받습니다 (만료 대응).
+
+[변경 사항]
+- 새 refresh_token 수신 시 토큰 원문을 로그에 출력하지 않음 (퍼블릭 레포 로그 노출 방지)
+- 메시지에 "전체 기사 보기" 버튼 추가 (본문에 URL을 넣지 않아도 리포트로 연결)
 """
 import os
 import json
@@ -31,7 +35,14 @@ def refresh_access_token():
     access_token = data["access_token"]
     new_refresh = data.get("refresh_token")  # 카카오가 갱신된 refresh_token을 줄 수도 있음
     if new_refresh:
-        print("::warning::새 refresh_token이 발급되었습니다. 토큰 재발급 필요 시점입니다.")
+        # 보안: 토큰 원문은 절대 로그에 출력하지 않는다 (퍼블릭 레포의 Actions 로그는 공개됨).
+        # 갱신 사실만 알리고, 자동 갱신 스텝에서 사용할 수 있도록 파일로 기록한다.
+        print("::warning::카카오가 새 refresh_token을 발급했습니다. (만료 임박 신호)")
+        try:
+            with open("/tmp/new_refresh_token.txt", "w") as f:
+                f.write(new_refresh)
+        except OSError:
+            pass
     return access_token
 
 
@@ -43,6 +54,7 @@ def _send_text(access_token, text, link_url=None):
             "web_url": link_url or "https://news.google.com",
             "mobile_web_url": link_url or "https://news.google.com",
         },
+        "button_title": "전체 기사 보기",
     }
     payload = urllib.parse.urlencode({
         "template_object": json.dumps(template_object, ensure_ascii=False)
