@@ -266,10 +266,10 @@ def main():
     if not kakao_lines:
         kakao_lines = ["신규 수집 항목이 없습니다."]
 
-    # URL을 본문에 넣지 않음 - 긴 URL이 카톡 길이 제한에서 잘리는 문제 방지.
-    # 리포트 연결은 메시지 클릭(link) + '전체 기사 보기' 버튼(kakao_sender)으로 처리.
-    footer = f"\n\n▶ 전체 {total_items}건은 메시지를 클릭하세요" if report_url else ""
-    body = header + "\n\n" + "\n".join(kakao_lines) + footer
+    # 링크를 첫 문단(헤더 바로 아래)에 배치 - 메시지가 길어져도 앞부분이라 잘리지 않음.
+    # '전체 기사 보기' 버튼(kakao_sender)도 함께 유지됨.
+    top_link = f"🔗 전체 {total_items}건: {report_url}" if report_url else ""
+    body = header + (("\n" + top_link) if top_link else "") + "\n\n" + "\n".join(kakao_lines)
 
     # 카톡 발송이 실패해도 HTML 리포트/아카이브는 이미 생성됨.
     # 예외로 프로세스를 죽이면 다음 스텝(Pages 커밋)이 스킵되므로 방어 처리.
