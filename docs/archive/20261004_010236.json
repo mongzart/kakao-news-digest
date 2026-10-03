@@ -1,0 +1,4012 @@
+{
+  "generated_at": "2026.10.04 01:02",
+  "total": 495,
+  "categories": [
+    {
+      "c": "IPO/투자",
+      "count": 30
+    },
+    {
+      "c": "정책자금/지원사업",
+      "count": 80
+    },
+    {
+      "c": "AI/기술",
+      "count": 100
+    },
+    {
+      "c": "디지털휴먼/가상인간",
+      "count": 9
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "count": 30
+    },
+    {
+      "c": "AI반도체/인프라",
+      "count": 18
+    },
+    {
+      "c": "IP/K-Culture/저작권",
+      "count": 15
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "count": 28
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "count": 25
+    },
+    {
+      "c": "AX/DX/정책",
+      "count": 13
+    },
+    {
+      "c": "공시",
+      "count": 147
+    }
+  ],
+  "articles": [
+    {
+      "c": "IPO/투자",
+      "t": "[현장] 그란 투리스모 월드 시리즈 3라운드 네이션스 컵, 미야조노 우승",
+      "d": "월드 시리즈'(이하 GTWS) 3라운드 네이션스 컵이 3일 싱가포르에 위치한 마리나 베이 샌즈 시어터에서... 결승 레이스는 생트크루아 서킷 B(역주행)에서 진행됐다. 길이는 7,062m이며 14개의 코너, 915m의 최대 직선 길이를... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:50",
+      "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=61211"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "4억7000만원 내면 아르헨티나 시민권…남미 첫 ‘황금 여권’",
+      "d": "아르헨티나 정부는 2일(현지 시각) 프랑스 파리에서 열린 ‘파리 아르헨티나 위크’에서 올해 4분기부터 외국인 투자 유치를 위한 시민권 투자 프로그램을 도입할 계획이라고 밝혔다. 신청은 올해 4분기(10~12월)부터... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:38",
+      "link": "https://biz.chosun.com/international/international_general/2026/10/04/SE674CBQD5FRFJQZFL4S64XOHM/?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "CorVel (CRVL) On Its CareMC Launch And Whether The Valuation Still Fits - simplywall.st",
+      "d": "",
+      "s": "simplywall.st",
+      "tm": "10.04 00:36",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQanRhZ1pKN2VpNkVEeTV4T3BNQ2dVenRPM3FZT29sSllZOVNwSmdHaUJJbm9KeEZhNGI2d1g4aGRwWGUxSjFUVTFna0QtdGVnNGl0VzdlVU5TeFdBa2NuTkpFS0l1UXNPMDE2MmtNeU1ZVTlHeThJWlRLZ2ViVV9jbnVKdU9mSjVsRmV4aF92LW5QOWFsZC01RHNuVUJKV2NqZm5qU2RoZUVHWHBURlQyMEFnalZVajZNbXdfeExBb2ZDOEMxaFHSAcsBQVVfeXFMTW5fSFY1X21Pck9panlHZUYtcU16bW9PVXdGMEtqaTEyLXVEcG9BdnYtNFVhQlc3RDFaaVgzMW15NThPRHdmSHp4RjZSU0Jza255V29yRGxTd1E0VlNZbnlOVFhBeGNVenBoTGVqRTJuY0RBUEtMWmkyMGtpUFViSGV3d3F4UUxpd2tVNmc2ZFVjQ2lpenJhalpRSkI5MHU3aEtIeERFM2UwczgxdXluOFk5Y3VsLXNuRndFS20wYlF4SkRieGE0Q2ZEbTQ?oc=5"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "美 SEC, 비트코인 등 6개 자산 3배 레버리지 ETF 상장 승인",
+      "d": "6종의 상장과 거래를 승인했다. 3일(현지시간) 블록체인 매체 코인포스트에 따르면 이번 승인은 시보 BZX... SEC는 이들 상품의 상장을 상품 기반 신탁주식 형태로 허용했다. 블룸버그 ETF 전문가 에릭 발추나스는 X를 통해... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:16",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704954"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "가짜 거래소, 수익률 화면은 속여도 사업자·주소·출금 3단계 검증은 못...",
+      "d": "‘회원 전용 거래소’, ‘상장 전 물량’, ‘기관 추천 플랫폼’ 같은 표현을 앞세워 링크를 보낸다.2단계에서는 사이트에 보이는 보유자산과 수익률을 조작한다. 고객센터를 흉내 낸 상담원이 나타나 추가 입금이나 특정... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:08",
+      "link": "https://www.wikitree.co.kr/articles/1163794"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "XRP 2달러 갈까…에버노스 나스닥 상장이 가격에 미칠 영향",
+      "d": "이는 전 세계 상장사 가운데 합법적으로 보유한 XRP 물량 중 최대 규모다. 9월 30일 주주 승인을 받은 SPAC... 상장 시점의 차트 흐름도 주목된다. XRP는 주간 기준 1.50달러 안팎에서 횡보하고 있으며, 이동평균선은 1.... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:06",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704952"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "Commvault Systems (CVLT) Expands AI Protection As Its Valuation Narrative Faces A Fresh Test - Yahoo Finance",
+      "d": "",
+      "s": "Yahoo Finance",
+      "tm": "10.04 00:05",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMTItbWMtNHJydnhwb192WXZjajU5bktYb1VBNzVOTC1qak9hZGZyTnJOYkFSYnRNamd6aHZrT3hpcVlXdUNpT1FpV25qcVo0U3pWemVySERJS0hLYlNxd2JaUjd1VFowNFNqR0RHX3plMC1jWUdibFBpVWp6N1lKZ0UyRkRHLTc1YzB0bHBDM21JN2txVWhIcVkxRTVLZw?oc=5"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "900선 뚫은 코스닥…이번 반등은 진짜일까 [박진우의 개미수다]",
+      "d": "코스닥 상장·퇴출 제도 개선과 우량 기업 중심의 ‘셀렉트’ 지수 연계 ETF 등 승강형 세그먼트 윤곽에 시장의 이목이 쏠려 있다. 나승두 SK증권 연구원은 “동전주와 기준 미달 종목의 상장폐지 요건으로 하방... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:05",
+      "link": "https://www.dt.co.kr/article/12087250?ref=naver"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "SOXL 20억달러 손바뀜…서학개미, 반도체주 집중 거래",
+      "d": "종목과 상장지수펀드(ETF)에 집중됐다. 반도체 3배 레버리지 ETF인 SOXL의 매수·매도 결제금액이 20억달러를 넘어섰다. 마이크론과 샌디스크도 순매수 상위권에 이름을 올렸다. 3일 한국예탁결제원... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:02",
+      "link": "http://www.kjdaily.com/article.php?aid=1791039602688189276"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "中, 러시아 연해주 투자 확대…\"韓기업 진출, 제약 많아\"",
+      "d": "4일 코트라에 따르면 러시아는 극동 지역 투자 유치를 위해 선도개발구역(TOR)을 운영하고 있다. TOR 입주 기업에는 일정 요건에 따라 세제 및 행정상 혜택이 제공된다. 연해주 지역은 중국과 육상으로 인접해 있고... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:02",
+      "link": "https://www.theguru.co.kr/news/article.html?no=107775"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "[글로벌 K-Financer] (2) 하나銀, 美·베트남·우즈벡 거점 확대…글로벌...",
+      "d": "-- 신흥국 추가 진출이나 현지 금융기관 인수합병(M&A) 계획은? ▲ 인도와 미국, 베트남 등 전략 지역을 중심으로 현지 금융기관 인수·합병(M&A) 등을 통한 성장 기회를 지속적으로 모색할 예정이다. 중앙아시아에서는... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:02",
+      "link": "https://www.theguru.co.kr/news/article.html?no=107720"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "[TF프리즘] 장르도 플랫폼도 다채롭다…10월 안방극장 채울 12편",
+      "d": "새 오리지널 시리즈 '내가 떨릴 수 있게'를 15일 공개한다. 작품은 사랑 없이는 아무것도 하지 않는 여자 공연수와 사랑 없이도 무엇이든 할 수 있는 남자 독고달의 관계를 그린 성장 로맨스 코미디다. 섹스토이... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:01",
+      "link": "https://news.tf.co.kr/read/entertain/2372799.htm"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "개미 자금 4.9조 몰렸다…미래에셋 S&P500 ETF 1위·삼성 고배당도 성장세 - 더구루",
+      "d": "",
+      "s": "더구루",
+      "tm": "10.04 00:00",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TZTVGXzhyZFRoQWRTM19jTUJ1cnJOTC1BbkxXdXN2THBZTUpzeVBvLVQyQ1JSazdVQWVHYXF0YUZqUFhuUURyVkkwZkZKb0R4WDVGWVFDcUtKekpMYngtbjRXNA?oc=5"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "10월 4일 오늘의 운세-띠별·별자리 총정리",
+      "d": "♈양자리 / 양력3월21일~4월19일(춘분, 청명) I am (나는 나다) / 화성♂ / 행운색 : 붉은색 / 행운숫자 : 1, 9 ♀애정운 : 보통 / ♃재물운 : 좋음 투자 유치, 유산 상속, 대출 등 자산의 이동이나 굵직한 변동성이 예상되는... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:00",
+      "link": "https://www.namdonews.com/news/articleView.html?idxno=924930"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "[김대호 진단] 반도체 열전 (60) 솔리다임... 최태원의 승부수",
+      "d": "대한민국 인수합병(M&A) 역사상 최대 규모의 초대형 딜이었다. D램 시장에서는 삼성전자와 함께 세계 시장을 양분하고 있었으나, 낸드플래시 부문에서는 4~5위권에 머물며 상대적 열세를 면치 못했던 SK하이닉스로서는... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:00",
+      "link": "https://www.g-enews.com/view.php?ud=202609280920022891906806b77b_1"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "LG엔솔, 美 인디고테크와 MOU…상용 EV에 '46시리즈' 공급 협의",
+      "d": "충전 인프라와 디지털 모빌리티를 결합한 TaaS(Transportation as a Service·서비스형 교통) 사업도 추진 중이다. LG에너지솔루션은 이번 협력을 통해 북미 전기 상용차 시장에서 46시리즈 공급처 확대를 모색한다. 북미... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 23:28",
+      "link": "https://www.thedailypost.kr/news/articleView.html?idxno=116000"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "Indexed To 2015, India IPO Market Has Outperformed Every Major IPO market Is India providing an IDEAL ''EXIT OPTION'' making it an attractive destination? Or is the ''DIVERSITY on IPO Street'' pulling the money in? Shereen Bhan Prashant Nair Sriram Iyer H - LinkedIn",
+      "d": "",
+      "s": "LinkedIn",
+      "tm": "10.03 23:03",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbkk3S3pWSnhxVGZ4RnNNMlZxbUt0aFFDOUwyWm9LMzg4TlFlV1JhYmJwQ1FWeVpXMHpsdTM4MmxJMF9PamVfcURfVk1XS0JQOEFoanVKWWlaYlBvajZCOWUxZ1ZuNDZ5QVJhQ2hqYzJQNkx1d1JjVGdmN0lBa0Y2bUJqREFUWk82WGx1bGRCNnI3WEJ2NnljY1FpSnpKQQ?oc=5"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "THERE'S NOTHING BLACK OR WHITE ABOUT THE INDIA IPO MARKET It has both a speed breaker 🚧 and an accelerator ⚡ So is \"playing the momentum\" the right strategy? Shereen Bhan Prashant Nair Sriram Iyer Hormaz Fatakia #IPO #IndiaIPO #IPOmark - LinkedIn",
+      "d": "",
+      "s": "LinkedIn",
+      "tm": "10.03 22:58",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdlNxQTFXM1RLY1Y1YVdQVG5MZnZEbmYzRjJ3RDl6UmxhUU1UdjJ4RDBqdmlTbWdfaFY5azljcUlqMVZPTDcxeUtHY21OZFdXM2NWVnNrOG45WEdjSHA1YzZtd2lJa1lXTzNKbmZoTmg2eW5IVERGUzZQY1pHV2tQeWtOYnRyY283M3hpLVFJMkdmS0NlNVBSSmNlYVEzdw?oc=5"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "Should You Buy Pre-IPO Anthropic Shares Before November? - Yahoo Finance",
+      "d": "",
+      "s": "Yahoo Finance",
+      "tm": "10.03 22:35",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWG54a21IT0hTbkVqenlxbmEwMEJlejB4bERvWi1Bb0djR2ZMZlYtMDFLbG1UNTdPams2Z3lSTTRCMWZnUlJVLUE3UjJyX3g4QXBReWZmcHpjWE85X3NRMjRFTWJQSVdUUEd2bmlxVUctd0RaR3lmX09VRzFDUG1KdEtrUHZoZ1ZRVldrOEIzUlZlZlBGa1JHSQ?oc=5"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "아산, ‘투자 1번지’ 승부수…서울서 260억 투자·285명 고용 유치 - 지이코노미",
+      "d": "",
+      "s": "지이코노미",
+      "tm": "10.03 22:28",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UZW1oRmI1YTlMNkpmV2dfb29uLUlzWG04M2UzVlMwV0FYZU9xZkNRcUpxTXE1ZlhjT2FmVUlSVzNscXR4cjNsR0NHd0ZRMHRyUmt6bDhhTEQxaFBtdndmbUtxWVBqVnM?oc=5"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "AtkinsRéalis Group (TSX:ATRL) Pickering Wins Put Its Valuation Story Back In Focus - simplywall.st",
+      "d": "",
+      "s": "simplywall.st",
+      "tm": "10.03 22:24",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdFBlMjdRWm5YYjFILS00bmZkZzN6eFQ3ZVRTUGpZcGQyMkk2OUlGMFkyOVc5YlUyS2wwMVZUM1VYWVBEbW1ZUTFVZE5BZjZKOTBZaDFFSmx3X3pTSkVTSGVwbTMxOFRrc0ZldmItOEN5SlZQaVVSbUxtSURCd2ZkMjdPVUdJWng1QnYxaVdaUFJfakJHTlVqVTVteVRkMmFWendSWks0eXNnWGxPSW02VVdRemwwRWpVa0R5angwNXltYklPV0N6UHlaUjBtYUNXQWI4cGNYSlVwRUdoOFhJ0gHkAUFVX3lxTE82aUtOeTZ5YldzTUdubVhpTmZEYzZsTkhIai1SYkpxUzd3TFpxOXFwLU85bW55cEdSZnp3NkdtTHU5QWJfNE1QNXpPRm9oMmYtd1dZSDZGVUt4UW1Vc0owNTRCNXFBMVJSUlRZRVdteklNSzM2aHVGVGdvVURiQXhQNU5pM2tBVGUyOTEyM0dHNDFuT3h2U29zbUg5UXpaWm1SU2plQ0FLOTV0aTR4QzJ2WnFORnJUcUV4Q3JNZ1hYWVo3VFR3dmVyWmdDeHBiRkN1TmlacGxJUjI2bGVja0N0aU5HNw?oc=5"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "4억 7000만 원 내면 ‘황금 여권’...남미 국가 첫 도입",
+      "d": "아르헨티나 정부는 2일(현지시간) 외국인 투자 유치 프로그램 중 하나로 올해 4분기부터 황금 여권 제도를 도입한다고 밝혔다. 몬테네그로처럼 인구와 경제 규모가 작은 국가들이 재정 확충과 외국인 투자 유치를 위해... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 22:14",
+      "link": "https://www.sedaily.com/article/20097967?ref=naver"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "\"수익성 불투명한 10조달러 투자\"...월가, AI 거품 붕괴 경고",
+      "d": "특히 앤트로픽의 기업공개(IPO)를 앞두고 월가의 냉각 기류가 구체화되고 있다. 투자은행들이 초기... 개별 기업 중 앤트로픽은 기업공개(IPO) 투자설명서에서 향후 몇년간 5180억달러를 투자하겠다고 밝혔는데, 이는... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 21:56",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215942"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "WeRide (WRD) After The ELEVATE Slovakia Deal And The Valuation Debate - simplywall.st",
+      "d": "",
+      "s": "simplywall.st",
+      "tm": "10.03 21:48",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONHo3ZER2UnBrbWo2YlhCME5qdzhVRjdEX2t6Y29mSXZQN00xNWlpSEU5d1BXNDFveDh2RV9aTGsyRk1Vc2pXMk5mTy13MDlWSlNGV3BUbXJUYkN5dmphLW1TNGsxOHM3dDduQ3JkNGlpLXhUbVlFUlV0ZEFBZUZZcDRGMG05Zjh3SWIxOFliODFCWmJzd096OXNLSDIxWDF0N0w0ZERVVDZtR1JFVDg1NW9QdzQxSjJIY01VR3RLUUdjaU93MWfSAcsBQVVfeXFMUHotaGUwWGxGZTc0M2VCeXhMYVZGVTRVM2NYTHBJRjhtbG5GNUhCMW1KbG9ubHFPNXVQeXBtYlJ6ZXZmUVo0WTFrS20wY3FYTWxuQjZqWkM3QUV5NjN3OTQzQzVzTThhanhvdkhDcl82aDZvM1gwUWM1UEVxRnZUTXNPOWtneUtVb0NtcHdhN25PRDV2SE0wSkcyTGRqbUEtWGs3VFRwRXlvVTZaVWpEMHZsRW1LUkU0SGc2d0RMRDFnMVU5UDh1Z25Ucmc?oc=5"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "Nextalia Ventures backs Italy's Underdogs Group for European M&A push - app.dealroom.co",
+      "d": "",
+      "s": "app.dealroom.co",
+      "tm": "10.03 21:45",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS1NtY0Q5eUJMbG1BZi1jLVdIVnotWkgtN1gxSGJNVWRGTVkxMEk3MG53d2N6dFZGVjhrQWkzTU1tT3BWQS1UZjR5cy03QXNFa25HZTVMV1V0MWFrT0l3N3RkeVE4NE93d1BYNFFFSEtWaFFNQ0dmcWJKY1hWY3FRWmE1RFFRSTE3RlJKVFhQMXU5NjNTMUwwdDYyTTdtZlRvOE0xZEV3?oc=5"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "Meta’s Justin Osofsky joins Nscale as COO ahead of IPO: Bloomberg - Seeking Alpha",
+      "d": "",
+      "s": "Seeking Alpha",
+      "tm": "10.03 21:41",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNenpLR3VjWGNlU1ZYOUt0dkF0RVpvTmZpbWtVVXJGVl9GQ215Mzg0eDlfdElxUEJZWmM5RkhWdm9VM3NNUi1pbDhiemZ3UXNOQ3ZBVU8taF9XTnBRQzUzRWRBVTFsWDJyaWJjRWpCdl9nelBXVE9EVHYzVUtzOXVFQ3JrY3lteGNFaHBQOEJn?oc=5"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "\"318개팀 경연\"...라온시큐어, ‘2026 블록체인&AI 해커톤’ 성료",
+      "d": "GDIN도 수상팀의 글로벌 진출과 해외 투자 유치, 경영 컨설팅 등 후속 사업화를 지원한다. 라온시큐어는 이번 해커톤을 통해 모바일 신분증이 공공·금융 분야의 신원확인을 넘어 의료, 복지, 콘텐츠, 관광, 디지털자산... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 21:41",
+      "link": "https://zdnet.co.kr/view/?no=20261003214039"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "한때는 100만원이었다…“10만원 충격적 추락” 몰락하던 국민 황제주 ...",
+      "d": "현재 PER은 9배 수준으로 글로벌 소프트웨어 기업 전체로 봐도 최하단의 밸류에이션”이라고 강조했다. 엔씨의 주가 폭락은 처참했다. “빠지면 무조건 사라”라는 말이 나올 정도로 한때 열풍을 몰고 왔던 국민... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 21:41",
+      "link": "https://biz.heraldcorp.com/article/10892664?ref=naver"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "인천시, 15년 투자유치 결실 하나금융타운 완성 - 일간투데이",
+      "d": "",
+      "s": "일간투데이",
+      "tm": "10.03 21:30",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NLUlUWEhzamNEM3dMZFFrZWRIQWUzX3BVLXJWQ29IR0lEMlFTUERkeHpfdE1samlLemZOM0tIeGFCRHh5bi00Sjk1UTktRHFqSmNpRDJ0N0FONVpLeEdZZEVJdmMzRDJyQzNz?oc=5"
+    },
+    {
+      "c": "IPO/투자",
+      "t": "RCM Technologies: Engineering Growth And Low Valuation Support The Buy Case (NASDAQ:RCMT) - Seeking Alpha",
+      "d": "",
+      "s": "Seeking Alpha",
+      "tm": "10.03 21:19",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcktqeDNrOUVmZmZSTWtvN3hlakFuN0pNSWhYVks3M0NYY2dfWGZUaF9tblVBd21DdjRjTFNTbkdOR2tjRGoyWloxaF9FdXdfQ0VZazJVYjR0ZEJvZTd5bk1XSlA1bkswVUJwMzVhS3BEcFRON3NyV1pfdDlpc0VwdGJLdDJKcXhmaF9ablFFS3VPWURtQVQ4b1hQdml3bVVoMVBYZE1qdEZvczRnUk01MUo0N0xfdw?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년 3차 ICT 비즈니스 파트너십(중동) 모집 안내",
+      "d": "일정: 2026-09-15 ~ 2026-10-12",
+      "s": "NIPA·사업공고",
+      "tm": "10.04 01:06",
+      "link": "https://www.nipa.kr/home/2-2/16934"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년도 한-베트남 AI 디지털 포럼 전시 및 비즈니스 매칭 부스 참가기업 모집",
+      "d": "일정: 2026-09-29 ~ 2026-10-10",
+      "s": "NIPA·사업공고",
+      "tm": "10.04 01:06",
+      "link": "https://www.nipa.kr/home/2-2/16953"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년도 고용노동부(안전보건공단) 연계 스마트 안전장비지원 품목 등록 시행계획 공고 2차",
+      "d": "일정: 2026-10-01 ~ 2026-10-30",
+      "s": "NIPA·사업공고",
+      "tm": "10.04 01:06",
+      "link": "https://www.nipa.kr/home/2-2/16952"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년 지정스포츠클럽 지정 및 갱신 공모계획 공고",
+      "d": "일정: 2026.09.30",
+      "s": "문화체육관광부·공지공고",
+      "tm": "10.04 01:06",
+      "link": "https://www.mcst.go.kr/site/s_notice/notice/noticeView.jsp?pSeq=19519"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "예술경영지원센터 2026 예술산업보증 10월(7차) 공모",
+      "d": "일정: 2026.09.30",
+      "s": "문화체육관광부·공지공고",
+      "tm": "10.04 01:06",
+      "link": "https://www.mcst.go.kr/site/s_notice/notice/noticeView.jsp?pSeq=19518"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년 누리집 이용자 만족도 설문조사 경품 당첨자 공고",
+      "d": "일정: 2026.09.30",
+      "s": "문화체육관광부·공지공고",
+      "tm": "10.04 01:06",
+      "link": "https://www.mcst.go.kr/site/s_notice/notice/noticeView.jsp?pSeq=19517"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년 문화체육관광형 예비사회적기업 지정 모집 공고",
+      "d": "일정: 2026.10.01",
+      "s": "문화체육관광부·공지공고",
+      "tm": "10.04 01:06",
+      "link": "https://www.mcst.go.kr/site/s_notice/notice/noticeView.jsp?pSeq=19521"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "‘26.4분기 외국인 관광객에 대한 숙박용역 부가세 환급 특례적용관광숙박시설 지정 공고",
+      "d": "일정: 2026.10.01",
+      "s": "문화체육관광부·공지공고",
+      "tm": "10.04 01:06",
+      "link": "https://www.mcst.go.kr/site/s_notice/notice/noticeView.jsp?pSeq=19520"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026 대한민국 관광공모전(사진) 정부시상 후보작 공개검증",
+      "d": "일정: 2026.10.02",
+      "s": "문화체육관광부·공지공고",
+      "tm": "10.04 01:06",
+      "link": "https://www.mcst.go.kr/site/s_notice/notice/noticeView.jsp?pSeq=19528"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "글로벌 K-관광개발 계획 수립 연구",
+      "d": "일정: 2026.10.06 ~ 2026.10.08",
+      "s": "문화체육관광부·입찰정보",
+      "tm": "10.04 01:06",
+      "link": "https://www.mcst.go.kr/site/s_notice/notice/bidView.jsp?pSeq=20761"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년 재외한국문화원 문화홍보관 행정직원 역량강화 교육 사업",
+      "d": "일정: 2026.10.02 ~ 2026.10.07",
+      "s": "문화체육관광부·입찰정보",
+      "tm": "10.04 01:06",
+      "link": "https://www.mcst.go.kr/site/s_notice/notice/bidView.jsp?pSeq=20795"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "국립한국문학관 전시체험 설계 및 전시장 조성 감리 용역",
+      "d": "일정: 2026.10.08 ~ 2026.10.13",
+      "s": "문화체육관광부·입찰정보",
+      "tm": "10.04 01:06",
+      "link": "https://www.mcst.go.kr/site/s_notice/notice/bidView.jsp?pSeq=20806"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년 4분기 협업기업 신청 공고",
+      "d": "일정: 2026-09-21 ~ 2026-10-06",
+      "s": "중소벤처기업부·사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071373&parentSeq=1071373"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "「2026년 스마트제조혁신 유공」 포상 후보자 모집 연장 공고",
+      "d": "일정: 2026-09-04 ~ 2026-10-02",
+      "s": "중소벤처기업부·사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071418&parentSeq=1071418"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년도 딥테크 챌린지 프로젝트(DCP 기술도전형) 제2차 기술수요조사 시행계획 공고",
+      "d": "일정: 2026-09-28 ~ 2026-11-13",
+      "s": "중소벤처기업부·사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071419&parentSeq=1071419"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "중소기업 통합관리시스템 수탁기관 모집공고",
+      "d": "일정: 2026-09-28 ~ 2026-10-19",
+      "s": "중소벤처기업부·사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071453&parentSeq=1071453"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년도 중소기업 정책자금 융자계획 변경공고",
+      "d": "일정: 2026-10-01 ~ 2026.10.01",
+      "s": "중소벤처기업부·사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071549&parentSeq=1071549"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "「민관협력 오픈이노베이션 지원」 2026년 제2차 상호 자율탐색형(바이오 분야) 참여기업 모집공고",
+      "d": "일정: 2026-10-01 ~ 2026-10-21",
+      "s": "중소벤처기업부·사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071550&parentSeq=1071550"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년 중소벤처기업부 소상공인 정책자금 융자사업 공고(변경 5차)",
+      "d": "일정: 2026.10.01",
+      "s": "중소벤처기업부·사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071565&parentSeq=1071565"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026 중소기업 CBAM 대응 인프라구축 사업 4차 모집공고",
+      "d": "일정: 2026.10.02",
+      "s": "중소벤처기업부·사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071591&parentSeq=1071591"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "(특화형, 재평가 2차) 스케일업 팁스 R&D 지원계획 공고",
+      "d": "일정: 2026.09.23 ~ 2026.10.02",
+      "s": "SMTECH·중소기업 R&D 사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.smtech.go.kr"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년도 중소벤처기업부 혁신제품 3차 규격추가 모집 안내문",
+      "d": "일정: 2026.09.22 ~ 2026.10.19",
+      "s": "SMTECH·중소기업 R&D 사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.smtech.go.kr/front/ifg/no/notice02_detail.do;jsessionid=4J5hnlxXsqPvLc6fv6ZsLRR0fDtFsaHX8RhUBWk9O7O2mN1wTaVYQwjmmfWKtlSA.smwas4_servlet_engine4?buclYy=&ancmId=S02880&buclCd=S9111&dtlAncmSn=1&schdSe=MO5005&aplySn=1&searchCondition=&searchKeyword=&pageIndex=1"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년도 제4차 중소벤처기업부 혁신제품 지정기간 연장(1차) 공고",
+      "d": "일정: 2026.09.21 ~ 2026.10.28",
+      "s": "SMTECH·중소기업 R&D 사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.smtech.go.kr/front/ifg/no/notice02_detail.do;jsessionid=4J5hnlxXsqPvLc6fv6ZsLRR0fDtFsaHX8RhUBWk9O7O2mN1wTaVYQwjmmfWKtlSA.smwas4_servlet_engine4?buclYy=&ancmId=S02878&buclCd=S9112&dtlAncmSn=1&schdSe=MO5005&aplySn=1&searchCondition=&searchKeyword=&pageIndex=1"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년도 제3차 중소벤처기업부 혁신제품 지정기간 연장(2차) 공고",
+      "d": "일정: 2026.09.21 ~ 2026.10.28",
+      "s": "SMTECH·중소기업 R&D 사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.smtech.go.kr/front/ifg/no/notice02_detail.do;jsessionid=4J5hnlxXsqPvLc6fv6ZsLRR0fDtFsaHX8RhUBWk9O7O2mN1wTaVYQwjmmfWKtlSA.smwas4_servlet_engine4?buclYy=&ancmId=S02879&buclCd=S9112&dtlAncmSn=1&schdSe=MO5005&aplySn=1&searchCondition=&searchKeyword=&pageIndex=1"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년도 제2차 한국무역보험공사 연계 수출지원프로그램 시행계획 안내",
+      "d": "일정: 2026.10.01 ~ 2026.10.29",
+      "s": "SMTECH·중소기업 R&D 사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.smtech.go.kr/front/ifg/no/notice02_detail.do;jsessionid=4J5hnlxXsqPvLc6fv6ZsLRR0fDtFsaHX8RhUBWk9O7O2mN1wTaVYQwjmmfWKtlSA.smwas4_servlet_engine4?buclYy=&ancmId=S02881&buclCd=S9121&dtlAncmSn=1&schdSe=MO5005&aplySn=1&searchCondition=&searchKeyword=&pageIndex=1"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "중소제조 특화 Multi AI Agent 개발(R&D) 점프업 Track 시행계획 공고",
+      "d": "일정: 2026.10.01 ~ 2026.10.30",
+      "s": "SMTECH·중소기업 R&D 사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.smtech.go.kr"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "(2026-DCP-61_모빌리티_딥테크 챌린지 프로젝트(DCP*))",
+      "d": "일정: 2026.09.30 ~ 2026.10.30",
+      "s": "SMTECH·중소기업 R&D 사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.smtech.go.kr"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년 중소기업 연구인력지원사업(파견) 10월 공고",
+      "d": "일정: 2026.10.01 ~ 2026.10.31",
+      "s": "SMTECH·중소기업 R&D 사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.smtech.go.kr/front/ifg/no/notice02_detail.do;jsessionid=4J5hnlxXsqPvLc6fv6ZsLRR0fDtFsaHX8RhUBWk9O7O2mN1wTaVYQwjmmfWKtlSA.smwas4_servlet_engine4?buclYy=&ancmId=S02847&buclCd=S6041&dtlAncmSn=10&schdSe=MO5005&aplySn=1&searchCondition=&searchKeyword=&pageIndex=1"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "[충북] 충주시 2026년 소상공인 택배비 지원사업 공고",
+      "d": "일정: 2026-10-12 ~ 2026-10-30",
+      "s": "기업마당·지원사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000126964"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년 중소벤처기업부 소상공인 정책자금 융자사업 5차 변경 공고",
+      "d": "일정: 2026-10-02",
+      "s": "기업마당·지원사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000126965"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년 정보통신 중소기업 발전 유공자 포상 계획 공고",
+      "d": "일정: 2026-10-01 ~ 2026-10-30",
+      "s": "기업마당·지원사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000126966"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "[서울] 2026년 행복한백화점 매장 입점모집 공고",
+      "d": "일정: 2026-10-01 ~ 2026-10-07",
+      "s": "기업마당·지원사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000126967"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "[경북] 2026년 경북형 상생기업 코리아그랜드페스타 연계 온라인 판로지원 참여기업 모집 공고",
+      "d": "일정: 2026-10-01 ~ 2026-10-11",
+      "s": "기업마당·지원사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000126968"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년 청년기업인상 포상 신청 공고",
+      "d": "일정: 2026-10-01 ~ 2026-10-26",
+      "s": "기업마당·지원사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000126969"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "산업통상부 2022년 12월 최초지정 혁신제품 지정기간 연장(2차 연장) 공고",
+      "d": "일정: 2026-10-02 ~ 2026-10-30",
+      "s": "기업마당·지원사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000126970"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "[경기] 부천시 2026년 10월 유해물질 시험분석 수수료 지원 사업 참여 기업 모집 공고",
+      "d": "일정: 2026-10-01 ~ 2026-10-31",
+      "s": "기업마당·지원사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000126971"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "[경남] 김해시ㆍ거제시 2026년 청년여성 일경험 지원사업 참여기업 모집 기간 연장 공고",
+      "d": "일정: 2026-09-29 ~ 2026-10-08",
+      "s": "기업마당·지원사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000126972"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "산업통상부 2023년 12월 최초지정 혁신제품 지정기간 연장(1차 연장) 공고",
+      "d": "일정: 2026-10-02 ~ 2026-10-30",
+      "s": "기업마당·지원사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000126973"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년 에너지특화기업 지정 신청 공고",
+      "d": "일정: 2026-10-01 ~ 2026-10-30",
+      "s": "기업마당·지원사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000126974"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년 문화체육관광형 예비사회적기업 지정 계획 공고",
+      "d": "일정: 2026-10-01 ~ 2026-10-20",
+      "s": "기업마당·지원사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000126975"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년 4극3특 전북특별자치도 과학기술혁신지원사업 연구단 모집",
+      "d": "상태: 접수중 | 기관: 과학기술정보통신부 / 연구개발특구진흥재단 | 기간: 2026.09.11 ~ 2026.10.12",
+      "s": "IRIS·범부처 사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.iris.go.kr/contents/retrieveBsnsAncmBtinSituListView.do"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년 4극3특 호남권 과학기술혁신지원사업 연구단 모집 공고",
+      "d": "상태: 접수중 | 기관: 과학기술정보통신부 / 연구개발특구진흥재단 | 기간: 2026.09.11 ~ 2026.10.12",
+      "s": "IRIS·범부처 사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.iris.go.kr/contents/retrieveBsnsAncmBtinSituListView.do"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년 4극3특 동남권 과학기술혁신지원사업 연구단 모집 공고",
+      "d": "상태: 마감예정 | 기관: 과학기술정보통신부 / 연구개발특구진흥재단 | 기간: 2026.09.11 ~ 2026.10.11",
+      "s": "IRIS·범부처 사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.iris.go.kr/contents/retrieveBsnsAncmBtinSituListView.do"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년도 AI 기반 대학 과학기술 혁신사업(자율실험실) 신규과제 공모",
+      "d": "상태: 접수중 | 기관: 과학기술정보통신부 / 한국연구재단 | 기간: 2026.10.01 ~ 2026.10.14",
+      "s": "IRIS·범부처 사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.iris.go.kr/contents/retrieveBsnsAncmBtinSituListView.do"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년 4극3특 대경권 과학기술혁신지원사업 연구단 모집 공고(서식, FAQ 추가)",
+      "d": "상태: 접수중 | 기관: 과학기술정보통신부 / 연구개발특구진흥재단 | 기간: 2026.09.14 ~ 2026.10.12",
+      "s": "IRIS·범부처 사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.iris.go.kr/contents/retrieveBsnsAncmBtinSituListView.do"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년도 제4차 첨단재생의료 임상연구 활성화 지원 사업 신규과제 공고",
+      "d": "상태: 접수중 | 기관: 보건복지부 / 한국보건산업진흥원 | 기간: 2026.09.15 ~ 2026.10.14",
+      "s": "IRIS·범부처 사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.iris.go.kr/contents/retrieveBsnsAncmBtinSituListView.do"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년도 소재부품기술개발사업(4차) 신규지원 대상과제 공고",
+      "d": "상태: 접수중 | 기관: 산업통상부 / 한국산업기술기획평가원 | 기간: 2026.09.22 ~ 2026.10.21",
+      "s": "IRIS·범부처 사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.iris.go.kr/contents/retrieveBsnsAncmBtinSituListView.do"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년 3차 전력정보화 및 정책지원사업(재생에너지분야) 신규지원 대상과제 공고",
+      "d": "상태: 접수중 | 기관: 기후에너지환경부 / 한국에너지공단 | 기간: 2026.09.29 ~ 2026.10.20",
+      "s": "IRIS·범부처 사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.iris.go.kr/contents/retrieveBsnsAncmBtinSituListView.do"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년도 제4차 과학기술분야 연구기획과제 공모",
+      "d": "상태: 접수중 | 기관: 과학기술정보통신부 / 한국연구재단 | 기간: 2026.10.01 ~ 2026.10.14",
+      "s": "IRIS·범부처 사업공고",
+      "tm": "10.04 01:05",
+      "link": "https://www.iris.go.kr/contents/retrieveBsnsAncmBtinSituListView.do"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "[수정/상시공고] 2026년 글로벌게임허브센터 신규 입주기업 추가모집(...",
+      "d": "",
+      "s": "KOCCA·지원사업공고",
+      "tm": "10.04 01:05",
+      "link": "http://www.kocca.kr/cop/pims/view.do?intcNo=326D00034004&menuNo=200828"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026 월드 웹툰 페스티벌 전시 참가자 모집공고",
+      "d": "",
+      "s": "KOCCA·지원사업공고",
+      "tm": "10.04 01:05",
+      "link": "http://www.kocca.kr/cop/pims/view.do?intcNo=326D00092012&menuNo=200828"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "[재공고]2017년 CT기술(실감문화기술) 융합 R&D 사업 - 비즈OK",
+      "d": "",
+      "s": "비즈OK",
+      "tm": "10.03 11:17",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUJOZGU1UFRhUGJ1bzExai1BZ1BoUUFpdnd6MkhZRUNDWTVFYzNuSFlzQXI3Tk5LejlHVXVhZmdnUzd2N2hHZV9FQkJWNURMUGd0NjZVY01FMzF0N2M1T0xPdFo4SmEtV1hOOFZHcEJiZ1h2QmNBR29wNmVuVFFzWU9EejB6cmZWMFZzZnNpM2VtNzVsN1RaNU9HRWtLWFRrLU9uVXZUVnhubjNYS2tCUjVlRQ?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "사업공고 - 중소벤처기업부",
+      "d": "",
+      "s": "중소벤처기업부",
+      "tm": "10.03 01:11",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMkdpTUtCLU9aOU0zTHRFanY0R1RUNlhUZERRSlU2MEJ3VzAtbXhyai1rNl9HTjZzTlM0eEVIUDNmbWtoeEl2MndValZqR0llVkl3ZTczWURpZjB2ODJaV0otei1jUkV3eFhvcy1ubnZFbFBNMl8zWEZNZDV3X1hFTm82LWZ2dkZwRHowYmpNYzFkUQ?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "초·중·고 AI의료융합인재 파이프라인 관리시스템 개발 용역 입찰 공고 - g2b.go.kr",
+      "d": "",
+      "s": "g2b.go.kr",
+      "tm": "10.02 23:34",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWnRMV1E3cWJzZW5xVEhCUHpONWc1YnZmQVY3aXpXLXhRY2RWdkI0bjFSWWQybXhISWhaWWFGdlJpWm9UeXY1ZVRuc2ZrS2sxd0J5N291alQzYWg5Si0zT01RUkk4ZXhPdnMzY096ZFZXWFNadXJ0TXNLWDNuWTZMdlJ2SWJ1QnRXMmlJcjYxQmtmM1gyMEh4TElMYTFIRnBGZmVCQmtjMkgxR3NGb1VocTFLLWlDQnRoN2JseUN3WndBTW1BWXVoR1paU0djTFNZaFJWYVdn?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "[동국대학교 캠퍼스타운센터]HAI START-UP 입주경진대회 모집공고(~1/29(목) 18:00) - | 서울캠퍼스타운",
+      "d": "",
+      "s": "| 서울캠퍼스타운",
+      "tm": "10.02 23:23",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPaVRFbU01YndGZ3VOTGlXZzJpQWN6cFNhZWhhOGduMEpCbVN2NDNoZG4tcExWcXQ1ZHV3NnRKQnBtYkFDanlyQmxNT0YyMG9sVTBGUzg4emRhbm4zclZHNHVmcUpBWGtINms0Rzl0S2ItSTBaZS1UU2xQVS1WZkdOellQaENmWlNTeEdfRW1GS1dXV0pUWjdKbkdCTEo1TUFvUF9tSDRnVGxFV2E5dk04eW9ZcnR6ZUtrWnY3SGRBZ2E4OHg2dmRWS20yWGktLVB3MTJWYlVSZHo1eldBWDRzR00wLW13VDYzRWt0dER0dGZNRHlneXF4UTZFTW53OUY3Z01NdXFIU25naHR4dTlGMDBwRWljMXU0bjQtTjFIU3ppb082QlJOUUJTRDJyUkpWbHA1QWUxWFhicFZfdHp1T0Z1RDJBNjllMGhxYTdGaTJ3N2c?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "협상에 의한 계약 입찰 공고 - g2b.go.kr",
+      "d": "",
+      "s": "g2b.go.kr",
+      "tm": "10.02 21:26",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNakZxMG13eFduTUZrTnZ5dlBMb2Q0bFdWYmdXOW5NNndVY3dPejVQUEp2TlVGcnVmRUxmVUhvREJzbGtwUmtMWi1xRHZxVVRydV81VndrX0ZKLVp4YXBlcTdMdjN3Mlo0U19UN2QzUHVDVGhFTkUwMXV5UDJfcHRSdjZ6T1hZTnBZa3JIWVFsaVBkVUt3X0t1Z3VqRnp2dFpIR3VUSDZLandOWUJTeS03dWo1UWZERG12aXNUZlpqNGZrVDZ5d1N0YU1QblBCcWFndUoxNGJ3?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026년 중소기업 스마트서비스 지원사업(A/S지원) 참여기업 모집 공고 - 기업마당",
+      "d": "",
+      "s": "기업마당",
+      "tm": "10.02 19:33",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY1RsWHRuYmRjUDVyNVFtcTVKdFkxVWxaYmlNSHlSQTNkYmowWUdrcDFWRlZsS0k0OU9mbTdJVUdUa0tVUlAzWTNWbEVfVjJMbV96akZhQzUyLW1HTUs3NXBlOHV2QjFBbzJ5T1B4ejNORzRZUTdrMVZtMTRFb0N6RzEwVGREM0JNRGE0?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "- 청석창업지원센터 입주기업 모집 공고 - - | 서울캠퍼스타운",
+      "d": "",
+      "s": "| 서울캠퍼스타운",
+      "tm": "10.02 18:48",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZHhNclpWU0JZdzNKUm56a281MW5MZDQ0SlhLbEFkRUJ4OVp1QzlkWXFSU01tVV9NU2pnNUY5MUJrYlVZOTFKUmFGd2VUYXFGTGp5ZE5tSGtyeGV5ZmtPaHdwNDdGWHozZm5DRzBrWmd2ZHluRHJwZ0I1NlA4VE8zOURWZUR0ZVdxMERsU3NYaVJ6TkNt?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "[경북] 경주시 2026년 외국인유학생 산업캠퍼스 실습인턴제 참여기업 모집 공고 - 기업마당",
+      "d": "",
+      "s": "기업마당",
+      "tm": "10.02 18:26",
+      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOamRqS21HV2Y3LXVLakJDU3QxWktaQW1vc0p3am1BLU5yb21lRXVRc0NmTnlUQ1FVMXFHdDRYM3ljYVBSYVhzT21oSTAxVWlPM3VfYlZjaWFnYzVtRU5EMDhmV1YtMW5wUFZVU3VkM0Z5TkJhRUZEZmUyQ3huanRwNXpjRGhCVGZkVFBOZE5Ua2tPT2F4SlgzNC05Mlhyam5nMEJMdWhmcUl0MDA4NnoyMUdZQ3lyYm1RQm5oazJ0M2ZwM1dQaUR4NjhlYlp5WTVVdlkwSnROS0tzMHpyYzROV2lPa3daSU9wUUU5WFJyelctOWFkTDVWYVdGS1ZYaWpoLVJ5M01lU1V3T3JDUTM2V1hHbmxrQ2xnaWxDdS1yZDJuNFBhbUFEY0t3SWkzTzJ6MEFRY05NblhLMEJZeVY4OHUwdU9ESTE5cWNjWUlNejNBVXZNLTgwQ1plZzFXMXlCVmFJQXVKUjlyUm1Idkt6Unc4Uzg?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "「세종대 캠퍼스타운 창업경진대회」 모집 공고 - | 서울캠퍼스타운",
+      "d": "",
+      "s": "| 서울캠퍼스타운",
+      "tm": "10.02 17:40",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOYml3RWNwT09BZlhmRDV3TGRjQjVFTHdVVnRDeDNwTlZ0NkdkWTdzOHRvV25wSTNaYVJ6U2xBa0ZWN3R2WEFjTVczSmkzRTZJSEdHY3J5YXUxZE5Ec3JYRVYyZWwyeFdOYnZyWXdaeno3NTVPcFJ6UXJFNXNKNmJqaDNvb0VKZkpFd3ZkRHEyc1BwVExuLWdCMklTSUQ3REhTQXZuRHJmMlZodkRkUXpJc2lSdkxDaWZUYTJiOFJ1ZElZR3hUcHNkY1NpdUtWSUxiZzJDM0xSdUcwSHJvZHlkWWlYSWZ6RV9lT3ZVUzFMX0NFaWJNbVU2UjVKQWNKOWdPRmFIbGxYZmR3ZEJ4YjlTVDl3WnRHUnJpQ1N1ZndXV0pZbjJpNTBtSEItRDFEMUtsYzVF?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "[세종대학교 캠퍼스타운] 2025 창업경진대회 입주기업 추가모집 공고(4.13.(일) 자정 마감) - | 서울캠퍼스타운",
+      "d": "",
+      "s": "| 서울캠퍼스타운",
+      "tm": "10.02 13:43",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNOEhncTZvMkg0RVNfdEpGa1RtR3BDelRFRF9tN0FHcmd5TkN3cFJfRmZrZFJLSFNTY2pndVAwRnhJRElabEdvMGRYd3pjdTlXLWVZbDF5SExiODNYaDBCOVdueVR4dGtkQjhNYlVMcnZ2VDN0VnJwVGZwRV9vdHhDdnl3c3cwMnNfZ256UVZMclktSU8xOVlIcDlJOGZreXVxbDJnMjNFRUs0SXg4U3JOZ2Nzd28wMGIzNkZ3eFBlZzUxc3hMalV3QVBxRUtLblUxSW8xRDF0cFJiTHJEZWtvNl9FODJhQU9nOVF0Nzdod3dmd0FfTEdLaTRLb0hTWWZtS3JRLVdJU0xwUmEtMDRnOWZ0ZXRaN3B6bWFNRFVZQmptVkxpWEZQX1NaOGxBYnNheEV3?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "[경기] 성남시 2026년 Physical AI 기반 의료로봇 해외 바이어 발굴 현지지원 참가기업 모집 공고 - 기업마당",
+      "d": "",
+      "s": "기업마당",
+      "tm": "10.02 11:02",
+      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNMjVDQzFTU0FzUGFQSU9Sa1pDR1BwYU5tbng4b2JLZE5MX21IUFFxZWhYb1k2SVNYNjA5MjdSRjhhRmxfckFDYzM0QlAtQW1NV0pyWW1vaVV4ZTNZUVNLRmVYZVB3bk92QmVyVnk3aURtMnY0X3FXYy1VWExwbUNTTFNvOVRPQXVIWFpaV0podnhsZldmVUszd01OaF9MVW5QeHExSTNadVNuVzQwN3BSYlZDS0czRXpyMk1xeU1xdnV2SUVpaWgwTUNSU09nQzJ5SERReWdUVDNKMVpHU2xsZGpZS1duRk9zU1dNZG9NSV9DSjhtMW5hN3VqOWktU3Q3eGlSZFhDa0djZGQySEtzUHpEUExZZzBaMHZKRWswVVpZWUpEZVBFb1I4YXBuYlJVS2Z2STlnS0lXRGRuTWtRZURVZWNmOWNmQUZvZlB4WlRHY2xCazhOODZsUmd3OHY0Ml9YVHJWODl1S1g4MThnd01waEx6VktnMXhGbko1YVZfVVRhakU3ZGZn?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "캠타프로그램 | 알림마당 | [세종대 캠퍼스타운] 입주공모전 모집 공고 | 캠타프로그램 - | 서울캠퍼스타운",
+      "d": "",
+      "s": "| 서울캠퍼스타운",
+      "tm": "10.02 08:26",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNMmZScXhRMkR4ZjBUbFpST29IanpIaE9rVGVaS29XeHpiSXdDdGtLaURRQjJHNUkzd0NLRTlEN3JqYmpqcHdlZDZOZjhRWlFRY2N6RWNLRlpqZ2ZPX0Z5Smw1YUh0QTdPWUpQRS1JRmlBdXJ5WlVaYnZscWtDZ21zckVmRkg4OUZ6TWhhaWNfVFFJOV91RXJKY2dDSm03Z3NXaXFLaW02UXg3MldJNHdQVFFGaXhBZE1IR1ZWX1d2YjZOc24yQ1lqeHNzV21hNncxYXg5dVNKTDc0SC1ZMzFpdzdES0trbmo4OHIyT21fNVBscXFRT1VTZVVjeTN2blpjbUFJV290NlJ2bEhFdVRlbFVsU0lpV3FIN2VJRTFnWVV1VGwxN0JiazR1QkFCamVKc2Fadkp2YTFFUUI2eVlIRklCdkE?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "국립순천대학교 생성형 고도화 구축 용역 재공고 AI LLM ( ) 국립순천대학교 산학협력단회계 계약 - g2b.go.kr",
+      "d": "",
+      "s": "g2b.go.kr",
+      "tm": "10.02 07:28",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVjFpZXcweW9WbHk5UGVPdi1ZUG1BeXFRdEVQQUFpSWZNWmlFUE4zUEpnOEJtR2pJWnFXSmZ4MnRjZ1FqREVpcFktMVAyT3dxZnk1cVcweGd2X0Q0ZjJucmp0ZFBBVDRLejFISmVyQnhWck5FYnZEaXFxTnd2UmlRYWVfUnFiVjJTTDdGSUw3RGlzSnh1T1J6dTlZWTI0SDhVYUhaVW9sZTRFRmc2Y3hXbU56a08yX0RoZDJsWVhKYTNMZWIxbkpDN3h6X0lhOGRNTTkzR01n?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "해커톤 대행업체 입찰 제안요청서 수정본_260806.hwp - g2b.go.kr",
+      "d": "",
+      "s": "g2b.go.kr",
+      "tm": "10.02 06:03",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTnFHXzkwUEtZVEh3OVZmUGUtT2dvQmNaeXNKUU1BV2hrREFCRFhBR0xuZXM3WjU0RkdCM1ZkeUNHOFcxdjlmT3N3UlI5Sll3d3JFdHJKdGNuVTUzWmNicUEwTzRuWTc3cG1WMWN6elNzbDBUZGRIVmh1SnpNa2hXeXJSTnlIR2M3Vk9LUTRmZkoyNm1PbEVQM0N3aGlvR3dTZExaVXItWW45Z0h5YlZJQzhNUnpHY3F0WXBFbGtjT0dDQjV0bFNxV2ZBaVZiQkVpU21peW5B?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "지원사업공고 상세 - kocca.kr",
+      "d": "",
+      "s": "kocca.kr",
+      "tm": "10.02 04:17",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBKOFA0ZVhQM1dFUG4tOHdMMnY0eVNzYzZuZHljMmNwUTlYUzNDa05DMGFDdFp0RU43akxBTWhqZi0wOUt6SEdnZEln?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "과학기술정보통신부 공고 제 2026-0654 호 - 과학기술정보통신부",
+      "d": "",
+      "s": "과학기술정보통신부",
+      "tm": "10.01 23:32",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbmh0UWFiSkFkN0MzOUsta3RmU0J5ekh6ZlRFZ2s4WVJ4M1VTZ2toYjhHeGlxTWFUY2dOckFLX0F1SkVXc1IxMzJNYUNiZGJOLXhtOWZKYkEyTmdGVldYd1h0NFdnaHdkWUhCT241b2VoX0JMcW9hM3ZrMlJCNWVYOW1sQVR1b3UxR0hvLU5aX3BBeU9RSE1oWlZDejNSRV84U1BfUm5jUDdaR1RNRXNDX2J3aGRSUVl2TmZnamRLU2hISnhmdTRn?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "참여기업 모집 공고 안내서 - 부산시청",
+      "d": "",
+      "s": "부산시청",
+      "tm": "10.01 18:44",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTFJOWXVFOTRwb3FqbHdFb2cxLTltSkdwZDA3ejFyM1NsV3RqOXZpa1I5UUtMelc1T3ZtZmota0JDOUphOHUxaHBpbTBBaXlMS3dNMlhmNEktZ3QtUmI5X3Zzd25vOHFORWZXa0tVWkJDbnZiMjZQZ2ZfVEIxSDNnNDdESmE5YU9rX0JEQVM0YlZ3elE?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "공지사항 - 「1만원 임대료 빈 점포 다시채움 프로젝트」 임차인 모집 공고 : 부산광역시 부산소방학교 - 부산소방재난본부",
+      "d": "",
+      "s": "부산소방재난본부",
+      "tm": "10.01 16:41",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd1FOQWJYcDBEak40NUdYU0hTZkZCdWlxR3ZLbWdjb2RnWnlHcnRCMklIaFNMNHFDQUpEU1E0Y2hHX2R0RTF2MnV0S085MUZvU1lUU1VQNzVwNHI1cE1kaWdpQldOZHRUMkdjTV9mNE1qMFBCbmlNT2U2WDRUSWQ0bGNEbTZzSXlDaUlsU0xEZVgxdWZWNFlJYkhHMHhOWkhZSEJoY2VhSkJRTTVIeWlDSWNFZTBacVE2Y3BoMk13?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "[모집] 2026 이화여대 캠퍼스타운 스테이션 이화 배치 프로그램 참가자 모집 공고(~1.12. 15시까지) - | 서울캠퍼스타운",
+      "d": "",
+      "s": "| 서울캠퍼스타운",
+      "tm": "10.01 13:37",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOc29Eb0hpVFd4WlA4eWFnVUlBZlp0S1RDSWtJWnpZU0dkVC0taDd5NFpxM3NBZE5nU0lmSmlKTGdudFJLVnNtZ0RtLVlhVXVKYWhyQldqd0YtYnB6ZDVPUzNaWGtQQjVoWU1BRS1hN1ZpVlQ3M2RXdkhDY3FXazJLYmRHaGZaUXZJbXlHZW4zd1IzZWVTQnZOUU9nZG42cU5PODNNUVdxV2JBc2RiWjB3eDhpVWx1eEE4aG1TMzIzbk5kclBRcThGR1dDeVVRRE1fb25mR09uLXRhMVp1di1VaGNQYnNGMExvbjk0VUZBcjBxQVBpUUFiOV9VeHhlSlhTYUwtdlFKQ0ZGcERndUtqQUh1aGxzdG9ncTdsSlNGSmFDY3EyOTNIQjBpMHl4NDI2RHlv?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "알림 - 입찰정보 - 국립국악원 강원분원 건립사업 설계용역 - 문화체육관광부 누리집",
+      "d": "",
+      "s": "문화체육관광부 누리집",
+      "tm": "10.01 12:03",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnUXZXUXBvdmgzS1pCbzR3NzJOMWJCbXlKLVZyXzVINlRGbDBLNkFqQmJVSmg5X1BhUDhFd0llSktvZTh0cExuU215V1ZTZ255SzJqTDlYRDJNQnI4Ul9SYk85dzd4TEVNOUZDUUJMUG4wYl9s?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "한국국제협력단 제안요청서 - g2b.go.kr",
+      "d": "",
+      "s": "g2b.go.kr",
+      "tm": "10.01 11:37",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdTVZRXJWdHg4NFA4bl9LNUFSR3hrckpLdXB2eXI1WWlJWVd5NXZXaWtYR3JobEljb1RYeWlsMDc3VlpmYzR2cEdGeDJMQ1E3RWJJa2tIRlp3WE9rb2VMaHpLRFRUUG5NaXZuelE4b1FOZDVkdXFCNW90REpEWWl4N1pCTWJTdDhDekZId18wS1RNVVNYNzhZN2cyYTJJZzBtMzZjTHBVdm5VbWwzS3c2OHlIYm1zdWRuV0MwRlZJX1UtMDdxZjhwTFFOVzVNeVNiU01oX2Fn?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026 경상북도교육청 발명인공지능&메이커한마당 운영 소액수의 견적제출 안내 공고 - g2b.go.kr",
+      "d": "",
+      "s": "g2b.go.kr",
+      "tm": "10.01 11:23",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRFhOU0VfQS1fMmFGS0VkcC1sMTVwM2Q5eGNvTDBmVzVvVEV6WHYtbk1oZmdOU09ZcVAzV3EwdHoxMkhQZUdRQmIxZDMteHJRR2FkLUt2cnJLNFJRZjBRbU5kUnhXWGFWazlwMlhrblg4bHIwNDNrQy1rVm9WVV9SYzlqdldZM1V5YVdCUlVWb25qN2VyaDFrM2l6LTczZl9yVFp4TktZOW1pWlkzMzFVUVlnLUtqMk40d3Q3aU9WWTI1emp4SGZVWWpzZkNGYzV6b2l6VElB?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "사업공고 | 상세화면 - 과학기술정보통신부",
+      "d": "",
+      "s": "과학기술정보통신부",
+      "tm": "10.01 10:13",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSmczT0RsZUpmOFd0Z0RZSkZHY01vUHVKcDIxeEVRaDlzV1YxbURGbDdlYkU1bVZBZVlQTzQ4UXZPcnFDc1RJZ0R6TWZHY2s1UzhBeHkzcXpMMHg0NHF0VkZ0cTJTR2VCWm5tRlBIZW8tLThvck1jWE9LZmhqa0Q4c0pRQW1TQ0JCZXJjM2hXUnE1UGc3aGRRckJnWlEwV0FrS1FNWHRn?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "「2022 청년도전 지원사업」 모니터링단 모집 - 인천유스톡톡 인천청년포털",
+      "d": "",
+      "s": "인천유스톡톡 인천청년포털",
+      "tm": "10.01 07:58",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS2pxcWhfX3lOTGE3WDVxMFJZU0IyUDJ4emlfTkdHcUE2TEtBTHo1MjI5NTNmR2pUamRxVnJaYXQybWs2WkVZdnNscEJ1TkVqRDZhb3VFcFhpV3ZLUVQ0aTNHUGl4MDFnNG53eTRuT1haVGJmVnJTcDl3SHNUWHdzMGlsTTBwcjNhd1pMdmEwQ1ljZjJGNVhFczJOY1VZekhBdlpSbkVFRlBjUWhfQmc?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2026 년 디지털콘텐츠 허브활성화 사업수행기관 모집 공고 - 정보통신산업진흥원",
+      "d": "",
+      "s": "정보통신산업진흥원",
+      "tm": "10.01 07:55",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeUZBLVppd0RQN29RNUc5TE5BSDZUdUZlVm50eTNTdm52UlJvSUlGaWpOcEZTOUNGWi1ubm8xQXpaZ3FNT2JsWVJpanFwSEd4V3RqeVd6aXd6clVzN2phdU9YaGtNQml3Z0xhTzNiVEc2amJFeVR2T2VlOVN6LXBjOW5jLWs1dEx3N2tXRGFB?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "[인천테크노파크] 2021 비대면 스타트업 육성사업 창업기업 모집공고(중기부 사업) - 비즈OK",
+      "d": "",
+      "s": "비즈OK",
+      "tm": "10.01 04:41",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTNRd0ZmVDRmLXVTNGJSaGRZQ0Z4eHVPN2xZU3ZEb1NoN2ZadzhYN29VNG5ab1pDekp3NE1BQ0NYdmR1YlA0WlZQRVZ5eG4xLTdyU0FlVDZFOW5SZXlFbXBKZ0FaaGs3enl4UTd1RHNLRTNwUXUtOUl2TkpIdVdkRXA1YmlUTXZnUGhmd3M0U1BZZ2hCOGFv?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2013년도 지역 노사민정 협력 활성화 지원사업 신청 공고 - 대전광역시청",
+      "d": "",
+      "s": "대전광역시청",
+      "tm": "10.01 04:32",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNV9ucjFNMDhEdXdZMkpoOWFaNzhQZ2U2TkxPcnRLdUdlSjFpcG0zYjk4VUZOTG1oSFA2dzFJNnJTRDd0alFXQzZRbVJqNWF5ZUJwdnNkN2Q5djN2OHF1TFJKeXpjNVVwX0huMk9rVnZjcWlnbG0xNVBzRXJSNjZSSHEtZ2lpMW9fcGplRkNmTzh4N2NfeVBOXzIwWktrY0tXWXA1SWhoMWFuOWhCMDV4WEx6ckhWZ0pSclF0VU9aSQ?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "2014년 공공산림가꾸기사업 참여자 모집공고 - 대전광역시청",
+      "d": "",
+      "s": "대전광역시청",
+      "tm": "10.01 04:09",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYUVQMjhWSU95aXZRTDNLcG4xUml2a01BZkxQellwa1VOcUtrNVJhWUplekRsR09uM2pRUUdpVVREMEZRSW5FN2pZSDlrMERXREgxNVVRc0t6YkJmeGJ6UHhRb0xpNTgydGphWDVPbnZtbEZOODNFTVN6VlpzRDdKWXA3VUpJdWxFMTZPVlN5UzZHbC03VGtCQ1hqTTZ6N0t4dlhfS3gtcm05WDNCUlNOR21VQmtfTkNf?oc=5"
+    },
+    {
+      "c": "정책자금/지원사업",
+      "t": "제안요청서(RFP) - g2b.go.kr",
+      "d": "",
+      "s": "g2b.go.kr",
+      "tm": "10.01 03:50",
+      "link": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxQdEp1UlVwUVp3YXRNdTc5TTBYQzZCbDczNi1hU2RIcEpHT2ZVYWF5cWZjTl80SFM0Z0pQRGw5ZkZIUE5Pc3Bic1FaNXZZdVpCUGd2UERkVjg5R3c3a0dQVFlWMEZ0WmVIU2VRTFBOWjJDTWc1aDBMUWhEbjJUMEhvQUlmOGdndFJ0VGhYMklQdXVLVmo5ekduUUFHZXRhSXVuS24wWXZuLUh1MjdxY0dKTTZ0anJFQVkxeXJpa1ptVXREM19QUmxqZGlhWDJRSDlFQnN0Qmo3cHo5XzJXaTJ6RWJHcUV3R0RaaU9KWXlsR1MyWHRPRG5xQzhweXFDUlYweDdUOEdFeHVjQTAwU0I1Y2ZpYUJ5VTdXeWJaVVplN1FaYnZ5elNjRVNneVhjNS02RDgwWlJ2VTVIS3lxOENLZXh3TGJiNHVDVlg2OE1LdExpZFppZFVuQjBFaUlFeG9EbFFtbFlJNFNBTEVPaW1mSEtFcHRVYkdQSl8xZDZpTDg1TWhVeG5yT2pHSzhpQmZIRG51RlpFaFNXd1ZvN0lrODRCYXBvYTYwUklSYnJPMkxnQmpIeE9SNVJiYlp3SUVKM2FBRjdTSFVLVnRlN3ZKWXNlREJyUEpRSDczZGJzbkhVTVNaWmRkUFdqdWVsOGFNOEJ1RmxQRGxvcnNpeGc0MVBLSk8taVNTanRKZXdyTzZMZXJmVEQwZE5ldlczNHBhY2x3MHJqZGcwZndvYVMyWkxkcVRCaE9hSFBPNjhJcDNGVnd1a3l1Z1l5R1pucVAxNVFCcktjU1pBczVkakdYWk9hc2c5NDVqRXdz?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "[투데이 시그널] AI가 행동하기 시작했다 엔비디아, 통제 벗어난 에이전...",
+      "d": "엔비디아의 AI 에이전트 보안 플랫폼 '오픈셸(OpenShell)'. AI 에이전트를 격리된 환경에서 실행하고 데이터와 네트워크, 외부 서비스에 대한 접근 권한을 정책에 따라 통제한다. / 이미지=엔비디아 엔비디아(NVIDIA)가 AI... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:46",
+      "link": "https://www.koreaittimes.com/news/articleView.html?idxno=157798"
+    },
+    {
+      "c": "AI/기술",
+      "t": "애플, 맥 개인정보 접근 문턱 높인다…AI 에이전트 위험 경고",
+      "d": "애플이 인공지능(AI) 에이전트의 개인정보 접근 위험에 대응해 맥 컴퓨터의 보안 통제를 강화한다. 앱에 광범위한 권한을 줄 때 이용자가 위험을 이해하고 명확히 승인하도록 하겠다는 것이다. 2일(현지시간) 애플 전문 매체... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:44",
+      "link": "https://www.newsis.com/view/NISX20261004_0003813754"
+    },
+    {
+      "c": "AI/기술",
+      "t": "The world is spending trillions of dollars on AI. Will it pay off? - Reuters",
+      "d": "",
+      "s": "Reuters",
+      "tm": "10.04 00:43",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLbjY0dXJianVlSUVacHgwLXpydWdhWms1RG9jMDE5YUk5dkxZMWlXc0wxcEUtLW03Qk1TSHpMX01lMlFoX1gtbE42dkhFNU5rX242UHF1dEtFNWVMZVJyTWt0aU11SjQ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "천재 신화와 국뽕과학을 넘어서…과학적 사고가 중요",
+      "d": "더구나 AI의 활용이 일반화된 오늘날, 전문가가 아닌 대중들도 상당한 수준과 적지 않은 내용의 과학 지식들을 단 몇 분 내에 용이하게 취득할 수도 있다. 몇 년 전 우리나라 연구진이 세계 최초로 상온상압의 초전도체를... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:42",
+      "link": "https://www.newsverse.kr/news/articleView.html?idxno=11582"
+    },
+    {
+      "c": "AI/기술",
+      "t": "국가자연유산 '명승' 전등사에서 만끽하는 가을의 향연",
+      "d": "피지컬 AI 로봇인 '아이엘봇' 2대가 무대에 올라 뉴진스와 에이티즈 등 아이돌그룹의 인기곡에 맞춰 댄스 퍼포먼스를 보여줬다. 최첨단 기술과 전통문화가 어우러진 색다른 공연에 관람객은 우레와 같은 박수로 환영을... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:42",
+      "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442832"
+    },
+    {
+      "c": "AI/기술",
+      "t": "인천공항 다시 북적…연차 3일 붙이면 최대 9일 해외여행",
+      "d": "[본 기사는 공개된 자료와 현장 취재 내용을 토대로 재구성했으며, 일부 문장 정리와 표현 과정에 AI의 조력이 활용됐다. 공항 운영 상황과 교통·주차 정보 등은 시점에 따라 달라질 수 있어 실제 이용 전 관련 기관의 최신... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:40",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=612236"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Springer Journal Retracts AI Review After Undeclared Generative AI Use - Bioengineer.org",
+      "d": "",
+      "s": "Bioengineer.org",
+      "tm": "10.04 00:39",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQjgzSDhUREQ5ejJqMXplWU1GWC1RdUw2eFVzdzZ4UE03bUVQazhCSkFhajZfc1FZbm5KQmJQUW9Zc0tlamVqQzg5OFlocUFtLURZOHZTNjZsTTNSWW9lTEJMYUVmOTc0alVpVFM0Vl9TN25WTUhhdDBSVEpfdzB4TFhmbjZCYVhYVUl0X3NwanlhbEFRRkRvSVJMTQ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "해군사관학교는 \"대중을 위한 디지털 문해력\"을 증진하고 학습에 인공지능을 적용하고 있습니다. - Vietnam.vn",
+      "d": "",
+      "s": "Vietnam.vn",
+      "tm": "10.04 00:38",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV0hicGplVVVFVkVEMFZNXzFnak9Td09DRDhIeU5XS19XakZZSm9MUG0tbkNUU290d3lqWklIeWYwLU52MDVQdjNYSTBiNXdUWGNYZUZUZTFPVFhwYjJjNm96ZThJVnMxMzlkVjc1N0hMd2VOWExlNFJROGE2VFJCMkw1Y0hNOUlFUC1DdmdWdndtUEMwc0IyUURaV01YMUFpTnc?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "How Dallas AI Lab Launch At Kyndryl Holdings (KD) Has Changed Its Investment Story - simplywall.st",
+      "d": "",
+      "s": "simplywall.st",
+      "tm": "10.04 00:36",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdkF6VHFDVzZxajAzWlNkOV93OEU0TE10cldjZnBFRDNwZ1l6cXlaWV9jNGkwbzF4VVhhYVlMVzNHeVNZczBBLXpkbjlSaE1Jb0hBX3Q4bDJnU29tWDJWRU9EZVM3N0JublVMV2R5eXU2ZVRGZm43SHQwRnlMTmw4QXF1RmlmSFkycnhSdHF3VFhHeWE0V2h1VFQ5RjVLRGtuSEpVSVR6dVJidVY4UklHTV91NjJfYjlyYUI2bjFISzZtaXlSdFFVNmhR0gHPAUFVX3lxTE1xN0FHdDZGblFOakc5V0lTWGdiR3JtSWRCb1VaMjM5Y0JlR24xNUJ5bEY0akx3QjBiNlpPN2lVRTBVNkZkSE02WkpfQjAyQ0ZPaHY4cmhycU52aW53SWtfWlI4bXdFQUEyMy1adnItQ2VtWUpXZ3pGRlUzZl83dDUwdERKc3JVVjNlNGVuTGxic2h0NWRMQW1IblNibDl4RXcwZ3dWc3lsZFJVODFfWU05bVhZeW56UGxkS2pQNGVJMEcxWk5fdXVjR0otcjlMWQ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Customer Value Matters More Than AI Hype. Investors Explain Why - inc.com",
+      "d": "",
+      "s": "inc.com",
+      "tm": "10.04 00:33",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUldHajRUYXgxTWt5ZjlkQjJ0SnFjak43M3o2emtiTTRGWXhhVWQtY185NVhSUzhyakVYT1JOUjEyU3AxZjdxeDhFVmxlRUcwaV9Md2pvOWd4anJUNllzZ1hITi1vNGRFSVBkdTYwUFc1d2ZqT1hValhUbXlacE9SUzdkNmVkRGt6NUdoYUt2a0xpOWM5Rm5ZY1FIZW5NMTJFU0xZ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Meta’s AI Can Ban Accounts. Here’s What Businesses Need to Know About the Human Backstop - inc.com",
+      "d": "",
+      "s": "inc.com",
+      "tm": "10.04 00:33",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQW5KLVA3RWsweU9SMFItUGVWTXRnWUZHMWl3bzBlQjN5WFN3bnloUGYweXhxZ0RpdTJIYXF0OG9TY25BUmJWWEoyVENLSXlMcU80MlFYcU1Db3Y0dXpYakJ6T3NlSUdXamhnMHVYR0NzVUVWUU82TjNzeV83U2EtemhQSF9DNkU3SHFPVVFKRkdNUktydkZRRklteDRiZ0NuTlpVQTdEYmd0QWFLWUd1RHhsV21FYzJHM0FtWjBGa2tFbnZXX1VN?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Private Credit And Equity Face Warnings On AI Lending Concentration - Forbes",
+      "d": "",
+      "s": "Forbes",
+      "tm": "10.04 00:29",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWFZQQTU4ZFFBNVpOcUZYcEZQUE5KdU82ek50TW9DUWw4bWExZm1XUC1KZkJ5NEY2UWFBbmhiUzZYUVBrWUhfYW9jTFE3ZTlVUzRKSlJ0TTBDN1o1b3FaRHVPMm1md1VUQnpFZkVkc1FlcWVMc29WT2hJSDd1MmpZUW1BNFdIcS1mQUllQjBic2tlcE9rUVJJQXFYRzF6MjRMZ01wUktCOHo1SVc5b3RPSDlFUDJrb01ieU5ndjR3MmJFYkFhR1lzUlpaanhhQQ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "[이병태의 혁신 웨이브 &lt;6&gt;] 챗GPT 3년, 새로운 AI 시대에 대한 기대와 ...",
+      "d": "AI 에이전트에 의한 전면 자동화도 예상보다 훨씬 느리다. 이미 자동화된 프로세스를 이종(異種) 에이전트 결합으로 대체할 때 얻는 새로운 가치는 불분명한 반면, 결합이 만드는 복잡성과 장애 전파 위험은 명확하다.... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:24",
+      "link": "https://economychosun.com/site/data/html_dir/2026/09/19/2026091900026.html"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Google Labs relaunches CC as an AI agent for families and households - app.dealroom.co",
+      "d": "",
+      "s": "app.dealroom.co",
+      "tm": "10.04 00:23",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb1ByRHYwcTF0Sm5fUXNOTV83d3NaN2U0cWw0UnRTalNsVW1xQlIwV2wzRl95ZGg1a2JsVTQ4Z3VjVGJKYVo2NTBqUS1oMFRuclRSNTU2U1VFTTBlemdsSVBoZzZ0NFdGb3RjMTYwazU5eU93d2tKNFFoU2ZERko2Rjg4SWZMZldNRF9NMDI2X1lSVEhnMkpKZV9naUxOMHdsY3NKWA?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "AI Could Turn U.S. Media And Entertainment Into A $48 Billion Market - That Eric Alper",
+      "d": "",
+      "s": "That Eric Alper",
+      "tm": "10.04 00:22",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb1RVbWFyd3lPQVhYLW1RTllWVTR2Uk5CdERmbFBBNnhURHF2X2RrRmFKV3d1SHhqLXZ3c0NnX0Q1d3AySXYwd1BhODFUVVB0ZG5OcklldEswVjJGYkpFQWJfRTRTRXpUYkFjbmppU0NYcG95UlJHbXI0bHFOVDFSNF9lelZrV1czNUQ3S2tIM1AwRlQ5aUs5SUc0a2NkZnpmVG9pWURZcnBHVTFZ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "삼전 실적과 고금리의 줄다리기…코스피 6500~7500 [주간 증시 전망]",
+      "d": "강진혁 신한투자증권 선임연구원은 \"15조원 규모의 삼성전자 자사주 매입 종료가 임박했다\"며 \"안전망 약화에 실적과 인공지능(AI) 사이클로 상승 동력을 확보할 필요가 있다\"고 말했다. 특히 \"삼성전자의 분기 이익... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:11",
+      "link": "https://www.dailian.co.kr/news/view/1697533/?sc=Naver"
+    },
+    {
+      "c": "AI/기술",
+      "t": "\"천재야 천재!\" 초대박, 류현진 살렸던 '슈퍼 닥터' 신기술이 없었더라...",
+      "d": "스쿠발과 스넬의 에이전트인 스캇 보라스에 따르면 스넬의 경우 기존 관절경 수술을 받았다면 6개월 동안 경기에 나서지 못할 수 있었다. 팔꿈치 내부에 떠다니는 유리체가 여러 개 있었을 뿐만 아니라 깎아내야 할... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:11",
+      "link": "http://www.osen.co.kr/article/G1112887134"
+    },
+    {
+      "c": "AI/기술",
+      "t": "이종하 계명대 교수 등 3명 연구성과 두각, 과학기술우수논문상 동시 수...",
+      "d": "연구는 고령층과 청년층의 모바일 서비스 사용성을 비교하고, 음성 안내와 도움말을 결합한 멀티모달 인터페이스의 효과를 실증적으로 검증했다. 통계학과 김무섭 교수는 ‘강건한 다변량 회귀모형... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:11",
+      "link": "https://biz.heraldcorp.com/article/10892732?ref=naver"
+    },
+    {
+      "c": "AI/기술",
+      "t": "삼성전자 3분기 영업익 108조 전망…HBM이 실적 끌어올린다",
+      "d": "HBM은 인공지능용 데이터센터 투자 확대와 함께 수요가 커지고 있는 고대역폭 메모리다. 인공지능 연산에 필요한 고성능 반도체 수요가 증가하면서 HBM의 중요성도 높아지고 있다. 삼성전자 역시 HBM 출하 확대를 통해... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:10",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492475"
+    },
+    {
+      "c": "AI/기술",
+      "t": "AI Just Changed What ‘Productive’ Means - inc.com",
+      "d": "",
+      "s": "inc.com",
+      "tm": "10.04 00:07",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZC1ubkZQUEVRZVhiU2tibTg5ZlVHdXJZQ3RmcUlEclgwSVFvNTg5R2dybDhtVmFIcnZySHZaelV1ZVNZeGRwbmtRQzU0OU9ES3hzcEZTYTVLcVh2bTBGVzNTbEtLdVRjSGtNNm9wMXVPVGdVR0tPbnVhSmtXaXhaN2FpYmQ0SUpD?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "AI Leaders Are Asking to Be Regulated. This Is Nothing New.: News Article - Independent Institute",
+      "d": "",
+      "s": "Independent Institute",
+      "tm": "10.04 00:04",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdDNYQzFkX2NXVG1fbUpOTElDYk04MVNDd3I4YTl6N25kOWJSMFltUXJUaU1nZTQ3emlFQWRNNG5LcEwyRVkzekxQSmgwNlNweDM4WUE1cmpmZU1tVVU4RVI5QjUxRGl1a1dvc0JCRWwwb2xDZGprWXZRSC1fVXFFWldRME50Ri0t?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "[통신리뷰] KT '사장이지', AI면접부터 마케팅까지…소상공인 경영 지원...",
+      "d": "◇KT '사장이지', AI면접부터 마케팅까지…소상공인 경영 지원 서비스 확대 KT가 인공지능(AI)과 디지털 서비스를 활용해 소상공인의 경영 부담을 덜어주는 신규 서비스를 선보인다고 밝혔다. KT는 소상공인 통합... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:02",
+      "link": "https://www.theguru.co.kr/news/article.html?no=107850"
+    },
+    {
+      "c": "AI/기술",
+      "t": "SOXL 20억달러 손바뀜…서학개미, 반도체주 집중 거래",
+      "d": "인공지능(AI) 서버와 고대역폭메모리(HBM) 수요가 집중된 데이터센터 사업 매출은 전년 동기 대비 11배 이상 증가한 180억달러를 기록했다. 샌디스크에도 매수세가 유입됐다. 샌디스크의 매수결제 금액은... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:02",
+      "link": "http://www.kjdaily.com/article.php?aid=1791039602688189276"
+    },
+    {
+      "c": "AI/기술",
+      "t": "中 AI칩 시장 급성장…韓 HBM·첨단 패키징 수혜 기대",
+      "d": "생성형 AI·데이터센터 투자 확대 2029년 시장 규모 1861억 달러 전망  중국 AI 칩 시장이 2029년까지 9배... GPU와 인공지능 가속기 등 제품군을 확대하고 있다. 경쟁은 소프트웨어 생태계로도 번지고 있다.... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:02",
+      "link": "https://www.theguru.co.kr/news/article.html?no=107840"
+    },
+    {
+      "c": "AI/기술",
+      "t": "美 실리콘밸리 AI 경쟁, 전력인프라 확충으로 대전환…韓기업 기회 확대 - 더구루",
+      "d": "",
+      "s": "더구루",
+      "tm": "10.04 00:00",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nOXk2NUdBLVRRS0ItTGFqbzVUanc0LWphMGJ4YW5UVVVUZFF2YTY2Y29YdExzWlVEd3Y0dHMxYWppZncxakVYWXJYc3h2NnU1RHhQVWtaYW5Na1BZVWVnRTVoZFNIZw?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "[AI 테크 토크 ] \"모든 디스크 엿보는 AI 막는다\"…애플, 맥OS 개인정보 유출 방지벽 강화 - CBC뉴스",
+      "d": "",
+      "s": "CBC뉴스",
+      "tm": "10.04 00:00",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JeV9hdDVZYlJLLVk5WE04YkVqRGpQWHB3Mi0wUmZkT1lOdVh2eVRpV3FxM09tSWhXYU5IYkNqVi05RlJmV3NrZFR1YVBlYjZ1eTBGSmFsLXB5S3VMSW41Z1hkNUh6YXBM?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "‘Unmasking a Monster: Aileen Wuornos’ Used AI to Recreate a Serial Killer - Rolling Stone",
+      "d": "",
+      "s": "Rolling Stone",
+      "tm": "10.04 00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUXVOZTk1RVY2VE1INm5UWmEtdDBReWM4ZTR4Ml9vNk9PVXFwc2RUb2dRTEFwTF96LURjcXBkbkR3ZGZVVlVrN0o0Qkc5eGMzQ1gzbVF4aE5IeUJYX29XTW1faGtvSUxWYzhUYy1QTkZOU29ZMnNYU0pqWHpja2t4R2oyREtxWmJSX0ItcjVRZzlOT19JUmgwUi1GVjQ5MjNlNDFTTW5xd3V6UQ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Does Frontier AI Defense Change The Bull Case For Palo Alto Networks Stock? - simplywall.st",
+      "d": "",
+      "s": "simplywall.st",
+      "tm": "10.04 00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZTBlQU9MYU5DM185dms2UkM2SnJOTF96YXZkbFIyVEh0MEw5blE4N1pLNnZmU2NYd1VybG45UHhkSGdSY0ctRGt3QjZzVjdXLV9vZEJDNGhVTzZFLXc1SllhX3RVeEZpWjE4TURtQnNfRVJZOEhCZkVOUW9xQ1o3OTRKbzdKRDJ6UlNXUHRIVlZpdEF6TXlibGExeXY1dWlLX3JHSXpvVHpBNnFWU3lncGhiWE9pYXExeTdNSFhpUnUwZV8tTFo0VEFGVVRITDYxbXfSAdcBQVVfeXFMTy1FcXB5Sjc3QmVsMTJjUWdrN1V5aGYxLVo4NHNudFp6bnVpRm43ZHl0Rjl4N1MwQm9IZVZOT0xuYkxJOGxCVmRDNXV5a2x3SHJidTBNSDNKTl91VUZ6NDBGaFNuNV9OTjRidkhZN1hvbWk2UkF1Y21wb094dnFHWGlFTmxWZTlHN2szSU9XaG1zVUNoLXVMa2llUlNYS0V0TzV6ZmxKSFg1RGtNNDNEVzdRc3UyZ3pkN0pxem9XT29WWS1KRnFLdl8yVnlmcU5xWWNoUlNWVGs?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "AI는 빠르게 도입하는데 소비자는 신중…82%가 써봤지만 58%는 상품 추천 다시 확인 - 매드타임스",
+      "d": "",
+      "s": "매드타임스",
+      "tm": "10.04 00:00",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sdjlJdURTRGFmd3p2Q25wTDVFM3JNa0RXZVJiUGd3emkzMWhwNmQxT1RUckp3S3Q2OUdWYkpLOWFjd0h6RXFLeE9LYk94UVBEWExSX2puVXQwRVNTa1hYM0s0XzRsSkNBbGNrbw?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations - theverge.com",
+      "d": "",
+      "s": "theverge.com",
+      "tm": "10.04 00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa3JnRDBmbmZLeTF0bnpWMjRIblNpMGl0WFRrYXlNTFY1eGM0c3Y1RWp5anBkZWdLVnlkRWdxQ2ZpSVpWdmxZMkhyVWV5WWxGOTJTSjl4dzctVUxpNHEyY1VxNGdORkhQc1puMkFOVlRWdllCNnVYdm9ucTNkRVdtOXFTcldvNXN4QXhhV0VHamM?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "[김대호 진단] 반도체 열전 (60) 솔리다임... 최태원의 승부수",
+      "d": "앞으로 다가올 AI 에이전트, 자율주행, 피지컬 AI의 시대에는 지금까지와는 차원이 다른 데이터의 축적과 처리가 요구된다. 솔리다임이 증명해 낸 것은 단순한 실적 반등이 아니다. 불확실성 속에서도 기술의 미래를... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:00",
+      "link": "https://www.g-enews.com/view.php?ud=202609280920022891906806b77b_1"
+    },
+    {
+      "c": "AI/기술",
+      "t": "한 총리 \"모든 변화의 중심엔 사람…'AI 기본사회' 차근차근 실현\" - 한국방송뉴스",
+      "d": "",
+      "s": "한국방송뉴스",
+      "tm": "10.03 23:55",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uOFY1dGRlejJaV1p2ajZNVjZhOFlPcHFNZ3hxaG55b0xKeEs1cmg1aTM4cC04M3FjQko1eHMtTHc1eXE2Mmpqc3FnZVJhaG9pZHVGaTdOcTlWLWZONDBJSg?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Who’s to Blame When A.I. Goes Rogue? - The New York Times",
+      "d": "",
+      "s": "The New York Times",
+      "tm": "10.03 23:51",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUhrakN2TGFTTmdhM0VtY2s5UjBjOVB5cnRRM1NHOWxPV1FGYTdfYjRrQkNZeFFBeHVkSXI1Q29DOE96WmNnSndCb1hwU1c4UGpxanNmMlJsNkJkYVRZNEpBSzdLdG55cXN5Z3hBYWVZSVVkQ1B2OV81Q1hEbExJUUJR?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "AI Agents Are Going Rogue. Novel Legal Battles Are Next - The Information",
+      "d": "",
+      "s": "The Information",
+      "tm": "10.03 23:51",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNazhfYzdPTjlHVWxyNk9XUktaRTZ4MkUzN0pWQzh4VlYyT2UzeGNvS1d5d1pkT2V5UnVmNjd5U0h1MkNPSTdDN25tbG9wNFlYeEdCMTBGbWlsWjE2X0dieGlwaVNiTmxxek14ajh3RUlGdVo1VVA0SGNudHExVnJxZldGS0hYckFYNWd5Y2lWWQ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "The physical AI race will be won in the patent office - The Robot Report",
+      "d": "",
+      "s": "The Robot Report",
+      "tm": "10.03 23:36",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV09LVUhlaFNaTERwM2xWQ2pzNVNiTFVjS29SaDd0eDY4d0dKZjlpYUVEOHB4S0hGOEsyT3ZVVURpeF9tLUxMcE5QTk5Sb05jTU1pRVZlR0hjNXkwam5neTR1SGRkaFJ5THhhcnJzdkRJOVA2eUZ3M2FnZjR3NnZTaDRPUQ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "We Got a $240,000 Estimate for Agent API Access. Our Agent Suggested a $5 Postgres Instance. - saastr.com",
+      "d": "",
+      "s": "saastr.com",
+      "tm": "10.03 23:34",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQUphZVN2NzhpYVhuWDlaYTM4RE9RWjZsbE9IZHRZaHRiYXVfbnNWYnhLVjhNUTNsWjJKamRnZnQtU191Z1JNNk5uSGdpMnZ6a3hzUGJRS19XMFR4RUdIM3kzQVFweXY1U0dfcWZnZ2JJZWJOY19xOG1yeGNBTFZiME91c0RUb3V5bjg0ZVpybU52NFlkTVB6RGdLdWVpTFBpc1BFMjlkQWJhQzBfNzJtOA?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Ticked Off! @AI answering services - Orlando Sentinel",
+      "d": "",
+      "s": "Orlando Sentinel",
+      "tm": "10.03 23:31",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrMlFBd3hMNnBLbmpEMEtUNGJmd1hORXVVVkdfTndELU1lY1VuLXAyY1VweG5mN2dPanNYeFVvNXd0X2RFbkxWaWt3UGxOT3V1Qk03NG4xMmV1Vm1ZNzhVcEtzdFRiUWs?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Resident Evil and Onimusha developer Capcom plans to embrace AI in game development - Polygon.com",
+      "d": "",
+      "s": "Polygon.com",
+      "tm": "10.03 23:31",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yZ0JNSFZsZHRqalBzUzl4V2VfM2dralczVTdoa0lGa0sxYlh0bkdhbEJWbHhxLXlCV0JKOGNyQ3FBbWR4cXRpOHEyTDZoNDdDQzhuUVZFYlRFcEkwUjRrQ0dlaXRGOTRIZi1B?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "울산 동구 주민·학부모 100명, AI 시대 ‘질문하는 힘’ 배웠다 - 중도일보",
+      "d": "",
+      "s": "중도일보",
+      "tm": "10.03 23:23",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fdnprbEJCV0FEYlZIaW5TWmZ3WEdYZ3VIZGhSbXlGaDdHb3VzSUxEai1fV1dDZnVBVXhHdFR5T1pYYmY4S0ZUdEVqQ1NIbk1EN2NLcnBIVUxBWmVmdXZYekJ1aUlvRWV2Y0diOA?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "글로벌 통신사 투자, 기지국서 AI 컴퓨팅으로 향했다 - v.daum.net",
+      "d": "",
+      "s": "v.daum.net",
+      "tm": "10.03 23:18",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3ektUZkUzLUM1X3RXVUduTl9YTl90WlJKTGtUNHFGWWl6eEdyZjg4cW1pUlptZEhIWHpCR3o3UkdVZE44V3U2SlFudlhGVU0?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "The GPT Oracle: 1 in 10 Americans are reviving the pagan practice of prophecy - Fortune",
+      "d": "",
+      "s": "Fortune",
+      "tm": "10.03 23:18",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzbUdjcU16M3VzaW1OMk1tNl9rLXRRNlRNS0h1TmRZdkZ4bEtPUGdyNC16eDVIQWNKSmhVLWN6a1FLUDQ5VzN2NW9MRURJV2VsNVNVdS1rTllucEZUWjlHS1h2bFZTUFVCYkpfSUVhSTZwcGQzOGZn?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "AI researchers warn governments that an 'intelligence explosion' could outpace human control - Yahoo",
+      "d": "",
+      "s": "Yahoo",
+      "tm": "10.03 23:17",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT01tRldyTkJuSTdvUjRUNUkzQnU3Vk1GM3hGWnplZlliRzkyMWVYSDA3dW5FRlkyZ1EwMnNZeXpPUTdkcVlXU3RFdEV1amhzN3ZEMHdUU0tEWUNuNnpZS0p5eGFzR0FGV2JwYzdkdEhLclA3TXZUaVRpOVZOUFFlcHJmMEZqY204YzNJYXV4ZENQcHNXZnJwT2tFOFB6cVFObno0SmFn?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Apple tightens macOS Full Disk Access controls as AI agents proliferate - Macworld",
+      "d": "",
+      "s": "Macworld",
+      "tm": "10.03 23:15",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV085Y0xQU0VYYXI5UHYtMXZreFJSRUdPbXJMNUxTY0ctUTREb3BLbElrT2lCenJMbTJzYmUtOTQ5R2Jfc21BZEM4SlByZk5MVFZBQjFTcHdoYUdwNHBkTHlPX202a3FSUTR0bnNfUENhUmh6aThBLTJWZDRzRDk3NUtWNXNQTDNRNko4am00RUMwOWlJYkM1WWtsWENjcm9yMXJfeHVIM1llM1RqUWNqT0o0ZVFwT0lJ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "[Insight] Hackers Did Not Target the Banks' Vaults The Path of Attack Has...",
+      "d": "The Bigger Issue Is Attack Automation, Not the 'AI Hacking' Label The possibility that artificial intelligence may have played a role in the attacks has also drawn attention. A server believed to... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 23:12",
+      "link": "https://www.koreaittimes.com/news/articleView.html?idxno=157797"
+    },
+    {
+      "c": "AI/기술",
+      "t": "인천광역시교육청, 콜롬비아에서 읽걷쓰AI 기반 교육 협력 추진 > 뉴스 - 더코리아",
+      "d": "",
+      "s": "더코리아",
+      "tm": "10.03 23:10",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0wWHBTN3QyWEJvTHpRMm9QRWZxS2d6bnZkRlRlR19WWkV1aVNxbHRrbWZsZVhUU1AzRUxjWXR5R1BMMlU?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Apple will make you prove you mean it before an AI agent reads your whole Mac - Martin Cid Magazine",
+      "d": "",
+      "s": "Martin Cid Magazine",
+      "tm": "10.03 23:09",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVZvU19wYjJjRjVnVFNUYXRLVi15WlNKNXRMbkl1b2R5ekxuUE1vb203blZKUU4zWHA1OGVRU2xVX0llWGhVRk9mYVFlajlsUXNjYlg0bmxIOEtDUnJCWXFkekFodVROVFRmc2pCenVocUdnRlNnTzlkUDMyMmRtMENhM0Y2bHBaa1VNLXBOb2tCZ2pXandWTXJkcFg?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "California’s new laws target workers’ biggest fear of AI taking their jobs - The Guardian",
+      "d": "",
+      "s": "The Guardian",
+      "tm": "10.03 23:02",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLWFTSzc4eHl6b3FkNVAzbm1hSG13VlYzTHlTMTFlWFNsRHBLMndPSldyT2JnaGJCTVh1S2FMaW1mV1BPRkJLRnFSOUlncXAtV0FDTEtOUG9fUHFLd0piN2ZxMXBhRURidUdMZlBidl9EXzYtemwtMXI1SnA1OW1yRjJRM0twcjYyVGFCckFwNXg?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "The Only Thing Dumber Than Someone Creating an \"AI Torture Chamber\" Is the Meltdown That the AI Welfare Crowd Is Having Over It - Futurism",
+      "d": "",
+      "s": "Futurism",
+      "tm": "10.03 23:01",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90eF9reFRCOHZhaDZNQzJXVGttd2pJd051MG00c0FnaWE4U2cwZVpiRENmVENKNy01anVvOUd1cVU2RVNlN1VMUTF2NkpfNmpVM1EyMHVZSzN3MDhNZzZTNzJJaGgxRDRmbElYZUZZQ0xSX0UtTXBTN1BMalM?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Cash-Strapped Americans Tap Home Equity and AI to Keep Spending - Bloomberg.com",
+      "d": "",
+      "s": "Bloomberg.com",
+      "tm": "10.03 23:00",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWRGRlMyR3lmcEpxN1Z0Sk5PQ3B0VlZvTUppdXhrYjk2c3RJU2VnTkhobWo0X3gzYV8wZlJOdFBoSC00ZjJVLU12aGVKcld5N3c0QzFXX3drTGZyZVB2MHNEUzB5ZHh5SFB0RERzMVNSNFhCRElvaVppZUloMFBwWGotVlhGYnpHSnZ2ZEJDNThkTC16aFNTaUdjbDN3ZGpsamszM2I5ODA3MjQ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Billionaires Are Suddenly Dressing Like They Deal Weed. I Have a Theory Why. - slate.com",
+      "d": "",
+      "s": "slate.com",
+      "tm": "10.03 23:00",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHOXo3TXdkWnQ5TllYdWhESHhLVHAySUdoVFlmZFJrTmVfbmJseER4UEVOcUV4Qlhkek1CbkdZM2hqcVQ4VzFNb0FEUkhVZ2VvS0dUQS1FTjlkWWJiLURlZVZtRm9VdFljQmZ5a1NrdUduVjhOdVpnWTFR?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "This week on Tom's Hardware Premium: October 3, 2026 — AI Chip Design week, OpenAI Interview, and AI agent safety - Tom's Hardware",
+      "d": "",
+      "s": "Tom's Hardware",
+      "tm": "10.03 23:00",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbnFud3ZkaFRSOERYZ1pDM0dMZ05tbjhkY3VyZ3VBSndURHVkVDk0dkhrSDFFWmpxeEw4N291eXVLaFJDT28wb2RNY1JlczhhZTJvTHBuYktJYUc1U2lPTGJna2JBUTV0em54M0dBRHNjaDZuckxwTjFKX09lNDJ2ZjN3UkllbUd0bGdKbmh3a2NpcWlIYUo5VWs3S3kyZVl6VWNneERLOXR3MW9YbjJpWFZhUlFEYkNhbzdVMGlXekJkX2U1bUVkQnpzM3dydUFyM1RfSVFxS1c0QXRnckpJc3E5VE9CSjlOSGVJUGcyb2JZM1ZWa0l6dVVxMGVGOGdKTG1V?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Microsoft adds agent governance and usage controls to Copilot - MSSP Alert",
+      "d": "",
+      "s": "MSSP Alert",
+      "tm": "10.03 23:00",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM2o1X2tTWFdQRzNlYS0zdjFkUjZrcXhEUVItUXExUkJUdFhpNnlVbkxtcWMxS1dMTTNFNnYzVjFyYm5QeVBZY2pqRmxrY2dBcHhqMFctbVVsWWRCd2tab3hqUFZrbDd4czZwVE94WC1iMGNZdGhQWm9oYWRDSTlpQTEtLWxUZ3IxeU9COWJjcWZPb3hHYmJta1k4eUV6YWVmVmRJ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "All the AI agents that can live in your text messages - TechCrunch",
+      "d": "",
+      "s": "TechCrunch",
+      "tm": "10.03 23:00",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa1hrQ3I0QkpvVkIyTUtrTU1BYnpyQzNlQlBqX0c3bU5lTFFTLWNGTjljVURwNWMzT2ZkcGVFMjdSM2J5OHB4ZW5rbVhPWVNNT2l6OFJkbFZ1VUpNQzlTRDFMS1d3RDIzQVFXNlBsSkQ5SG1JTElsN1dJTkR2VUhEYThMU01XbVZFRUpWTUNsdkN2UQ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "AI 해킹에 뻥 뚤린 금융사들··· \"보안, 원점부터 다시 짜라\"",
+      "d": "최근 글로벌 빅테크 경영자들이 인공지능(AI) 위험성을 경고하며 개발 속도 조절론이 화두로 떠오른 가운데... 미국에서도 생성형 AI와 딥페이크 기술로 실시간 얼굴·음성 인증 및 신분증 검증 알고리즘을 우회해 계좌를... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 23:00",
+      "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307592"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Chartbook 477 Against historic normalization: Why AI is not the Manhattan project and why we must challenge ourselves to think the radically new. - Chartbook | Adam Tooze",
+      "d": "",
+      "s": "Chartbook | Adam Tooze",
+      "tm": "10.03 22:57",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRWt0VWN2cDRITnRMR2ZYQTU1QXRtQnJCb2dtdVN2dW9pMzBjODhOQi13ekJwYkRfdU1XWW4yWFlPT0NKYWVmbmRlQ0RRRnlKT2tpejQtUnlBeFU1MXRZVFVZWEktXzBwSGIxQUJ4TE5ENXpJT1BEVEliUW1YaEJYbnNfTQ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Who will play for the Indiana Fever in 2027? Player-by-player contracts, salaries, WNBA free agents - IndyStar",
+      "d": "",
+      "s": "IndyStar",
+      "tm": "10.03 22:55",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbFNEdEQtb0pSd1dLc3EtMlNpNVVaSmp5ai02WnNLS3dNMFBFNnQ3cjVfVmVabVViODhBR2RjdndWTWpnczQwS3o3WFRiVXdDX0NDRVFsQUdmN1VTQlZrbHNvR1kwYmpUd0luclJkeXhUVjNsVHYydHY2blpSUEdjcDBqeW9DZXNNU19ZYU5WMnhhZ0lXX3hPSVU4QUhTSXlET1BtdS1fOTQ2RTFIVkozczBmZDRVWW56TFBPYlhRNVlTVnVvNHlIcWV2SHJwWjh0X2RBeE9ueTNMM3JpOUtUTlhIVVh0eEJFRDBqQ0FSWjdwRi1ncldqZ0VmVEVRVmtfQ2JSSm8zVHRneWlybE5xdFR3?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "[AI그래픽] 2026 아이치·나고야 아시안게임 한국 메달리스트 (10월3일) - newspim.com",
+      "d": "",
+      "s": "newspim.com",
+      "tm": "10.03 22:51",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uakpQaG1ZUnBoMlRBTS1yY3BoaTF6TGNNZzhDSGo4d3NxdTdlVTNsUXh4MUdZZFMyT1ZCS0Y0N3pOMDhqaEhMUlh2R0NiWG1CdkpzbUhycFJSTmVL?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "울산과학대, 생성형 AI 답변 검증·개인정보 보호 가르친다 - 중도일보",
+      "d": "",
+      "s": "중도일보",
+      "tm": "10.03 22:45",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MWHN3R0pQMWRuZlBjLWJRTGRnOTBrU0tacmhyRUhiWmdkOVZ6cU9UMnIwYVl4UG9rSlVXR1RBS3dBQnRiTVJ1alB5TTIwS3d5OTUxQnotQnlXZ2ZBNFFLZGo2N0JLUmNqeUlITQ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "AI Retail Referrals Set to Rise 130% as Adobe Forecasts $275.1 Billion Holiday Season - Yahoo Finance UK",
+      "d": "",
+      "s": "Yahoo Finance UK",
+      "tm": "10.03 22:41",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN20waXRuY0NZT0o0REZKMERvVkFyMmw4R0kxMHhGOE5tLXJYMWdhcnBSMUNrcXZjYW9vMVlQZzFfWElkMURDYkhVRGdKb2ZSZXBJUUFUNnBXNU1kdVBIcE5RaXQzbEEwSlV4YjBzNFRKYUFwbW5XMDlkWnNKQkkxYmtaNA?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "EURETINA 2026: Global RETFound expands to 108 partners in effort to build a truly global foundation model - Ophthalmology Times",
+      "d": "",
+      "s": "Ophthalmology Times",
+      "tm": "10.03 22:37",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTDJuaFdkWDd0OGJTZy1WTlAydEVrNXc0UzZTeG1WNFN5bWlBcmJsRTMtWFotWXIxeFlmSE04b2hjTnFhaXRwSExwLVlaa3JLa3FveWs0Qk5uSkNKU2Nyc1lJUDM5V0tkaV95NzdqRjVDVG9XZlo5cEI4U2hGZUpjT3lid0dScXZMd0h1VVVwTm91cDFzVmJSeGw2WFJCaHlQSlVwR01Qc2x5SWpMX1RQZjNWQ19ncG1Wbi1xdXBwblhtVzQ2SktqeXV4cFNDZXpibXN6Zk9Pd2ZGVF9s?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "AI Computing Moves into the 3D Dimension: How Memory Hierarchies and 3D Integration Are Reshaping System Architecture - semivision",
+      "d": "",
+      "s": "semivision",
+      "tm": "10.03 22:35",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOajlMUngwQnlxMnJwdXd6MTBaelZ6bzBBaEJaUkNtZUMyN1hmZkJONTRLNm1FX0N1Slh4M1F6Y2I0Vnd0T2RSMmxJOWJtZFVCTzVEWjB1Qk43LWg0aWRnb1psYzNjWmliU0N5MjM0MUNiTTZhV3JEUU1qOW93LVJIYnpxT09tMS1sdmxSSUdqWlVKdHl5YUh2U1d6NHhieWpiUTlsSno1b3RoREdSS182aThpN2txZVpYUFlsQS00aFhNcm9fN1BxM2xyekxyRUU2TlpZeGRxQ0NoU01qVzcyZVVpRQ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Your Grocer Has AI. You Have a Budget. Guess Who’s Winning. - Substack",
+      "d": "",
+      "s": "Substack",
+      "tm": "10.03 22:34",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVTF1cjZMckhDYVNCR2Y5cEdqejE1Yjk0cWtUdjllcU9iZDE2Xy1XanhYbm1mMHdlUGxHcDZVdGRjbXlkUmc4SFJNZ1NoUFJfTXBZTjFaZUpsTUFuNXlxX2dvckFVMi1qQllMdTc3bFNDZTNfMUc2YUxFeWhYVVYwaGNlYWRuVGc?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "영상 기획부터 편집까지 AI 활용…LG유플러스, 구글과 크리에이터 교육 - 지이코노미",
+      "d": "",
+      "s": "지이코노미",
+      "tm": "10.03 22:31",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52N0RRVG5KUW5jclgtS09oQm9aOW1QTU85NjlDaEdGTThDc2VwVUlYc2hjZjUxVUl4WWk3QWVOYjV3Z1pZOGdtb3gzY3hPbDQyYVFzZEg1bTNTNGMtYmVsV0YxdzNkcXc?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "“AI가 말하는 줄”…챗GPT 쓰더니 직장인 말투까지 변했다",
+      "d": "사람들이 챗GPT와 클로드 같은 생성형 인공지능(AI)을 생활 속에서 활용하는 일이 늘면서 인간의 언어 습관에도 변화가 나타나고 있다는 주장이 나왔다. 지난 30일(현지시간) 월스트리트저널(WSJ)은 일상적인 대화나 업무... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 22:31",
+      "link": "https://www.etnews.com/20261002000159"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Trump holds up to $9.5M in AI stocks while pushing communities to accept data centers - Yahoo Finance",
+      "d": "",
+      "s": "Yahoo Finance",
+      "tm": "10.03 22:30",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdHFZck9KRVFwWnpEVS10Z083SWhveG14Vk9hVXVBdm9NeUhUVnZSNll4UVR2TVZuYUJOQk1vSXlWeHJ3aVpQRmNZQy1lc3doT21iVlphQm1ob09oWVhFWllnTV9lR2NmTFBRQUxnTnpPQWdXcUhRRFlVbWloYlNTSmQxSFl5LXJkTWJn?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Ractigen Therapeutics Presents Positive First-in-Human Data for RAG-18 at WMS 2026, Establishing Clinical Proof-of-Mechanism for RNA Activation in Duchenne Muscular Dystrophy - The Manila Times",
+      "d": "",
+      "s": "The Manila Times",
+      "tm": "10.03 22:25",
+      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPdFN4OFp2QjFMcm9tVWpXWmRXRE5HQnRWWU83bV9zSDlPV1dJNDBFYmVCM1QxUkZ1TlhNSUZSOXdBWm9taHREbS1NX3hpMkRJQS14ZVhhYWhSVFdpOVVTUzk0SjBLbDhZcVRaQVVNYmN0NWJBVGpjOGhZV05RSVpRb2t0QWtnYUc2RVVxVzFCRzhPaENlOEg3d205VG52RlN0S3JCQjhHYXdvWUI4azRTeWJKb0ZacnlyNXQwQUo0c2RXc3FEV0NhZXRwOHpEMTNoQWppV2NKNWdwVTFabUg0TGNFS0hHbVc0MGtuZUs3T3ZibVpERUtJTi1LUDR0VUVUSGZLYzQtaU5STFB5VjZ1bV8waDZYQVZsQVY5VUx1SUVDMDYxbVRBWDR2Q3VweUktd1lLWTRXX0ttT3RBOTRBczFoYUV2d2RLR0JPZ0FHUzFYRXZhYWdGa0t3cjlVTXFkdTVR0gHoAkFVX3lxTE9iOHlxeDhyQzFSYUVpVFlKcGFybHlEQUhqc3dqWHhjbjZzYXBqOWx1RlZ2NXFHQ0stWGNjejJpb1E4SUlHOC1HSDV0ckFPSDVSOFJvRmxCZkRNWEE0VlZyTWh0MU42ZHZYV3VZVTRadjNZNmR1OTFCalZlM3dSOW5sY2dlcGNZVUFiSW01NGdPdzFxVENPVDJrandHUzF4eXctRFRLYVBtSm9TblgzdzRFX1ZldXAxQlFGV00xWkVraHdhek1hUElWLXA3RmNTWVJWbC05TnJLT19Wc3luTm0wMjFMZ2lNOENxMVRtRlZubFY0SFYzYV9Vc1dWLWdUWl9sbkNmbFlpTHVFYVl6QVA0R2I5SFlwTVB0ai1wODVMVmUwaVFKT1l2N1JaRGVjZFZmM21ETU5uTEd5M2hLdFFrZnNCTFZoUXZTdDh2emdpZnJCUWFsMXZHQmtCX1VwVFhMdjhibHVvYg?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "U.S. to propose emergency AI notification system with China - Axios",
+      "d": "",
+      "s": "Axios",
+      "tm": "10.03 22:11",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84bGhaUy1OUHBHRkFfTTlIMk56Yl9MNWtjaUVCcEkxQ041bGRkUUZIZzFYRW9oSW5tT1hUYTB6VVZnVnRfLXEyd0VQd2p2alQxNjRNZzcxeWdkOVBRc2txRklUc2RhOGFUVEJZYg?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "AI agents use 5x more tokens than humans as cached prompts explode, headed for 10x — agents are mostly rereading what they've already seen, skyrocketing KV cache demand threatens already-worsening RAM shortages - Tom's Hardware",
+      "d": "",
+      "s": "Tom's Hardware",
+      "tm": "10.03 22:10",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNVVVhN3dDRnN1RVBpNC1pMG52TTczcTNoc09VdkE3TUNZbmIxaXdnWXQ2WkM1cmJJNXVpQXk5U2RDWDZ0SEFNeHRuU2loS05SdTRacGlmUDdmMi1RSE5EXzhmcC13ZkhJS2stNll1UjNoOExkYnR1eHV5U0RoT1ptVzd3bzNOTW1obldoRW9JMFFvM3J3WjRZM2RaUHZYeGxMb2g1SWwxM1FhRmxHUXZBUER6SkkwaTRud2c5bGdTQlJQRmNXcG91c1FaVlNoNWpRc0plbk1VTDdtNDMycmJUUW1ZUHN2S1VUeXBnOTdBeks0QzBoUGJibHJDNkFGa0xpdDUyZjgyUGQwc05vSUh1emlnVGZOaEVTRWU1cWhUajM1WUpTVUJMRndYeVJ3UQ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Artificial Intelligence: Which jobs are going to be replaced by AI? Which age group will be exposed the mo - The Economic Times",
+      "d": "",
+      "s": "The Economic Times",
+      "tm": "10.03 22:10",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOcU81YWRVcGM2UXhaX2hNU2dHUTVZazBHSFVLcmUzOXo1cHJKNXRlckxLeUNRazFjdWRyRjNaeTFLUVdzcXhfdzRDd1VBRXdJWHNFQXpXY3J5T1BWRkVRYWpBcjN1OHV4REFoRFBScEZ5LWhabnBIS01XZ2JORFQ4bFV5czRKU1FJdi1fSEdFc01XbDdpMTJlS3REUW1MZlFuRGFsZU1Ca09YYTNHUkV0RWNub19ieDZ0ZVVwazl6dmdVODR0eEM0RkVyVmNCZ1dKd3FUNV8tRHdqdTRyak1hMGdXdkt3NEdLUkZmZ1RXNjY0QXRKblhJYXNKdVd5Zm5hczBPbjNrUVRqcmdqMm9NWnFiU29nc09nYnIwOUlBNnhhaUlBQTNUd0p3b3N5UklLZTBr0gGzAkFVX3lxTE5xTzVhZFVwYzZReFpfaE1TZ0dRNVlrMEdIVUtyZTM5ejVwcko1dGVyTEt5Q1FrMWN1ZHJGM1p5MUtRV3NxeF93NEN3VUFFd0lYc0VBeldjcnlPUFZGRVFhakFyM3U4dXhEQWhEUFJwRnktaFpucEhLTVdnYk5EVDhsVXlzNEpTUUl2LV9IR0VzTVdsN2kxMmVLdERRbUxmUW5EYWxlTUJrT1hhM0dSRXRFY25vX2J4NnRlVXBrOXp2Z1U4NHR4QzRGRXJWY0JnV0p3cVQ1Xy1Ed2p1NHJqTWEwZ1d2S3c0R0tSRmZnVFc2NjRBdEpuWElhc0p1V3lmbmFzME9uM2tRVGpyZ2oyb01acWJTb2dzT2dicjA5SUE2eGFpSUFBM1R3Sndvc3lSSUtlMGs?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "경성대 17개 팀, 생성형 AI로 기업 분석…15개 팀 수상 - 중도일보",
+      "d": "",
+      "s": "중도일보",
+      "tm": "10.03 22:07",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5ZGNsYjRJZmRtVlRGY0p6azloajFaclpmMV9iNElpejZ2bkpVUTJDaTJjS2ZvakRyR0c2NjEzbzJFQWtMbGo0aGFpTFRLY3dsdkUwQThKTVpNRFRPallBV0xWZjdNWHp2cHpPMA?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "AAP Issues Guidance on Generative AI Use by Clinicians - Mirage News",
+      "d": "",
+      "s": "Mirage News",
+      "tm": "10.03 22:02",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSVJuV3JGZUFDcEU1dWlhN2lhUk0xa05JRFU5YUVvbDBfbGFCemR4LUdzRGZISGxaU09CUXp6RjlUTW9wbTlUZmlfMlpyYTdCTC1xZnZGZ0JQQkFjUUN4OWh6R3RUdmlXQm5LMmpEaDNTUUVwdHhRZ3NlQS1fMUlkT0lLQ2NRQQ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Global tech policymakers agree to embrace AI in science - NBC News",
+      "d": "",
+      "s": "NBC News",
+      "tm": "10.03 22:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR1Z5aDNBWUxWX1NCcXQ2dXJQaTBkSS1zTF9QcUdqZ3dxQjhzaXVZYmMxYTZLTV9xM2JJLTNfTnk4VkdCTjVWNWlFQjhoN09CTkJOWERIQ01ZdE9PRUhnY3RQdGQ1WGhLZTJTS3p3X0JYVnROOFAtZC1tVl9VQWZjOTZidVpuVjBOZWpmeVQtNS1nRl9JaXRGaA?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "[탐사보도 뉴스프리즘] ’섬뜩한 경고’에 개발자들도 우려…그래도 AI는 발전 중 - 연합뉴스TV",
+      "d": "",
+      "s": "연합뉴스TV",
+      "tm": "10.03 22:00",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RSHRTS2hTVjR0ZWZ5WDhqaFgyWUlfamJOOXNoNTBqdkNrTzI0V0VBNFJ5XzV6elZURWV6aTUwTEp1QVM1MmdSZHl1Vjlsc1dpLUtPckJ1Y051Q1NMSElESU9RaGZIZw?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "AI Could Worsen a Common Cognitive Trap - The Atlantic",
+      "d": "",
+      "s": "The Atlantic",
+      "tm": "10.03 22:00",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMzJJclBIU2JoQUctTk9MQXJLbll0RTZoYzJYczUtMTh4TkpHYWJ2TjAxRFpXTmFzSElmMnN1d2hxTHM5dnlzdFV0eWVMTHlpSkVqMmE5TEd2VmQ3MC12ZEctdndZR3EwUEMySlI3ajJZZzFfLTVMM1I2OHhfWDIxMmZDZU14ZzdCMVRfWE9GLWhVVm94VmJCZTNGeVlXUTN6cFE?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Amazon’s $1B data center pledge underscores rising tension over AI build-out - The Seattle Times",
+      "d": "",
+      "s": "The Seattle Times",
+      "tm": "10.03 22:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQckdpalFNLUtvOXl1V3ZDQTB5TkRHdGczTlhYY3pBNFI2a3Q1SWFRNk5MZ2xrSjJZd1RxUDItcnNmN1Ytd3ZheldfeHJzMmhWZlI4OS1Ub1pXSEVrdExvMkNxSzY5VW82UTNqT1VIWmJjbkZYMnhfcjFLQV9FWER4RS0xd1RNMXFGYW5BUE5lYmE0Y3IwZW9uSU5abTRJU0Z2SndsdWJkRk5vUlN6VEgwY3FGdw?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "고금리·고유가에도 AI주는 웃었다…S&P500 종목 80%는 하락 - newsis.com",
+      "d": "",
+      "s": "newsis.com",
+      "tm": "10.03 22:00",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaRGRmdFYtN0gtMUZLbU1TYTlOMHRUUmJOa3FQQnZCVWNYdWpubVdwYXhpLUJGUlA5QTdzVWh4cmtMT2tfUjdPRWstZlpoRm5kNW1UWWJWSm9aN1F5LWVLSNIBeEFVX3lxTFAzUDlSVUE4ZHJPaE5teU12OTByaXFiUXpGblNUeWZOWGJKb1MtaW5ybm1MeUNRYmFHR190MEZXbnkzVnJVeklSaUVfWVRmZXgxOG1QdW5Kc2NQOVlfRC1pdHJ6MGkxeEl5ZUNZNlV6WDBiUXlHYXhKSQ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Bait and Switch - The Atlantic",
+      "d": "",
+      "s": "The Atlantic",
+      "tm": "10.03 22:00",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zYVZuSnRIT29UTGhPS1ZXYWNHMzYtUXRrRERnMlYzVFlUTE1BSnZDU0FzakNzelpqMm04V2YwMmpMaUJHRmNfaEF4WjJDN1VDTkVkUDVqbzZzTUhSVE9jMGotcEoyZU9ESGlxdkdudDJ4LWZjemZyRk53?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "로봇·방산·이차전지 ‘지역 거점’ 키운다 … 3개 특화단지에 민간 12...",
+      "d": "정부는 2030년까지 민관 합동으로 AI로봇 20만 대를 보급하고 피지컬 AI 기반 서비스를 산업현장과 국민 생활 영역에 확대할 계획이다. 결국 이번 특화단지 지정은 수도권에 집중된 첨단산업을 지역의 기존 제조업 기반과... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 21:58",
+      "link": "https://www.dailyt.co.kr/newsView/dlt202610030006"
+    },
+    {
+      "c": "AI/기술",
+      "t": "국가 AI 안전 종합계획 만든다 … 산업계·전문가 25명 참여, 12월까지 마...",
+      "d": "인공지능(AI)이 검색과 문서 작성에서 의료·금융·제조 등 산업 전반으로 빠르게 확산하면서 정부가 국가... 생성형 AI가 사실과 다른 내용을 그럴듯하게 만들어내거나 사진·음성·영상이 실제인지 AI로 만들어진 것인지... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 21:58",
+      "link": "https://www.dailyt.co.kr/newsView/dlt202610030007"
+    },
+    {
+      "c": "AI/기술",
+      "t": "\"수익성 불투명한 10조달러 투자\"...월가, AI 거품 붕괴 경고 - AI타임스",
+      "d": "",
+      "s": "AI타임스",
+      "tm": "10.03 21:55",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZMkZ0SHNobUhzOGoxWUl5bGdOZXFaRHZKakJ3Rll3anNDTmFGaHBQa29KemFMNHVQN0JQU2hzN3VyVHBMUFRraFdZUmFVNHhDN3haTV9RR2V0Z2I1Zk4ybUJJSVdHZjJDMUE?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "은행서 2금융권까지 번진 'AI 해킹'…당국, 4일 全금융권 긴급 소집 - fnnews.com",
+      "d": "",
+      "s": "fnnews.com",
+      "tm": "10.03 21:54",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HUndfQk9XSkRmc2JNdS1NN2hRVWZWMmpvUzk0TC1KYWppMUh2eUtuUllmSjZRZ1EwVklGenNKWkJlckpSSDdNNmR5UzZ2STQ5eWlGU0RFbjd5QQ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "초지능인가, 인공지능인가: 트럼프 대통령이 인공지능의 명칭을 바꾼 것은 옳은 결정이었을까? - Vietnam.vn",
+      "d": "",
+      "s": "Vietnam.vn",
+      "tm": "10.03 21:54",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX0pGSVNzWl9GdGh5SVBnMVlpdmxFWjk1d0VEd18tR25WQjFyOTA4LXB6YkZfNm16MkpSVWFBOTZ6a1NsVlZ3ekQwV09QN2toTkd1LUxvS09zcWFhbzVlMk4tUm9fbF93WFpKWjk2aDF0akJjWnUwZ29YWHJRMGV4NldJaHAxX25ZS3dEbGVQN21XeThrTWRaNFZHWDdtWktu?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "은행 'AI 해킹' 눈덩이...경찰, 본격 수사 임박 - ytn.co.kr",
+      "d": "",
+      "s": "ytn.co.kr",
+      "tm": "10.03 21:54",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MaGUzUHVuc1dOYWhLcHhhcmVROEhRS1lkRG5FQ083Z3FWUHl1RGM2TmtWLTFOZVhBbzdZeXczTmU1Mll3T1FnTlRDYWpwUVFuWks5T0pySW1PN1Nmc0F0MEtvZkFER0lzM0ZqUHR0TQ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "해킹 끝나도 몰랐다…AI가 취약점 찾았나 - news.sbs.co.kr",
+      "d": "",
+      "s": "news.sbs.co.kr",
+      "tm": "10.03 21:50",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMzdsRC1BVk9pa2FyZWhldnpRbGVOZ1g5S2sxcFgwY1Ryb1lHN2JrYU9GUGFEWEl0Z2t2azBmejVuNEhYVk10V1drSkt1ZjhMeHlDSlZxU2RidWl1ellXc3h0M3VZM1RiZWtPZkd5cHl3VTJsQ1hDZjdSQ1pJZHJwa05QSXZudXUtZTlsUTdNU2JYRGZUaXfSAWZBVV95cUxNZXQ1VGNidklqdmFLZ1dDRHNhbDdpZ1NhMWNPQ3VyWk1XNHdJRjFZbUhLV0lfNjMyS2xrOWpXT1JGZ1pIcjhaaU9tODN6UUcwMjhXR0lfQ0J2VWhpYWhUZEJ2dGVuNHc?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "IROS 2026 | PaXini Showcases Full-Stack Tactile Strategy for Physical AI - Yahoo Finance",
+      "d": "",
+      "s": "Yahoo Finance",
+      "tm": "10.03 21:47",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzJaY3hBWVZMOHhxNHZHUU1KY0pDNmVFZFVaOFVqbmxxNUl2d2VsQzZlWjdlVmw5X3BjZDF0b2sxSFQwM3VORjRXZnp2VnJrRGlfdm9fb3diU2QyX2tIVWNlb0VlLVQxUGJGSjA3Ql9FQTRyY0FkTURuVDJEMTZSblc3SDRTaFZFTXcxN2lITnB6NWh1d2NDMTM4Yw?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Meta's Muse AI Agent Hits Millions of Downloads Amid Privacy Concerns - The Tech Buzz",
+      "d": "",
+      "s": "The Tech Buzz",
+      "tm": "10.03 21:36",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcWJ0SXRzdjRuYVZqZzFQWnh0QVFDby1La0FLNUozUDdjcHRjYXhnM1M4cUdpRlBwN3FMZGNqYkFSRE5rN2J0cXVfSzdoZmRFZkZ0Z0U1TEpTUUx1YXU3WVNEVkxpYzN5dDN3bVFkRDVRbzAweXVkckJLNnhmNU5ZNWttMDRUZlNHTDZXWlVQanNMT0VlX2hyaWRnSjMtNzZtTnR2QQ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "As public fears of AI grow, Trump digs in on voluntary safeguards - Reuters",
+      "d": "",
+      "s": "Reuters",
+      "tm": "10.03 21:34",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaktMNDdZV2FZQTFSeGF3SENIXzkwWHhWLUVhT1ZwVHMzTUdQajl0akw3QTlicmFCQ04tV0YxRFFfUEZYYmxqRFA5QVh3TzhTcm9Ca0pWLXBjeTFXaV9DVXV6ZmFPU1h1NXFsUVpxaHlBUlA3SjhxRVNSQU9UZ2ItTmNBN0VvWFpFc05idzd1dWUyaUNmMWRwc0lKR3A4Q0czbkE0ekNXZlM?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "탈모 관리부터 암 백신까지 AI ‘신물질’ 개발 속도…한계는? [AI:너머] - v.daum.net",
+      "d": "",
+      "s": "v.daum.net",
+      "tm": "10.03 21:32",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45LVZTOWpnTE9RNGFIWjBwWFdnZk5sdGQ3a2VGaHFXX3R3LWtyRlZybjhfMVhSNURxTll2Xy1QU0RhRjlfN0s1NlpMYnE1SjA?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "6 Way-Too-Early Free Agent Targets for the Boston Red Sox - Beyond the Monster",
+      "d": "",
+      "s": "Beyond the Monster",
+      "tm": "10.03 21:30",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnVmUxSjJvMWhOZmZqQ1lUX1dJQTdKVUdna2pyU0YtLVp5TlNVVjFUZ0VITlZ5b2FLRmJUZ3k0VTZ2dktGMDVOa3BLWUtsMXdPbTloMkx5RzAzVjdpNENFa0NVRHQ0bjY2SVVLZzRFWnFUa3I0QlpnOG1XelU3V2c?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "The next big AI battle is all about cuteness - MarketWatch",
+      "d": "",
+      "s": "MarketWatch",
+      "tm": "10.03 21:30",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTlBjcFlMSFoxT2xKczJMRmktSW9tQmtlX0VzWDUzSW9hbjFJVmpDdkxtaFY1WUI2UHRYaFBGc0VVRUpvX05xQTJLVU9mQW96QXo2YWJDS0wyUWxZbC1wX0t4R0l5VDczd2JSSzBDUWFQeVRvS29pbThmdmhPR0FLdDRnNzNoUHhObEtXV2JwS2U?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Baltimore Orioles Named Top Free Agent Landing Spot for Padres Star Pitcher - heavy.com",
+      "d": "",
+      "s": "heavy.com",
+      "tm": "10.03 21:27",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOW5pY0tla080d3pyOUZwT2s5TGRhOVBUSkFaVnBhRGtOTGFhb2RKMzBvQ0lvSmk1Rjg5SXdTT0NHUEJuVHlhTGhINS1hUmt2TjZ2WkZjSktFSlc4OEp6eWtaYktYbFdvb2J5NV9ZdGxYcTFmZHlsUFZzbzdzQV9ab1NxVDhzYXFvcEJpcWx3bGRrdw?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "교육 환경이 열악한 지역의 교사들이 교실에 기술을 도입할 수 있도록 지원합니다. - Vietnam.vn",
+      "d": "",
+      "s": "Vietnam.vn",
+      "tm": "10.03 21:25",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcEVXanZoNXpqUkFWY1BTYlEyY25kSjhad1dkWnluQTMtbWdPaEdsSktuYVBqTlE0Y2dZUERlN2hfNXRoMlFoODNCTTkzNEY4MWthRmxKUEFULUJZaVZYM2UzMDZKM1haNmdwaDNFRS1fSDcyMl9YbkNFRlZWZ2ZSZw?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "[컬처인사이드] \"AI 티 나도 괜찮아\"…'북부대공'부터 '히어로'까지 - ytn.co.kr",
+      "d": "",
+      "s": "ytn.co.kr",
+      "tm": "10.03 21:25",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50TlNIN29ncEJWUkNKR1p5SVg5Tnp2T2ZfWmR1d3gwbEZWN2ZDd2VDMFp5b2tQOGNXQ3IyQm53dmMxQ3h6Vkl2LTYyZ1dhenhxcWFrQ2RXMEdMbjZLbzRLTmVyLVlvSkNyaHdNb1JrRWlBNkVJbEJr?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "James Altucher: The Real Ceiling on Artificial Intelligence Isn't Chips or Code. It's Electricity, and He Says Elon Musk Just Found a Way Around It. - The Manila Times",
+      "d": "",
+      "s": "The Manila Times",
+      "tm": "10.03 21:12",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNVk5qQXNsYnlreHN5OE41UW9Cbm0tY1YteUV2QmFzZXh5ZjdqR0ZKZ3NGRVlSUXRXbDl4dHdPZDgxSXBySXBodWdwcXF6VHV3NFBmR0xuQWdWVTRuckZyMUVTMXNNc2tpUV9hSDZZWXNxUU9lZ3NnVWpkR0stWDlneUwyTHZFeXhPVExTUS1uY1FmM1NHdHlMTURSQjBIOGl1cXhyWlBSTHpMWXJpQzJNWTBlamNTVk9PX3oyVFJkamlPSEdVeFBueXprUU5fZXZDbEFsalBSVGxMNWQ2UEk2QUIwWkdQdVVnQ05DVHFicGVDcUgweEJSbnpKTXhkcjc4Z01kNTYtNE5iV0J4d0t1UVhGUGFjRUV6LXRzUXljTUxFQnNkNmVfVFhzMlNiQS1pWFA3N0xSTnUyLXRn0gHCAkFVX3lxTE9WdVpEV0NOb0h3V2ItemhOMXozNVUybGRQY2VNTHREWGM5cWhkbkw2Tm5zeElJWlFKb0hZQVNFeFB6bWJoazVmNUQtLWFLS1VHZE9qcUgxUzBGYXlKZXpKVm4ydXFIMTFPTVkzUDlxaFdDbHd4WnhMNjhhWjU3MGtZc1ZxYjRVc2FSZm5IZWF1YzVMNEI0YVpjb0xXdkpxcDRDakRWWTFoYmlmdERZR0ZPYnRTQUlPczBGU01OQkxLTlV1TFAzdFJVSmhyZWZQWlBMTDdNTU56UUJ4VjBMMjNoNlJXaWZoTlZYLWV3Qjd2cjU3VVNCTXpZbC1WZ0xxQjZWSDdwelJpRjVjTFQ3V1VKb3FOZE1OYjViZGxGX1lHQzVYWi1ZaGwzTmMxR2RxdGNPNnVsNXlqV1lZMGpJcG1kT2c?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "안드로이드 악성코드 2종, AI로 은행 PIN·로그인 정보 탈취 - 매일신문",
+      "d": "",
+      "s": "매일신문",
+      "tm": "10.03 21:11",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kSkxRRzdIaF9wTFhEUVRvZlRxTWxLTGVNWlRFajhfRGswN3JlQjNWc0lXZzk5WlpoWHJoM09hVmZ0X1ZheUd3ZXRLUzRqTFB2Y2djMi1oX1V3QlNBNTk2Mmhn?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "'잭팟' 꿈꾸고 뛰어들었다가…AI 숏드라마의 '눈물' [김예랑의 K컬처인사이드] - 한국경제",
+      "d": "",
+      "s": "한국경제",
+      "tm": "10.03 21:10",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fQkYta21SLWNaREtrYWRGdjdBczByVHY1OU9VX2VhQWF5b0xxQmJIMDZTSlJISS1LeVA1aVBkcm9HSENia0FQMUVZV084N2sycVZrVGQyRUNjQQ?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "김여정 “우리 AI 미사일 타격 못 피해”…한·일 탐지 한계 주장 - 한겨레",
+      "d": "",
+      "s": "한겨레",
+      "tm": "10.03 21:08",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9la0ZraWlpUG5kX3M3NklaY09YTC04RzZfQVpDRm8wLTM0OFVzSHRyZXhmc0tveGQtcm40alhwb2cxX0xwZjVQNWh0al9IN1JVVHpGMVoyZjlGbWRVUzN1VHVkaTZlaU41?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "경기교육청-에스토니아, AI 교육 ‘교류’ 넘어 실무협력 가동 - 천지일보",
+      "d": "",
+      "s": "천지일보",
+      "tm": "10.03 21:07",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sSUxkVVFVRXhDcVlKMmJfYUNnd0Rqazg5M1RkeWNtdkcxaTdEYmFIci1qTFp5MU4tREZ2NEFXR2IzbEhGR0dDRVBVSHZQTXZwUW9uZHd0ekpRRDdWZUcxS3ljTlhCOE5LN0E?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "Pushing the needle too far on AI - Halston Media Group",
+      "d": "",
+      "s": "Halston Media Group",
+      "tm": "10.03 21:05",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOG84ZzVDRjliUWxLd1owcGh3NTJVQ0VlVXdid2dtak5LX0pWa1pQa1lYQ1lPc196bzNIdXdCMEVJakVWc0JJdkpkb1kxck05WFpwRUsyVFNSYUhHWFlnZkY2SXBoTzVwb2VYeVF5cEVINmdOU1RKT1UxT0l5R0xINmtB?oc=5"
+    },
+    {
+      "c": "AI/기술",
+      "t": "‘24시간 전천후’ 자율AI 에이전트 ‘경쟁’ 불붙어 - 애플경제",
+      "d": "",
+      "s": "애플경제",
+      "tm": "10.03 21:04",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuaWRZM2pwYkh2azREX3hIc1F4ekJJLUt1TGFwbXM4SnY5YlNHWjhlM1M1cjNXdnh4TURXMVhscktDOENuRUdPaDlXV2VrYU91R2lxVkFHS3F6UDNfR0xva0ViTHlKV0ZX?oc=5"
+    },
+    {
+      "c": "디지털휴먼/가상인간",
+      "t": "디오비스튜디오 “실시간 맥락 읽는 AI 영상 필터, 라이브스타일러” [...",
+      "d": "버추얼 휴먼 모델을 제작했다. 이후 빠르게 변하는 AI 기술 환경에 맞춰 사업 방향을 조정했고, 2025년에는... 권영준 대표는 1997년부터 게임, 음악 등 디지털 콘텐츠 관련 스타트업을 창업했다. 2014년부터는 개인... ",
+      "s": "네이버뉴스",
+      "tm": "10.02 17:04",
+      "link": "https://it.donga.com/109644/"
+    },
+    {
+      "c": "디지털휴먼/가상인간",
+      "t": "건국대 '3차원 사람' 모습 구현 AI 알고리즘 개발...'대전 창업도시-건국...",
+      "d": "이에 따라 여러 대의 카메라를 이용해 많은 영상을 확보하기 어려운 환경에서도 정밀한 3차원 사람 영상을 구현할 수 있어 향후 가상ㆍ증강현실과 디지털 휴먼 등 실감형 콘텐츠 제작, 원격 소통 분야 등에 활용될... ",
+      "s": "네이버뉴스",
+      "tm": "10.02 08:20",
+      "link": "http://www.wsobi.com/news/articleView.html?idxno=319117"
+    },
+    {
+      "c": "디지털휴먼/가상인간",
+      "t": "글로벌 게임사 모으고 콘텐츠 넓히고… 달라진 지스타 2026",
+      "d": "이곳에서는 탐험·건설·생존을 결합한 '원스 휴먼'과 게임스컴 어워드 수상작인 무협 액션 RPG '연운'의... 현대차 부스에서는 국내 최대 e스포츠 챔피언십 '2026 현대 N 버추얼컵' 그랜드 파이널이 개최되며 심레이싱... ",
+      "s": "네이버뉴스",
+      "tm": "10.01 21:08",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=752532"
+    },
+    {
+      "c": "디지털휴먼/가상인간",
+      "t": "'3N 없는 지스타' 낯선 얼굴이 채웠다…관전 포인트는",
+      "d": "넷이즈게임즈는 '렘넌트의 바다'와 '원스 휴먼', 오픈월드 무협 RPG '연운'을 내놓고, CDPR은 '더 위쳐 3... 11월 22일 제2전시장에서는 레이싱 게임 '그란투리스모7'으로 겨루는 '현대 N 버추얼 컵 2026' 그랜드 파이널이... ",
+      "s": "네이버뉴스",
+      "tm": "10.01 15:50",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321070"
+    },
+    {
+      "c": "디지털휴먼/가상인간",
+      "t": "‘대형사 불참’ 우려 벗은 지스타… '글로벌·AI'로 새판 짠다",
+      "d": "넷이즈게임즈는 ‘연운’과 ‘원스 휴먼’을, CD 프로젝트 레드는 ‘더 위쳐3: 와일드 헌트’와... 여기에 현대자동차의 ‘현대 N 버추얼 컵 2026’ 그랜드 파이널도 지스타에서 열린다. 아시안게임 e스포츠 정식 종목인... ",
+      "s": "네이버뉴스",
+      "tm": "10.01 14:50",
+      "link": "https://www.asiatime.co.kr/article/20261001500338"
+    },
+    {
+      "c": "디지털휴먼/가상인간",
+      "t": "전진수 대표 \"가상 인간, 메타버스와 AI가 만나는 지점\" - The Miilk",
+      "d": "",
+      "s": "The Miilk",
+      "tm": "10.01 12:08",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OZjNPUm85QWtDZ0FnUmRMdVp1aEVhR2d6Ty0wTXJQTUdJLURqY28xQ3lHbDBfbExvN2FORjBqazJyRWJCR1dCbHIwQkI4RG02cGI0LWJsVQ?oc=5"
+    },
+    {
+      "c": "디지털휴먼/가상인간",
+      "t": "3N 빠진 ‘지스타’, 해외 게임사가 채운다… 글로벌 게임쇼로 체질변화",
+      "d": "‘원스 휴먼’을 출품한다. CD 프로젝트 레드 역시 ‘더 위쳐 3’와 ‘사이버펑크 2077’ 등 자사의 대표... 제2전시장에서는 ‘현대 N 버추얼 컵 2026’ 그랜드 파이널도 열린다. 아시안게임 e스포츠 종목인... ",
+      "s": "네이버뉴스",
+      "tm": "09.30 14:56",
+      "link": "https://www.ceoscoredaily.com/page/view/2026093010532739252"
+    },
+    {
+      "c": "디지털휴먼/가상인간",
+      "t": "홍익대 AI실감미디어디자인전공, 2027학년도 전기 석사과정 신입생 모집",
+      "d": "교육과정은 생성형 AI, XR·MR, 공간컴퓨팅, 디지털 휴먼, 버추얼 프로덕션, AI 미디어아트 등을 중심으로 구성된다. Unreal과 Unity, 생성형 AI, AI 글래스, 볼류메트릭 캡처, 실감음향, 디지털 휴먼, 공간컴퓨팅 등... ",
+      "s": "네이버뉴스",
+      "tm": "09.30 11:18",
+      "link": "https://www.lecturernews.com/news/articleView.html?idxno=211340"
+    },
+    {
+      "c": "디지털휴먼/가상인간",
+      "t": "AppDirect adds AI avatars to its technology commerce platform - Channel Dive",
+      "d": "",
+      "s": "Channel Dive",
+      "tm": "09.30 05:47",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcml3RzBKcUhTMVZGQnhyQVU0aVBZTFR6NGlvcFFRYlR6d1phRThaNUI2Y29VZEZEdDZFWDRsVWFUdVJiaF9ETS1MS3ZyRWdoeUFKcjhIQkVmVmcxSmZ3VzJWOHJUekotSkR4dW1hZFZyV2V3a2N2a2VIOE9Lb24ybnZmNmdka3FQZzB6T2ljSjNZbHM3YllLcFdNN3dxWnpvQnJDag?oc=5"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "RoboParty Unveils RP1, a High-Performance Full-Stack Open-Source Humanoid Robot at IROS - PA Media",
+      "d": "",
+      "s": "PA Media",
+      "tm": "10.04 01:02",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdFdncEpOYTZkeGdBNFl6YUU5YWhZVWwtM29mM3FEOWp1N2xyOXZLeFhZM2xqaUY5MDVyZDhzeWdwZGNOc2VlMnNhM19BYzBJVDFtSlA3SUUyaHJkNHpuZXRvWGR4R3VzdmI2R2Z2UEhtY0d6OFF4OVhpT2phajRTbzZwX2VfdEw1Z1B6NUlkRk5BY210SFE2eVVZal96cGd0U0NGY05kZlZFV0RkLUZxYlpuMTNfRUc1TjBsRE5rTk5melJCSmRmZXFrcmNkOW9YeEQ5LQ?oc=5"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "빨래부터 진열까지…일손 돕는 AI 로봇 ‘타쿠’ 공개",
+      "d": "북가주 레드우드시티의 로봇 기업 다이나 로보틱스(DYNA Robotics)가 집 안 빨래부터 가게 물품 진열까지 수행할 수 있는 새로운 반휴머노이드(semi-humanoid) 로봇을 선보여 화제가 되고 있다. ABC7에 따르면, 다이나 로보틱스는... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 01:02",
+      "link": "https://www.koreadaily.com/article/20261003090032783"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "Steam Frame Is VR Gaming’s Swan Song Moment - GameSpot",
+      "d": "",
+      "s": "GameSpot",
+      "tm": "10.04 01:00",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb2lQMGc2QmxELXhPTkpGSFFfYTdXeVBpYThSN1duWktPOWs0YWhsbUUxNWhic1JIOWdjNlZUeE5mYmtoNHREM21YRXpYYkhLUFVxV2NOSF9Ub096b0J6eWZwYndpWDdScmpURUFSWndSdVhQejRRY2Y0N0tTVm5yWg?oc=5"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "Candela Credits Mr. Niebla, Héctor Garza & Hijo del Perro Aguayo - Fightful",
+      "d": "",
+      "s": "Fightful",
+      "tm": "10.04 00:57",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSU1WQWY1MmlWSTVUVTJZN2ZlZ1VTdmZnM3VwbG5fUjRzMnhLTzNVRmZPLTdDX005a3NpODBQTnctbzA2eGpaVzFGekkxa0FrRXJsTl9FTmJPeXNJZjY0UG0zLUU4Z3Ayb1F2cWhTdDJQNXROeThvVVpaWVlyZ3BRcVRESEFtdGtUZGYyUjNlRllwbGRLUWFSUkQzMG9ZVXpJM1ZHalgtb1ZzV0JQano3Nlg3b1gtSGJfRVJESmxpV25xTkRMR3pSV3FYRHlid2JVQnFMbXlhbUVkWmQ5aUVidFJNWjBXZms?oc=5"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "The Night Light: 'Mr. Civil Rights' - Modern Ghana",
+      "d": "",
+      "s": "Modern Ghana",
+      "tm": "10.04 00:46",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTNmlsNUg0X0wwQUFIYjJDSjdjZkpma0t2ZkUxeW1aQW5lZkR3WTcxRXQxNXVjNEVkVEoxU2ZOVmpfMS1UeUdCenZBTThyR21LcUNjdHJWeHZITExuWmtN0gFcQVVfeXFMT2tpQ2dXdHVZYkZCdVVUTTlDMTh1YUp1OXdOYnBVbDEwY1pDX1RVcEtZcmxxd0Jsc3lld2ljRWxFMm0wU2czc0E4ZTJIaFBwV2o3SmxpOE04bHd5THU?oc=5"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "국가자연유산 '명승' 전등사에서 만끽하는 가을의 향연",
+      "d": "고즈넉한 천년고찰에 등장한 주인공은 휴머노이드 로봇이었다. 피지컬 AI 로봇인 '아이엘봇' 2대가 무대에 올라 뉴진스와 에이티즈 등 아이돌그룹의 인기곡에 맞춰 댄스 퍼포먼스를 보여줬다. 최첨단 기술과 전통문화가... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:42",
+      "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442832"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "Coding, math and robotics: get help with fun homework support - BurlingtonToday.com",
+      "d": "",
+      "s": "BurlingtonToday.com",
+      "tm": "10.04 00:33",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdlZOUnNOMWtTZnQ1SjNQYWFTSXJoX05VaW84cl9ZUVpIUXJSRGRyMk51S3YtQzl2M2U2MkYzRDc3RjRqT2FzY0ZBTFFEb0daRmY1eTZoYzNCZVkzTGdua3FQVXdCNXZVOXRjejJUN182TnM3amlFTi1uSkpzbXR4cjJzdl9NSXE4aXNHcHZFdEJ2N01KcTRSYzdtTXVvdTZkOHpoV21LaEhSMUxQOXllZw?oc=5"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "왜 다섯 손가락이 아닐까…보스턴다이나믹스, 네 손가락 아틀라스 공개 - ittimes.com",
+      "d": "",
+      "s": "ittimes.com",
+      "tm": "10.04 00:26",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXMnBEVnBrclJYMmNBNF92OWRZSDNkNlhydV93TzVpS25zcHRpRUpwZ2pUWTJCeVVCRlZPOFVPMnhBZGhZY3FQbTJLS3B5alFUZmZGN1FTVUZ4ZUk1ZFJTaV9iT0RTUXBy?oc=5"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "[수원 문화유산을 걷다] 1795년 정조의 행렬, 다시 그 길을 걷다",
+      "d": "역사적 공간을 활용한 공연뿐 아니라 한복 체험과 시민 참여 프로그램, 글로벌 프로그램, XR 체험 등 현대적인 콘텐츠도 마련돼 시민과 관광객이 수원화성을 다양한 방식으로 경험할 수 있도록 했다. 특히 화성행궁에서는... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:26",
+      "link": "https://www.suwonilbo.kr/view.html?id=L261003232048f68a"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "[이병태의 혁신 웨이브 &lt;6&gt;] 챗GPT 3년, 새로운 AI 시대에 대한 기대와 ...",
+      "d": "중국이 정부 재정으로 휴머노이드(인간형 로봇) 훈련 센터를 세워 사람 동작을 로봇이 관찰·모방하게 하는... 휴머노이드에서 중국 독점 가능성은 한국이 심각하게 걱정해야 할 사안이다.하이퍼스케일러와 신뢰재개발... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:24",
+      "link": "https://economychosun.com/site/data/html_dir/2026/09/19/2026091900026.html"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "Tennessee Prison Commissioner Resigns Days After Failed Execution",
+      "d": "Mr. Strada is expected to leave later this month. His departure will come after he oversaw... In a statement released by the governor’s office, Mr. Strada maintained that his agency had... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:20",
+      "link": "https://www.nytimes.com/2026/10/03/us/tennessee-prison-commissioner-resigns-christa-pike.html?partner=naver"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "Hands-On Debut: The Limited-Edition Casio G-Shock MR-G MRGD5000 Watch Renders A Classic Shape In Sapphire - aBlogtoWatch",
+      "d": "",
+      "s": "aBlogtoWatch",
+      "tm": "10.04 00:14",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObDlkMnRMNVdobVV5V3M0QkNOb0I2OWx3V2xkbWRFQ1dHU2o3ZnpId05jSU9UaTNJcGdFcHlEdGRtOEgzOGQ4eVdvVGc2ZlhjUlNYYkJpdXpGRWE1TW5YYzg4QzZyUlpEZDE1NDVoNGthV0VLUm56RnA1TlVLWjRNYjFYRnd3eWNpQ2VwMlpmcjB3NXdveXkwQVJFamI2UWppWThVejhrTEVHalI3QXRvcU11eUdZSGxWS0wyYTFpcXF0Q0FPRkJrazBzSGR1eFE?oc=5"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "中, 러시아 연해주 투자 확대…\"韓기업 진출, 제약 많아\"",
+      "d": "이 사업은 휴머노이드 로봇 생산과 극동 지역 제조 기업의 생산 자동화를 주요 목표로 한다. 우리나라도 연해주에 국내 기업의 진출 거점을 마련하기 위한 산업단지 조성을 추진한 바 있다. 한국토지주택공사(LH)는... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:02",
+      "link": "https://www.theguru.co.kr/news/article.html?no=107775"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "What to Know About France’s High School Protests",
+      "d": "Over 60 school staff members have been injured, including 40 principals, Mr. Geffray, the... More than 300 officers and gendarmes have been hurt in the protests, Mr. Nuñez said on social media.... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:00",
+      "link": "https://www.nytimes.com/2026/10/03/world/europe/high-school-student-protest-what-to-know.html?partner=naver"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "Keralam to set up AVGC-XR Centre of Excellence - ThePrint",
+      "d": "",
+      "s": "ThePrint",
+      "tm": "10.03 23:48",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOTlEd0EzZUJVeTY5TjRUQXpKZWxlMG1SejlkcENXamlVbFp5RWphOXd4dkRaTWRGcDVKcnhYRGZtVEtJVm1sSEVKYjJCOW1FUzZoeWJ0OGNLdXhuRjY2VERyUW1oWktRM2V5cmlVS21HZnh5WWxwdXFZMXp0dUdQcHBqMF94ZmNk0gGOAUFVX3lxTE9JXzJqWXNubjN1VUZGaHdKNHFnYkR6Zll5MEUyMXdJZnhpYjBfTm5OcjJGMEVGem9yQURpX2x5eUdqaUN6NzdZakFuMU5SQ0o4NWNhTzhLRGxOb1U4SEswVkpfRmNtbFZZdDVoYUEzSEpXQmdoamJqZC1ra25fSUdfZzN5OXdzdk10NUhyUkE?oc=5"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "The physical AI race will be won in the patent office - The Robot Report",
+      "d": "",
+      "s": "The Robot Report",
+      "tm": "10.03 23:36",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV09LVUhlaFNaTERwM2xWQ2pzNVNiTFVjS29SaDd0eDY4d0dKZjlpYUVEOHB4S0hGOEsyT3ZVVURpeF9tLUxMcE5QTk5Sb05jTU1pRVZlR0hjNXkwam5neTR1SGRkaFJ5THhhcnJzdkRJOVA2eUZ3M2FnZjR3NnZTaDRPUQ?oc=5"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "After Outcry, Monitors the Trump Administration Tried to Scrap Return to ...",
+      "d": "catastrophic,” Mr. Ripka said as he stood on Newport’s busy waterfront. Kurt Cochran and his... “We use the data all the time,” said Mr. Cochran, who had stopped at a marine hardware... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 23:26",
+      "link": "https://www.nytimes.com/2026/10/03/climate/after-outcry-monitors-the-trump-administration-tried-to-scrap-return-to-sea.html?partner=naver"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "Humanoid robots as your new cookware shopping buddy - Xinhua",
+      "d": "",
+      "s": "Xinhua",
+      "tm": "10.03 23:05",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BNGQxVkFhY1VEcHJmYnlIdmdUNGtwS0FGZ2hWTi1yaG5HVmRISEk3Qjc0ZnAweTZ3S1JaZUZKZmotM1d3U3E4ajEyZnFRSEJlYjVNZU1aUlBRdnJnZHlQUURhcERsVDIwRERVYzRZbXFoLVdMTklOUFFoc3Q?oc=5"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "Strength Tests From Around the World",
+      "d": "Not everyone is cut out for mallakhamb, Mr. Dhamne said. “You get rashes. Sometimes it burns... “We weren’t going to war as much, but they kept the Games,” Mr. Pettigrew said. Today, most... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 23:02",
+      "link": "https://www.nytimes.com/2026/10/03/well/move/world-strength-tests.html?partner=naver"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "Mr. Vegas and Etana Go Lovers Rock on ‘Walk Away from Love’ With The Supersonics Band - DancehallMag",
+      "d": "",
+      "s": "DancehallMag",
+      "tm": "10.03 23:01",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRzU2eHRXWjRLaTJLN3B2dHdRbWREX3RNRWktT2ZWVGlVM1RadUtfaGh1Ry1zTnhEMkVDcHg4dGN2VDE3SzA3VVJCU0VRWlNKTEs4TWQ1Z2swckc5Uzh1aTdVcFBpb3dTVUg1a19IZGRBMzUyc05Jdk9KNTRWY3BUbjVFcGlDb3pMd0RIZC1INy1VUmVwWGgxX1U1OURldEY4VHR3ZV9iUE1jQnE0dzRpREVSV2dwZW9qblNjRkxITVdDbjJ6eUhrVGlGQkk?oc=5"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "Startup Wrap: Gulf investors back robotics, fintech, beauty and proptech - arabnews.com",
+      "d": "",
+      "s": "arabnews.com",
+      "tm": "10.03 22:45",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ21nbnl5RDA0TmthVW04aUJuNUVWY2hLR21NbEZsS2VNbmh3RFFQMWhmMEVidUpZMXVKMUgtMUNKQkxxekJCV3poREpPb2xRX3V3VHVjczNMLW8wQzVnWFA0X0dJOHpqdkpxYjB0b3Vpek1rNWtrdTNiUW9KeDhvcXFSVlFZQlRiR3NudTk1bjd4TUU4ZUlleFZnQWQtNTlTTG9Xd0c2WWd4LVpCS21xMQ?oc=5"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "ENZO Hosts Make & Mingle Brunch with Local Ar... | 10/03/2026 11:00 AM - creativeloafing.com",
+      "d": "",
+      "s": "creativeloafing.com",
+      "tm": "10.03 22:35",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUThBWkdjVUh0eng4ZjRDNUhjRFMzMm5tcTNxbTFUN29EOFNaRTNmajJrYUUtUnhBOW9GeS1RY3c4cmxPeWJtRm1TaTV5bXZFUFNZR1IwcmpOM3RQb3YzWU5CS3lVWXNrTWlrQ2RSelJEYzVvd3FqZkdaNTAwWmhBUmVzUGxQX0p2?oc=5"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "Medical Plane Goes Missing on Flight From Bermuda to Boston",
+      "d": "Mr. Togeretz confirmed Saturday that the plane was missing and said that the company had contacted search and rescue and law enforcement teams. He declined to provide further information about... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 22:32",
+      "link": "https://www.nytimes.com/2026/10/03/us/medical-plane-missing-bermuda-boston.html?partner=naver"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "When the Price of (MR.UN) Talks, People Listen (MR.UN:CA) - Stock Traders Daily",
+      "d": "",
+      "s": "Stock Traders Daily",
+      "tm": "10.03 22:00",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOGlSSU1GdERVRkxhblQ4RkRmSDktdkJkVFpKcnI2bGdyZFU1LXVEak5NZXVYVklIZDRIbV9iRGJtMi1McThMY3pRSXZTdHhuR2JIZ3MybkxnUk1LVl84ckZMTlhMQ3RkOTY4a1UxWERjdDJhOC1UVVV5ek9NSnJxREoyb1lyLW5OLVhRenpDZTcwdGRBZWZNYk1GTndCdWxpMlhR?oc=5"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "Interview: Anthony Nunziata & Elizabeth Stuart on MR. ANTHONY & FRIENDS Kids Show - BroadwayWorld",
+      "d": "",
+      "s": "BroadwayWorld",
+      "tm": "10.03 22:00",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYkJ1TUgwQVpyQ0JWT1VITTV1MmotVmJ2ZEVCdkZJM2JrWkxfVTdBSnBDM3NOUDVmeFdfTE1fdlFwTEF4dE5hU3BoOE1wUFpEQkZtUjVBRGtZczF5anA4SjF2SDhkX0YzV0lxeURJd1RHVWVTVHFkZHlxSFNCMW9LbDM4SERHRVRqZFQ4c0djWVB1dGs0cVotczRHbmg1ZlRGTWNlSm9vOEtEaHhGM0NILUN5bWMzWEZiM2dMNGRWWmNucnhVTjJkRXZn?oc=5"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "로봇·방산·이차전지 ‘지역 거점’ 키운다 … 3개 특화단지에 민간 12...",
+      "d": "대구·경북은 차세대 휴머노이드 로봇 생산기지로, 경남 창원은 첨단항공엔진을 중심으로 한 방산 거점으로... 대구·경북, 휴머노이드 연구부터 생산까지…5조3839억 원 투자 로봇 분야에서는 대구·경북이 국내 첫... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 21:58",
+      "link": "https://www.dailyt.co.kr/newsView/dlt202610030006"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "ELDEN RING: Blood Rose Paladin Build (\"Nah, Let Me Tank Him\" As I Do 1874 AR & 178 Bleed per Second) - YouTube",
+      "d": "",
+      "s": "YouTube",
+      "tm": "10.03 21:55",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5uSlNodEliWFZiYVlpOFo3SmFXSUh3Z2dwSmRKeUJiMFBkXzRfZmVLUExGUHVTYVEyTXprQWtOWU9NUQ?oc=5"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "China readies military for high-tech warfare with specialized colleges - Interesting Engineering",
+      "d": "",
+      "s": "Interesting Engineering",
+      "tm": "10.03 21:37",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaV9UcFNJTDZTMU5qWnl0TzNXdkFTM2tGX004T1ZtbEFPbml3dWN1T29oSXR2WEk5OTJUV1pORGNEbWFUa1NFRGlDaUFPMGtQa3lDbVNYeU1ydXM4WDJ4Wi0xMVlSbks0WXl5TGJ6RVFPS2ltZkVQYS1mUzJjM243TXMyeFhncFRZb0hZclFzQ2lJSTg?oc=5"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "The Long Blue Line: World War II Combat veteran Stanley Berman tells his story - United States Coast Guard (.mil)",
+      "d": "",
+      "s": "United States Coast Guard (.mil)",
+      "tm": "10.03 21:25",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbDQ2Q1FNNkY2ZUlhNW9UbEZjTFFaWGJNdHZqUFZJREROWVR6dEpoR0dvZkZTWEJVM1owaDc3NXZJU0Jfa0RHdVVIaXFWZERPU1ctNzktdzZxM1EzZEVtMHZBd2cxY2Zsc3JoazU3eU1yNGphTXZJVXluMXo2X2N3MFdEQjZaeUF0WEY1dGEwUmdxVk5zV0xGZW56cTBSMDcyMXgwdDYwVnVnUDg1RjRoNVRWRW5KSG1nV29Mc281NWtDOGM?oc=5"
+    },
+    {
+      "c": "로보틱스/피지컬AI",
+      "t": "From Surgery to Diagnostics: Robotics Enters New Healthcare Frontiers - The Indian Practitioner",
+      "d": "",
+      "s": "The Indian Practitioner",
+      "tm": "10.03 21:09",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWl9WbmUwMmNYc21SMkZNT3lhY2x3d2hxS2FWQjVaMEJWVG52R1NsZ1FHTE01ZUpVRkMzcl9MaE1rZG9TeG5ocURkb0Z3bGR2RGQzUGpoTzBCN25zbEx3S2RqYkxBRS1mWUNPeXpvb01MMEZlWmpvWXhiY0NUUEpyYkl6VnFzdkhpamg1cl9VVzBzUWNyUFNuaHVoM2FFVlhaekJXU29n?oc=5"
+    },
+    {
+      "c": "AI반도체/인프라",
+      "t": "Nvidia RTX 5070 becomes Steam’s most-used GPU in the latest hardware survey - DLCompare.com",
+      "d": "",
+      "s": "DLCompare.com",
+      "tm": "10.04 01:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNFc3Y3VkeklrbDZhVE4wczM3SFhNMkV2a2lLRHcwSW1XcHlvRTRjMWd0OGlSV0tHa3NFOUtrS0pXZ0NPLTMwVmRKbEtSOUhNR2kwa241WHlxajA5ME5Ia3ZuRXR5RFJTeF9oVlp0TDlhanZ5bW52eFNva1hCZWZMUV9ScGhtUjB5NmxpeUNhMURWMEpXLTZrVlV1MDhmbXYwMUdKaU1jRnEwMHY2VUdWY0hYaUdIeVJDM1BJ?oc=5"
+    },
+    {
+      "c": "AI반도체/인프라",
+      "t": "[투데이 시그널] AI가 행동하기 시작했다 엔비디아, 통제 벗어난 에이전...",
+      "d": "엔비디아는 그래픽처리장치(GPU)를 넘어 중앙처리장치, 네트워킹, AI 소프트웨어와 기업용 AI 플랫폼으로... 엔비디아는 GPU로 AI의 계산을 지원하는 데서 한 걸음 더 나아가 에이전트가 실제로 행동할 수 있는 경계까지... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:46",
+      "link": "https://www.koreaittimes.com/news/articleView.html?idxno=157798"
+    },
+    {
+      "c": "AI반도체/인프라",
+      "t": "광통신주 일제히 '빨간불'…빛샘전자·성호전자 두 자릿수 상승률 급등",
+      "d": "최근 광통신주는 AI 데이터센터와 고속 네트워크 인프라 투자 흐름에 따라 주가 변동성이 확대되는 모습을 보여왔다. 광섬유 광케이블부터 광증폭기와 광통신 부품까지 종목별 사업 영역이 다른 만큼 개별 기업의... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:36",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=612225"
+    },
+    {
+      "c": "AI반도체/인프라",
+      "t": "삼성에 2만평 무상 제공한 BS그룹…구자근 \"추가 땅은 평당 100만원 요구...",
+      "d": "국가 AI 컴퓨팅센터는 과학기술정보통신부가 추진하는 데이터센터 구축 사업으로, 지난 8월 솔라시도에서 착공했다. 사업자로 선정된 컨소시엄에는 삼성SDS가 지분 30%, 네이버가 26%를 보유하고 있으며 전남도와... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:24",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321253"
+    },
+    {
+      "c": "AI반도체/인프라",
+      "t": "삼전 실적과 고금리의 줄다리기…코스피 6500~7500 [주간 증시 전망]",
+      "d": "고금리·고유가 우려 속 개최된 미중 정상회담이 '맹탕'으로 마무리된 가운데 주 후반 발표된 미국 반도체기... 인공지능(AI) 사이클로 상승 동력을 확보할 필요가 있다\"고 말했다. 특히 \"삼성전자의 분기 이익 100조원 최초... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:11",
+      "link": "https://www.dailian.co.kr/news/view/1697533/?sc=Naver"
+    },
+    {
+      "c": "AI반도체/인프라",
+      "t": "삼성전자 3분기 영업익 108조 전망…HBM이 실적 끌어올린다",
+      "d": "하나증권은 최근 보고서에서 환율 가정을 낮추면서 실적 추정치를 일부 조정했지만 HBM을 중심으로 한... 메모리 가격 상승과 HBM 중심의 출하 증가가 실적 개선을 이끌 것으로 예상된다. DRAM과 NAND 가격도 우호적인... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:10",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492475"
+    },
+    {
+      "c": "AI반도체/인프라",
+      "t": "[통신리뷰] KT '사장이지', AI면접부터 마케팅까지…소상공인 경영 지원...",
+      "d": "AI 서비스가 확산되면서 그래픽처리장치(GPU)와 전력 등 서비스 운영에 필요한 비용이 늘어나고 있어, 같은... 양사가 보유한 역량을 결합해 AI 서비스 운영에 필요한 GPU와 전력 사용량을 줄이면서도 응답 속도와... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:02",
+      "link": "https://www.theguru.co.kr/news/article.html?no=107850"
+    },
+    {
+      "c": "AI반도체/인프라",
+      "t": "中 AI칩 시장 급성장…韓 HBM·첨단 패키징 수혜 기대",
+      "d": "데이터센터와 AI 연산을 전문적으로 처리하는 지능형 컴퓨팅센터 구축이 늘면서 그래픽처리장치(GPU)와... 기업들은 GPU와 인공지능 가속기 등 제품군을 확대하고 있다. 경쟁은 소프트웨어 생태계로도 번지고... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:02",
+      "link": "https://www.theguru.co.kr/news/article.html?no=107840"
+    },
+    {
+      "c": "AI반도체/인프라",
+      "t": "美 실리콘밸리 AI 경쟁, 전력인프라 확충으로 대전환…韓기업 기회 확대",
+      "d": "데이터센터 병목, GPU서 전력·냉각으로 이동 UL인증·현지 대응력 갖춰 리스크 대비해야  미국... 기업들의 관심이 'GPU를 얼마나 확보·설치할 것인가'에서 '확보한 전력으로 얼마나 많은 AI 연산을 안정적으로 제공할... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:02",
+      "link": "https://www.theguru.co.kr/news/article.html?no=107784"
+    },
+    {
+      "c": "AI반도체/인프라",
+      "t": "SOXL 20억달러 손바뀜…서학개미, 반도체주 집중 거래",
+      "d": "인공지능(AI) 서버와 고대역폭메모리(HBM) 수요가 집중된 데이터센터 사업 매출은 전년 동기 대비 11배 이상 증가한 180억달러를 기록했다. 샌디스크에도 매수세가 유입됐다. 샌디스크의 매수결제 금액은... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:02",
+      "link": "http://www.kjdaily.com/article.php?aid=1791039602688189276"
+    },
+    {
+      "c": "AI반도체/인프라",
+      "t": "[김대호 진단] 반도체 열전 (60) 솔리다임... 최태원의 승부수",
+      "d": "데이터 입출력 병목에 시달리던 엔비디아 GPU 기반 AI 가속기 클러스터에 솔리다임의 QLC eSSD는 대체 불가능한 핵심 부품으로 급부상했다. 그간 TLC에 안주하며 QLC 전환을 늦추었던 경쟁사들은 허를 찔렸다.... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:00",
+      "link": "https://www.g-enews.com/view.php?ud=202609280920022891906806b77b_1"
+    },
+    {
+      "c": "AI반도체/인프라",
+      "t": "[더페어 돋보기] \"외인 장바구니 뚜렷한 온도차\"…4분기 지분율 상·하위...",
+      "d": "글로벌 AI 인프라 투자 확대의 수혜가 예상되는 주성엔지니어링, 리노공업, 심텍 등 반도체 밸류체인 핵심 기업들의 외국인 지분율이 빠르게 확대됐다. 이와 함께 안정적인 실적 흐름과 주주환원 확대를 이끌어내고 있는... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:00",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=89724"
+    },
+    {
+      "c": "AI반도체/인프라",
+      "t": "Lian Li Launches Edge Platinum V2 And Edge Gold V2 PSUs With GPU Cable Thermal Monitoring - Pokde.Net",
+      "d": "",
+      "s": "Pokde.Net",
+      "tm": "10.03 23:53",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EX3ViUTNwcjhlcmI4TllfREhrRlUtSDNOQmZMeE4tX2VzSnMzdWhUZWRzdEdRMlRrbDIyQTFvb0JkRVpua0tkajFtSmp0RXVnM0N1ZE5fSjBOaUtJN25wMWhHUXdPM3lsNnRoZXNBdTRhUQ?oc=5"
+    },
+    {
+      "c": "AI반도체/인프라",
+      "t": "Huawei Highlights Continuous Innovation, Securing Competitive Edge Through Technological Breakthroughs - TradingView",
+      "d": "",
+      "s": "TradingView",
+      "tm": "10.03 22:45",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQjVtcDF5azJEOWF5YkdvUW9MZVJGcUFMeTROT2xhXzNWNGtHSGs1bTlWQXRRYk1pdFpfR0JpN3VZV0pVa2ZLY2t4UlNoeTFCSGNhbFVvYTJsNUpsUjdSOVVjQzNQbHdzdXU0aU94bXY4dUF4b2RWU1pVT09fc3l5eFJsWEgzd2JMRlkzZUVPWG9USFdXT3N5TlNvRjI2MHJ6MTk2YzhBS2NseHo1bDFudkZoR0w3LVR1eHNOWWRVRk5hOGtEUXpQT2ZTOHY2Z1dIano5aHJTaHdYRlh5MDhSZWV2VFhzRlVBTktv?oc=5"
+    },
+    {
+      "c": "AI반도체/인프라",
+      "t": "DLSS 5 neural rendering on AMD has never been easier as modders get to work - Notebookcheck",
+      "d": "",
+      "s": "Notebookcheck",
+      "tm": "10.03 22:00",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSGlxT2JjMDJyRDRGNmJxZFpkSndfNmUtX0lnRDlnbS1NR084WFZ6X3AzeUJOSG5INncyeXlrZzl5WlpValJlNTJiQ0ZEVmU1aGxaZjZiVmRtNVNqcjNtaHVPdWQ4cFFLWWpZYk1ocVBVbzNRcmRrWnEyUkRnRTdhYWsxelhqVnZfSkwtbndxcVVhdG44YVRMaVFKVzFianczQmsxWDM5YnVlREdQZ2Y1V3Y2SXVISm5Tb1RsQw?oc=5"
+    },
+    {
+      "c": "AI반도체/인프라",
+      "t": "Amazon’s $1B data center pledge underscores rising tension over AI build-out - The Seattle Times",
+      "d": "",
+      "s": "The Seattle Times",
+      "tm": "10.03 22:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQckdpalFNLUtvOXl1V3ZDQTB5TkRHdGczTlhYY3pBNFI2a3Q1SWFRNk5MZ2xrSjJZd1RxUDItcnNmN1Ytd3ZheldfeHJzMmhWZlI4OS1Ub1pXSEVrdExvMkNxSzY5VW82UTNqT1VIWmJjbkZYMnhfcjFLQV9FWER4RS0xd1RNMXFGYW5BUE5lYmE0Y3IwZW9uSU5abTRJU0Z2SndsdWJkRk5vUlN6VEgwY3FGdw?oc=5"
+    },
+    {
+      "c": "AI반도체/인프라",
+      "t": "\"수익성 불투명한 10조달러 투자\"...월가, AI 거품 붕괴 경고 - AI타임스",
+      "d": "",
+      "s": "AI타임스",
+      "tm": "10.03 21:55",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZMkZ0SHNobUhzOGoxWUl5bGdOZXFaRHZKakJ3Rll3anNDTmFGaHBQa29KemFMNHVQN0JQU2hzN3VyVHBMUFRraFdZUmFVNHhDN3haTV9RR2V0Z2I1Zk4ybUJJSVdHZjJDMUE?oc=5"
+    },
+    {
+      "c": "AI반도체/인프라",
+      "t": "LG유플러스, AI 토큰 처리량 최대 4배 높였다 …GPU 최적화 기술 확보 - 더글로벌기빙뉴스",
+      "d": "",
+      "s": "더글로벌기빙뉴스",
+      "tm": "10.03 21:20",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yamhvaXQ2SWl0QjF6OVpQZlo2c0VIa01KbnQ0RGxzS1oyc2NxS2RyZnNLQ3d3WFExdWlscDFJa1d5VmswVllQOTQ4dmJ6RFFGTnhqaQ?oc=5"
+    },
+    {
+      "c": "IP/K-Culture/저작권",
+      "t": "From K-pop to AI, Karnataka seeks deeper ties with Korea - YourStory.com",
+      "d": "",
+      "s": "YourStory.com",
+      "tm": "10.04 01:00",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTUNwN1pRYnVyMmZ5WnJXMUVWWlBERzdKWHNrOHNrWGNiTnBpcWxTZHlONUdwbDVLN0x4ZzdDRlc3NnNpSmU3SE1lNW5saGx5OWh0WmtBZ2xwR2Zjb1FyR2VoSEVDaFdySXVYckRhZVdmaWJPODBjbzBCV3c3UFZjYlRMY0R4dWFr?oc=5"
+    },
+    {
+      "c": "IP/K-Culture/저작권",
+      "t": "신작 출시 재개하는 카카오게임즈, '도깨비의세계'로 분기점 만들까",
+      "d": "주요 콘텐츠와 운영 방향을 공개했다. '도깨비의세계', 직업·성장 부담 낮춘 MMORPG 도깨비의세계는 웹소설·웹툰 '멸귀수도전' 지식재산권(IP)을 바탕으로 한국적인 세계관을 구현한 MMORPG다. 2D 도트 캐릭터와 3D 배경을... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 01:00",
+      "link": "https://www.smartbizn.com/news/articleView.html?idxno=155499"
+    },
+    {
+      "c": "IP/K-Culture/저작권",
+      "t": "영남대, K-콘텐츠로 배우는 한국문화 강좌가 2025년 K-MOOC 블루리본 강...",
+      "d": "영남대가 운영하는 K-MOOC ‘K-콘텐츠로 배우는 한국문화’강좌가 국가평생교육진흥원이 선정한 2025년 K-MOOC 블루리본 강좌에 선정됐다. 3일 영남대에 따르면 K-MOOC 블루리본 강좌는 연차평가 결과를 바탕으로 운영의... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:21",
+      "link": "https://biz.heraldcorp.com/article/10892734?ref=naver"
+    },
+    {
+      "c": "IP/K-Culture/저작권",
+      "t": "삼립의 반격 시작됐다…베이커리 강자, 하반기 실적 회복 전망",
+      "d": "포켓몬빵과 같은 IP 활용 제품을 통해 새로운 수요를 만들어낸 경험이 있다. 기존 제품군에 새로운 콘텐츠를 결합해 소비자의 관심을 끌어낼 수 있는 역량을 갖추고 있다는 평가다. 제조와 신선 유통망 역시 경쟁력으로... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:16",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492474"
+    },
+    {
+      "c": "IP/K-Culture/저작권",
+      "t": "[인플루언서 프리즘] \"스매시 안 맞는 이유 있었네\"…배드민턴 족집게 ...",
+      "d": "'팔부터 움직이면 스윙이 무너집니다' 콘텐츠 역시 팔과 어깨의 힘을 빼고 천천히 움직이며 타점과 거리... 이 밖에도 K-컬처 플랫폼 보이스오브유가 제공하는 인플루언서 마켓 리서치(IMR) 자료에 따르면... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:01",
+      "link": "https://news.tf.co.kr/read/livingculture/2372498.htm"
+    },
+    {
+      "c": "IP/K-Culture/저작권",
+      "t": "HABOL LANG PO SA BOYFRIEND DAY Stray Kids' Bang Chan shared photos of himself enjoying the day surrounded by lush greenery and the outdoors. The K-pop star is also celebrating his birthday. (📷: Bang Chan/IG) - facebook.com",
+      "d": "",
+      "s": "facebook.com",
+      "tm": "10.03 23:59",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNWdaZnN5MVpvUDluVFdtRlk5NGFJclVZVVNEYlZOTk5fTHFHQmYtbWtXV1ZtTWl2OWlvZEpNM2xVSU9ISWtRSlZuUm0wd2F6c2NTbnlrcmtXTXdDMDlaYko1azNjLVE5cVhHVlhCOVRUSTh6eUNfaDBReko4V0FHR0tXbExnSVcxZV93TlUzRUJoVER2SlZiS3NqZl9RdUcxS2N0M21XNllhT1pCQ05hcDJVa2x0LXpCZkVNNzdiZUlwTlFoRkZIWDUxNkJyTVJwbEpZM1VpRQ?oc=5"
+    },
+    {
+      "c": "IP/K-Culture/저작권",
+      "t": "[패트롤] 구리시-남양주시-양평군-포천시-하남시",
+      "d": "댄스 그룹 디바, 트로트 가수 이대환, 이찬원, 아이돌 그룹 하이키 공연을 비롯해 포천 출신 신예를 발굴하는 '포천 케이팝(K-pop) 헌터스' 무대가 펼쳐진다. 행사 피날레는 밤 8시10분부터 시작되는 '드론라이트쇼'가... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 23:48",
+      "link": "https://www.ekn.kr/web/view.php?key=20261003020482043"
+    },
+    {
+      "c": "IP/K-Culture/저작권",
+      "t": "남종섭 의장, 바우덕이 세계화 힘 싣는다…\"남사당 흥과 멋 더 널리\"",
+      "d": "축제 기간에는 남사당놀이를 비롯해 전통연희와 마당놀이, 해외 공연, K-POP 공연 등 다양한 프로그램이 진행되며 전통과 현대, 국내외 문화가 어우러지는 무대를 관람객들에게 선보인다. 한편 남 의장은 이번 축제 참석을... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 23:28",
+      "link": "https://www.ajunews.com/view/20261003231237678"
+    },
+    {
+      "c": "IP/K-Culture/저작권",
+      "t": "진주남강유등축제, 7만여 유등 밝히며 화려한 개막",
+      "d": "촉석루 일원의 ‘조선 예인’, 진주성 중영의 ‘K-풍(酒)류’, 신안동 둔치의 ‘우주테마파크’... 또한 올해 축제는 단순 관람을 넘어 관광객이 직접 참여하는 체험형 콘텐츠도 대폭 강화했다. 진주대첩... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 23:18",
+      "link": "https://www.kukinews.com/article/view/kuk202610030053"
+    },
+    {
+      "c": "IP/K-Culture/저작권",
+      "t": "“먹태깡 시들했는데 두쫀쿠는 롱런”…해외서 잘나가는 K푸드, 이유 있...",
+      "d": "반대로 현지 소비자에게 익숙한 콘텐츠와 함께 바이럴되고 실제 맛까지 뒷받침된 제품은 국내 유행이 지나도 해외에서 꾸준히 팔리기도 한다. 윤영솔 고려무역 실장은 지난달 29일 인천 송도에서 열린 제24차... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 23:06",
+      "link": "https://www.mk.co.kr/article/12167855"
+    },
+    {
+      "c": "IP/K-Culture/저작권",
+      "t": "오세훈 시장, 3일 2026 강남페스티벌 참석",
+      "d": "매일일보 = 이창희 선임기자   | 오세훈 서울시장은 3일 오후 도산공원사거리 일대에서 열린 '2026 강남페스티벌'에 참석해 축제 개최를 축하하고, 시민들과 함께 패션·뷰티 등 강남의 다채로운 콘텐츠를 즐겼다. 이날 오... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 22:52",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=2002517"
+    },
+    {
+      "c": "IP/K-Culture/저작권",
+      "t": "천안 도심이 춤판으로 ··· 흥타령춤축제 '흥' 절정",
+      "d": "잔디마당 '랜덤플레이댄스'에는 약 150곡의 K-POP이 무작위로 흘러나왔고 시민과 청소년들이 무대에 올라 즉석에서 춤 실력을 겨뤘다. 종합운동장 주무대에서는 'DANCEFLEX: EDM 흥 나잇'이 열려 DJ들의 공연과 함께 관람객들이... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 21:56",
+      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1184990"
+    },
+    {
+      "c": "IP/K-Culture/저작권",
+      "t": "K-pop diplomacy? Karnataka woos Korea for investments - Deccan Herald",
+      "d": "",
+      "s": "Deccan Herald",
+      "tm": "10.03 21:40",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmZmOEQxQkFzQ1JkcE1UN294dEptZVdrU1U2clNjWTYteTc5UHhNdWE5NXBfM083RnpDWGlVaVk3YjZWUUczV1IzX05NeUJyaFJnalJ0UXZGWHF5aDMzSDRlbGxBeUhqMVpsSE41bzAzeG03NzR4Sk1FTGQ0bktmaEdpXzMzLWpCN1g0bHVlMmlaVTJGVlNCVnVfUkJXT19fZkd5YTZULXE?oc=5"
+    },
+    {
+      "c": "IP/K-Culture/저작권",
+      "t": "Lee Hyeori, WJSN's Dayoung Recreate K-pop Iconic Pose - 조선일보",
+      "d": "",
+      "s": "조선일보",
+      "tm": "10.03 21:33",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSkgyTnJNRC12Vm5FeWowaTlUd05tbXFGSjg0ckJMdHFta0ktQWV4Qm1JaDA4TFE2TVBGRlFVajh5MnktVlFDYmJUbjhVUEh2b2xJYXFOdmRXMDJFS2xPUWNnenN2dngzaEtqV2RWU1lWN0RzVS1GbHU4d2IxU1RqWkpjUjFPVW01MWZOY29R?oc=5"
+    },
+    {
+      "c": "IP/K-Culture/저작권",
+      "t": "'잭팟' 꿈꾸고 뛰어들었다가…AI 숏드라마의 '눈물' [김예랑의 K컬처인...",
+      "d": "숏폼 콘텐츠를 향한 글로벌 시청자들의 집착이 가빠지는 모양새다. 글로벌 앱 마켓 분석 업체 센서타워와... 어렵다\"며 \"품질 높은 IP 확보와 정교한 연출력이 뒷받침되지 않는 AI 숏드라마는 고사할 수밖에 없다\"고 말했다.",
+      "s": "네이버뉴스",
+      "tm": "10.03 21:11",
+      "link": "https://www.hankyung.com/article/202610029908H"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "11년째 잠정합의안 '일단 부결'…HD현대중공업 경쟁력 '경고등'",
+      "d": "국내 조선업은 중국 업체들의 거센 추격 속에서 친환경 선박과 스마트 조선소 등 미래 기술을 둘러싼... 무조건 부결이라는 인식보다는 합의안의 내용을 중심으로 판단하는 교섭 문화를 만들어야 한다\"라고 말했다.",
+      "s": "네이버뉴스",
+      "tm": "10.04 01:03",
+      "link": "https://www.fnnews.com/news/202610032320031307"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "국가자연유산 '명승' 전등사에서 만끽하는 가을의 향연",
+      "d": "전통문화, 공연과 예술을 두루 즐겨보시길 바란다\"고 밝혔다. 서운대종사 31주기 학술세미나 개최 한편 전등사는 서운스님 열반 31주기를 맞아 학술세미나를 개최한다. 10월5일 오후2시 전등사 역사문화교육관에서 열리는... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:42",
+      "link": "http://www.ibulgyo.com/news/articleView.html?idxno=442832"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "천재 신화와 국뽕과학을 넘어서…과학적 사고가 중요",
+      "d": "지난 글에서 연구 자격과 역량을 갖춘 과학기술자가 되는 길은 결코 쉽고 재미있지 않으며, 도리어 지루하고... 필자의 과욕 또는 지나친 바람일지도 모르겠으나, 과학 문화 확산을 위해 오늘도 애쓰시는 과학... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:42",
+      "link": "https://www.newsverse.kr/news/articleView.html?idxno=11582"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "이광수 '버블 중독' 심각하네…도경수 콘서트 중에도 몰래 하다 딱 걸렸...",
+      "d": "최근 온라인 커뮤니티와 SNS에는 도경수의 콘서트를 관람하던 이광수가 공연 도중 휴대전화를 확인하는 모습이 확산돼 눈길을 끌었다. 알고 보니 이광수는 팬 소통 플랫폼 버블을 통해 공연장의 생생한 분위기를... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:39",
+      "link": "https://www.mydaily.co.kr/page/view/2026100323464752795"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "[수원 문화유산을 걷다] 1795년 정조의 행렬, 다시 그 길을 걷다",
+      "d": "역사적 공간을 활용한 공연뿐 아니라 한복 체험과 시민 참여 프로그램, 글로벌 프로그램, XR 체험 등 현대적인 콘텐츠도 마련돼 시민과 관광객이 수원화성을 다양한 방식으로 경험할 수 있도록 했다. 특히 화성행궁에서는... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:26",
+      "link": "https://www.suwonilbo.kr/view.html?id=L261003232048f68a"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "삼성에 2만평 무상 제공한 BS그룹…구자근 \"추가 땅은 평당 100만원 요구...",
+      "d": "국가 AI 컴퓨팅센터는 과학기술정보통신부가 추진하는 데이터센터 구축 사업으로, 지난 8월 솔라시도에서... 구 의원은 문화체육관광부 고시상 솔라시도 구성지구의 토지매입비가 평당 6만원, 조성원가는 평당 약... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:24",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321253"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "엑소 수호, 러닝 축제에서 땀으로 전한 근황…네 번째 미니앨범까지",
+      "d": "그는 방송과 온라인 콘텐츠에서도 다채로운 모습을 보여줬다. 음악 프로그램과 토크·인터뷰 형식의 예능... 각종 음악 방송 무대와 라이브 공연을 통해 신곡 무대를 선보이며 엑소 활동과는 또 다른 솔로... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:24",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16237083"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "AI 시대 금수저보다 무서운 '뇌 사용의 양극화'",
+      "d": "AX CEO 해커톤' 행사에서 김정관 산업통상부 장관이 'AI시대와 CEO의 3A(ADAPT·ADEPT·ADOPT) 생존법'을 주제로... 한 가지 악기만 연주하던 사람에서 여러 악기의 소리를 듣고 하나의 음악으로 엮어내는 오케스트라의 지휘자로... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:18",
+      "link": "https://www.newsverse.kr/news/articleView.html?idxno=11580"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "역사 유적부터 열대우림까지…올해 주목할 해외 신상호텔 4곳",
+      "d": "현지 역사와 문화부터 자연 환경까지 각 호텔이 자리한 곳의 특징을 살린 점도 눈여겨볼 만하다. 눈길을... 전통적인 분위기에 장지앙 지역의 기술 혁신 이미지를 더해 공간을 꾸몄다. 객실은 아파트먼트와 스위트를... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:12",
+      "link": "https://www.mk.co.kr/article/12167859"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "악보의 p와 f, 정해진 데시벨 값은 없다",
+      "d": "편성과 음악적 맥락에 따라 해석이 달라진다고 설명한다. 실제 소리를 dB로 측정할 때도 측정 거리와 공간의 반사음 등 조건을 함께 고려해야 한다. 미국 산업안전보건청(OSHA)은 자유음장에서 점음원과의 거리가 두... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:04",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=391153"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "대형마트 휴무일? 이마트·롯데마트·홈플러스·코스트코 ‘할인 찬스’",
+      "d": "국내 대형마트는 유통산업발전법에 따라 매월 둘째·넷째 일요일 의무휴무일로 지정, 쉬는 날이다. 2026년... 재즈 공연과 디제잉쇼, 작곡가 김형석·가수 한해의 토크 콘서트 등 문화 공연도 준비돼있다. 시음한 주류는... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:02",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202610030145"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "[통신리뷰] KT '사장이지', AI면접부터 마케팅까지…소상공인 경영 지원...",
+      "d": "콘텐츠 제작과 실행, 성과 분석까지 지원하는 AI 기반 마케팅 서비스다. 소마AI는 오는 11월 말 정식... 티켓 뮤지컬·전시 할인 등 젊은 고객들이 일상에서 활용하기 좋은 혜택을 선보인다. 10월 한 달간 운영하는... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:02",
+      "link": "https://www.theguru.co.kr/news/article.html?no=107850"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "곡성군, 본격 가을 맞이…'야행·야시장' 등 야외 행사 눈길",
+      "d": "이어 전통시장 내부에서 문화예술 공연을 비롯해 읍면 대항 윷놀이 대회와 EDM 파티 등 방문객 참여형 이벤트를 전개하며 심청어린이대축제 행사와 연계한 합동 홍보 부스 운영, 사은품 증정 등 시장 활성화를 위한 후속... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:00",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000070065"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "이마트 롯데마트 홈플러스 대형마트 휴무일 대체공휴일 영업하나",
+      "d": "또한 다채로운 문화 공연도 준비돼 있다. 재즈 아티스트 루카마이너의 공연과 DJ 전자맨의 디제잉 쇼를... 사전예약 접수는 롯데마트 '도와드리겠습니다센터', 롯데슈퍼 '안내데스크' 및 계산대, 온라인 앱 롯데마트... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:00",
+      "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077297"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "中국경절 맞아 한국 관광 '인기'…시티워크·단풍 감상 등 체험형 여행...",
+      "d": "연남동 골목의 사진 핫플부터 북촌 한옥마을의 한복 체험, 홍대 거리 공연 소개 콘텐츠까지 다양하다. 짧은... 중국 온라인 여행 플랫폼 투뉴(途牛)에 따르면, 올들어 투뉴를 통해 한국 여행을 예약한 관광객 수가 지난해... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 23:52",
+      "link": "https://www.the-today.com/news/articleView.html?idxno=91163"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "[패트롤] 구리시-남양주시-양평군-포천시-하남시",
+      "d": "관내 청소년 동아리 공연을 시작으로 '포천시민 모델 패션쇼'가 펼쳐지고 이어 '포천시민합창단', '포천시립소년소녀합창단', '포천시립민속예술단' 공연이 이어진다. 오후 5시 메인 무대에서 열릴 '시민의날 기념식'에선... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 23:48",
+      "link": "https://www.ekn.kr/web/view.php?key=20261003020482043"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "장애 예술, '지원받는 예술'에서 '선택받는 예술'로",
+      "d": "장애 예술인 창작물 우선구매 제도와 공공기관의 장애 예술인 공연·전시 확대 등이 대표적이다. 김숙희 창작그룹 &lt;피플즈&gt; 대표는 \"서로 다른 감각과 표현이 만나 하나의 예술적 언어를 만들어가는 것이 &lt;피플즈&gt;가... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 23:30",
+      "link": "http://www.incheonin.com/news/articleView.html?idxno=121222"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "올데프 타잔, 새깅 패션 후회 \"사람들이 왜 말렸는지 알겠다\" ('전참시'...",
+      "d": "내한 공연을 보고 나가는 길에 많이 신나서 사람들한테 가까이 가서 제가 안 된다고 등을 치고 끌어내렸다... 타잔은 \"어머니가 산업디자인과 출신이라 어릴 때부터 조기교육을 받았다\"라고 밝혔다. 4단 바지까지 입었던... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 23:28",
+      "link": "https://www.tvreport.co.kr/broadcast/article/1080398/"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "진주남강유등축제, 7만여 유등 밝히며 화려한 개막",
+      "d": "개천예술제는 예술경연과 공연, 전시 등 56개 행사를 선보인다. 특히 10일 낮 12시 진주성 공북문에서 출발하는 제19회 전국 가장행렬 경진대회에는 30개 팀, 1700여 명이 참여해 도심을 행진한다. 코리아 드라마... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 23:18",
+      "link": "https://www.kukinews.com/article/view/kuk202610030053"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "군더더기없이 담백한 황민현…싱글 'OUR' 첫 콘셉트",
+      "d": "가수 겸 배우 황민현이 화려함을 덜어낸 담백한 모습으로 7일 발매되는 디지털 싱글 'OUR'의 첫 콘셉트를... 이어 16일부터 18일까지 서울 공연을 시작으로 도쿄, 마카오, 타이베이에서 '2026 황민현 팬미팅 '도원경''을... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 23:16",
+      "link": "https://news.jtbc.co.kr/article/NB12321267?influxDiv=NAVER"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "고양 일산문화광장에 전국 막걸리 총집결…\"전통주 매력 한자리에서 즐...",
+      "d": "전통주, 공연과 체험이 어우러지면서 고양의 가을을 대표하는 문화행사로 자리매김하고 있다. 전국의 막걸리가 모인 일산문화광장에서 시민들이 전통주의 맛을 즐기는 동시에 지역 농산물과 양조산업의 가능성을... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 22:48",
+      "link": "https://www.tournews21.com/news/articleView.html?idxno=144917"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "이상일 용인시장, 시민의 날을 '캐릭터 축제'로…29개 기관 41개 캐릭터...",
+      "d": "축하공연도 이어졌다. 조아용 페스티벌은 4일까지 계속된다. 캐릭터 댄스 퍼포먼스와 랜덤 플레이 댄스, 조아용 퍼레이드를 비롯해 사이버과학축제와 평생학습박람회, 청년페스티벌, 먹거리페스타, 식품산업박람회... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 22:46",
+      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=31991"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "김규종, 클래식한 수트룩으로 근황…팬사랑 담긴 15주년 행보",
+      "d": "매진시키며 공연 티켓 파워를 입증했다. 가수로서는 2011년 첫 솔로 미니앨범 'TURN ME ON'을 시작으로 2012년... 등 디지털 싱글을 잇달아 내며 꾸준히 음원을 발표했다. 연기자로도 활동을 이어 왔다. 2006년 'Break'에서... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 22:18",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16237048"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "이상일 용인시장 “27만 도시서 111만 대도시로”…‘150만 광역시’ 향...",
+      "d": "주요 산업인 반도체 산업의 중추도시로서 150만 광역시를 내다보는 여정을 시작했다”고 강조했다. 도시... 코요태와 경서, 권도연 등의 축하공연도 이어지며 축제 분위기를 달궜다. ◇해외 6곳·국내 10곳 교류도시... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 22:14",
+      "link": "http://www.beyondpost.co.kr/view.php?ud=202610032155005584c878f8fa1_30"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "천안 도심이 춤판으로 ··· 흥타령춤축제 '흥' 절정",
+      "d": "장기수 천안시장의 출발 선언과 함께 시작된 퍼레이드에서는 참가팀들이 각자의 특색을 살린 춤과... 잔디마당에서는 천안 능소 설화를 현대적으로 재해석한 이동형 뮤지컬 '능소전'이 관객과 호흡했다.... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 21:56",
+      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1184990"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "[패트롤] 광명시-부천시-시흥시-안산시-안양시",
+      "d": "광명시와 제천시는 2008년 4월 상호결연을 체결한 뒤 관광-문화-산업 등 다양한 분야에서 교류를 이어오고... 마지막 '유성우' 구간은 음악에 맞춰 색색의 유성이 데크길 위로 쏟아지는 장면을 연출해 산책의 여운을... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 21:46",
+      "link": "https://www.ekn.kr/web/view.php?key=20261003022522017"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "\"318개팀 경연\"...라온시큐어, ‘2026 블록체인&AI 해커톤’ 성료",
+      "d": "라온시큐어는 이번 해커톤을 통해 모바일 신분증이 공공·금융 분야의 신원확인을 넘어 의료, 복지, 콘텐츠, 관광, 디지털자산 등 국민 생활과 밀접한 영역의 신뢰 기반으로 확장될 가능성을 확인했다고 전했다. 특히... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 21:41",
+      "link": "https://zdnet.co.kr/view/?no=20261003214039"
+    },
+    {
+      "c": "공연/뮤지컬/음악/디지털콘텐츠",
+      "t": "어도비 파이어플라이에 음악·음성·효과음 AI 탑재…‘상업적 안전’ ...",
+      "d": "오디오가 초안 단계를 넘어 고객사나 상업 작업에 안전하게 쓰일 수 있느냐는 문제다.튜브필터는 영상 크리에이터들이 음악 저작권 문제를 자주 겪고, 저작권 침해 신고를 피하려고 로열티 프리 음원에 기대는 경우가... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 21:08",
+      "link": "https://www.wikitree.co.kr/articles/1163784"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "\"바이낸스 스테이블코인 유입 40%↑\"... 가상자산 시장 상승 징후 체크",
+      "d": "글로벌 최대 거래소 바이낸스(Binance)의 스테이블코인 유입이 급증하며 상승 기대감이 커지는 반면, 일부 투자자들 사이에서는 '업토버(Uptober)'를 가장한 시장 왜곡 가능성에 대한 경계의 목소리도 나오고 있다. 암호화폐... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 01:02",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=612237"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "코넬대 집단 성폭행 의혹 수사 새 국면",
+      "d": "코넬대학교 집단 성폭행 의혹을 둘러싼 부실 수사 논란이 커지자 뉴욕주가 특별검사를 임명해 수사에 나서기로 했다. 캐시 호컬 뉴욕주지사는 2일 기자회견을 열고 코넬대 경찰과 톰킨스카운티 검찰의 초기 사건 처리를... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 01:00",
+      "link": "https://www.koreadaily.com/article/20261003090009726"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "Rising Oil Prices and Mounting Living Costs: How Can You Earn $78,800 a Month from Home with Bull DeFi? - Yonkers Times",
+      "d": "",
+      "s": "Yonkers Times",
+      "tm": "10.04 00:53",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQlJEcmxnY3F2ZXBTN2hOdHQzSG0xWXR2Z21GYmFXcGxaaE1DMGtBWXpxQmtDMnltWWVKcFZ0M1U0NDBZWUxTRkJsSFhuN0o2U2tqRGhhczdELXkxT1BSRDRMaGVIV3MzbWREeTVOQWxHQ2RiNnRFcXo2NkFyMUxyd2V0dHcyN3pkdHRSOEk3b1JNcEFWb0RTSzdQdFlSZzllMHA0ZG1RMUZINHFWaGUwWkIwOE1pdzZKX0N2R0cyRV9nOFk?oc=5"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "SBI Holdings Redefines the Cryptocurrency Landscape in Japan - OneSafe",
+      "d": "",
+      "s": "OneSafe",
+      "tm": "10.04 00:44",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ucFdPTVdmUk9GamhUU2JNX3FYRVhYcjNKYVNOcDh2cmFtcV9zdmtjM3g5dUdONXUtTmRxT3h0bnlnaWhueThSbXFpZWU0N3F6XzY5N2Z3b0UzQTdVaWxBWDNtYW9yQjRDTVplYVJWdHJ1R1l1bnVvMDZDZUNWQQ?oc=5"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "\"용납할 수 없는 실수입니다\" 공식 사과…'성매매 현장 체포' NFL 소속 포...",
+      "d": "성매매 혐의로 현장 체포됐던 NFL 소속 샌프란시스코 포티나이너스(49ers)의 제드 요크 구단주가 사무국의 중징계 처분을 수용하며 사과의 뜻을 전했다. 미국 매체 'TMZ 스포츠'는 3일(이하 한국시간) \"샌프란시스코... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:41",
+      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553588194"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "2021–2026 : The Web 3 Ownership Evolution - hackernoon.com",
+      "d": "",
+      "s": "hackernoon.com",
+      "tm": "10.04 00:35",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTemNOME5TOFlNNjlSajlNLVYyUFN1YUktNDNKaklFRzlVQ1JCSEt3VmgxZjZjSUxoRzVYcWxzdHhURHowTmdaUlYxOUpTYkY5aVp2cF9sNW9RV3JMbXdNcjJmcWk5amgtZ1ExT08xbw?oc=5"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "Stellar DeFi hits record $273M TVL with growing stablecoin and real-world asset use - Pluang",
+      "d": "",
+      "s": "Pluang",
+      "tm": "10.04 00:25",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd0I0YkwzVTRBLTBKTmdMZmNQY28zSzB2cE13T2xxclJGM21saUpQNVNPczhYZUxFUTBDVVNHNW9idml1ZFhpWWpVaV9PZEJKeGNvdDNteHdhRHhMUFZVUmpxOWY5ZWpXbFNCSFZTd2JEb2luRlpJU1hjUjh0aHdYVVpfUkNIQl9sRDdPclVNZ1c3dWFXbG83UlpB?oc=5"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "美 SEC, 비트코인 등 6개 자산 3배 레버리지 ETF 상장 승인",
+      "d": "3일(현지시간) 블록체인 매체 코인포스트에 따르면 이번 승인은 시보 BZX 거래소가 제출한 규정 변경안을 승인하는 방식으로 이뤄졌다. 이번에 승인된 6개 상품은 모두 선물을 활용해 수수료와 비용 차감 전 기준으로... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:16",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704954"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "가짜 거래소, 수익률 화면은 속여도 사업자·주소·출금 3단계 검증은 못...",
+      "d": "브라우저 방문기록, 문자, 대화방, 송금내역, 지갑주소, 트랜잭션 해시(블록체인에 남는 전송 기록의 고유 식별값)도 함께 확보해야 한다. 이 자료는 이후 신고와 지급정지 요청의 근거가 된다.거래소 이름을 사칭한 앱을... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:08",
+      "link": "https://www.wikitree.co.kr/articles/1163794"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "XRP 2달러 갈까…에버노스 나스닥 상장이 가격에 미칠 영향",
+      "d": "3일(현지시간) 블록체인 매체 유투데이에 따르면 에버노스는 단순 패시브 ETF가 아니라 리플과 XRP 레저 생태계에서 직접 자산을 운용하는 재무 구조를 내세웠다. 에버노스는 대차대조표에 XRP 4억7300만개를... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:06",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704952"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "\"국감 코앞인데\" 5대 은행 모두 해킹 공격…은행장 증인 압박 커지나",
+      "d": "신한 2만5000명·국민 119명·하나 89명 고객정보 유출 우리·농협은 공격 차단…부산은행도 외주직원 11명 정보 노출 국정감사를 코앞에 두고 5대 시중은행이 모두 해킹 공격을 받은 것으로 확인되면서 은행권 보안관리... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:01",
+      "link": "https://news.tf.co.kr/read/economy/2372630.htm"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "[TF프리즘] 장르도 플랫폼도 다채롭다…10월 안방극장 채울 12편",
+      "d": "김지원·김유정·김영광·임시완까지 스타 총출동 방송사·플랫폼도 다양…장르 또한 다채로워 가을의 길목인 10월, 안방극장이 어느 때보다 다채롭고 풍성한 라인업으로 시청자들을 찾는다. 지상파와 케이블은 물론... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:01",
+      "link": "https://news.tf.co.kr/read/entertain/2372799.htm"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "AI가 돈을 쓸 때 필요한 것...스테이블코인이 '기계의 화폐'로 주목받는 이유 | 엠블록 - 매일경제",
+      "d": "",
+      "s": "매일경제",
+      "tm": "10.03 23:48",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tb1hacDZvUjZIcG1QSDBwZTh5NTgzTHhpMWtGMVZISWoxelRhYTRvYkNFMWJGWU91SWdpX3Zwa204bVZQU180Yks3TWZGZ2s5WXhv?oc=5"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "[KRW 2026] 원화 스테이블코인 어디에 쓰나…\"국내 결제보다 수출입·외환부터\" - Naver Blog",
+      "d": "",
+      "s": "Naver Blog",
+      "tm": "10.03 23:40",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMEo3aUhZUVBaNzBSY29neGw2R0dOaWdSVGRCek9QQjM3Y1N1amJXV1BZZXlJZjB3OWFaTDVQQTFlZnAyVE5qUk5NMmRXVlBoRUxEM094MXkxM0xqd3VpSlVnM1JtLWx5NUUxUjdiTXlMM0tncmZmd2pYeFB4T2pGMnZKS0lXU2xDLTJjcFJuOA?oc=5"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "하나카드, 해외카드로 서울버스 탄다…2027년 '오픈루프' 결제 도입",
+      "d": "하나카드가 외국인 관광객의 대중교통 결제부터 스테이블코인, 군 장병과 전문직 대상 특화카드까지 결제서비스의 적용 영역을 넓히고 있다. 3일 웹이코노미 취재 등을 종합하면, 하나카드는 2027년 해외 발급... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 23:26",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2324708"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "SBI·NICE·DSRV, 한일 스테이블코인 QR결제 12월 말까지 검증…출시 약속...",
+      "d": "일본 SBI그룹의 SBI DigiTrust, 국내 결제 업체 NICE Information & Telecommunication(이하 NICE), 블록체인 인프라 기업 DSRV가 이를 확인하는 업무협약(MOU)을 맺었다. 협약식은 9월 30일(현지시각) 서울 NICE 본사에서 열렸고, DSRV는... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 23:08",
+      "link": "https://www.wikitree.co.kr/articles/1163790"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "하나은행, 블록체인 기반 외화채권 발행…디지털 금융 인프라 확장",
+      "d": "하나은행이 블록체인을 활용한 외화채권 발행과 디지털자산 규제 대응을 잇달아 추진하며 디지털 금융 인프라 적용 범위를 넓히고 있다. 3일 웹이코미 취재 등을 종합하면, 하나은행은 유로클리어의 블록체인... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 22:40",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2324706"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "Uko urukundo rwa Alain Gauthier na nyakwigendera Dafroza Gauthier rwatangiye - KigaliToday",
+      "d": "",
+      "s": "KigaliToday",
+      "tm": "10.03 22:17",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRkZHMC1NZlktWi1NS2N5dTk3czBndFRqYXZYcEZiR0tabHFtMm1OcFc0ZTM0S19KSzhwUE43T0s0ejdldnlTRzZNMGNXWTQ4NDdGM1VYNmZ6aHhMTkhQVGYxYjY5RG0yTnNDTk9FVzhyYW5yVk5jdUQ1T2FvR2VvSnJ3bWtMOUgwb195Xy1OaDlOWjAtSmQ2OUxoYUtkZm01UGpocVcwVnVib1Y0NXJnR2ZPUmszSUtXV2JPbEJfZzB0YzVvRW9jZmFWSmZwbTM1NjlabG1B?oc=5"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "Underdog Exchange (UDX) Trading Volume: Daily & Monthly - DeFi Rate",
+      "d": "",
+      "s": "DeFi Rate",
+      "tm": "10.03 22:10",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92MDIyVUhuY3dEZU4xZ2tzVy1sZm9jOWp0QkF5SEVmSFVGc2JGbkI3Q1ZnbkVEOF9tMmFUTGRaamRXbWZoNmU2RHNwTDVpc1BYNDJDejBLOWJ1WTZMZncwSjdHODJ1eXc?oc=5"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "ProphetX Trading Volume: Daily, Weekly & Monthly Charts - DeFi Rate",
+      "d": "",
+      "s": "DeFi Rate",
+      "tm": "10.03 22:06",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lX1VCb0UwS05PV3VlSXpoam0zTGdGWjFfenVUZUU3WFdrczNqNzJxTUNDVFRlOG5RUDlvZHpqLVZDVUVQMnZIbDQzOTVxQlZOTk9mTkp4ZzFoVUtkYmpjbEx3ZjFfd3M?oc=5"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "\"318개팀 경연\"...라온시큐어, ‘2026 블록체인&AI 해커톤’ 성료 - v.daum.net",
+      "d": "",
+      "s": "v.daum.net",
+      "tm": "10.03 21:41",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FQVpLNHlfMzdqZER4SFlZMnhlM1FPSGg4Y3hVR254bmFmZVAtNXhOdjZjSnBuTGJfSEl3UVZ1c1pOYjRxbHdmdnRmVTVGTDQ?oc=5"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "Unraveling the Bitget Breach and Its Ramifications for Crypto Oversight - OneSafe",
+      "d": "",
+      "s": "OneSafe",
+      "tm": "10.03 21:37",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QSXlpTTVSelVVNWVsNlU2cVVES1J4Z1ZDbGM1S3dkTTNadzBPSHJ2Mlp2YllQNEQyUlNXejhLdWN2aEVFQk9oTkZ3ZE5xbXBvcjRaS1pnRG1YNHZiSlpHcEpQN2NVZWVBODdB?oc=5"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "Fundstrat’s Sean Farrell Sees An 'Explosive Catalyst' For Bitcoin While DeFi Names Pull Ahead - Stocktwits",
+      "d": "",
+      "s": "Stocktwits",
+      "tm": "10.03 21:13",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcF9WYnd6Vk9yNi1sRWRieUtoYldiOUdqdnYxYmhLRTRGQmRFSVdBMkxaWjcxT04tbjhHczk0ZXdTMGJFVFRDMDNuaHZXNXFMcUJXUFNhZ01WZjZEMXEtcUJDZ1VacU5hbVNlalN6M3ktbmJyV1RRbF9HQ3N6UGsyRV9iUXV6dk5PVW40QUFfWVBtMkk4WGZfeHh3YWhkMlZZQkxvV0xzQ1BjOW9OZlZaVFZSaGc5eVdxR3lTZVB4X1lobVFyV3dHUlB3?oc=5"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "Fundstrat's Sean Farrell Flags Treasury Shift As 'Explosive Catalyst' For Bitcoin As DeFi Tokens Outpace It - TradingView",
+      "d": "",
+      "s": "TradingView",
+      "tm": "10.03 21:12",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaHZScFI0aEY0RWNjOFE0TU1fbDRPUF9hWXlpXzYycGNGV0lLWVUxUzFUR0VjSVh5YS1qNFhmU1JyZ1dON1ZfMFVCSWpVVl9wUnBRWVBSWVdyS1JUMU9mWWV6TXBaUWhNT2N1Ul91RzdHNmE1RVp0eVV2OWJKQUN3ekg4THhsV2ROVE82RnRiY2VKczBQQ0Q4Y1dYc0FyVWNJenNZeXhTYUpPdFFFNVNIMF9KRmJOMTJmdTVYRzRkbU9Xd242Z21pTlFCZXU4eUxvckd3UENZV0lCNmRLTUVPeVR2VDY3WGpfUWRWTVFqVnZiSUtoU3RsOFpR?oc=5"
+    },
+    {
+      "c": "Web3/블록체인/금융",
+      "t": "블록 체인 기술 의 경제적 활용 화면 하단 정보 영역 해설 - Calgary Roughnecks",
+      "d": "",
+      "s": "Calgary Roughnecks",
+      "tm": "10.03 21:06",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZY3VoSm5fQVcyQ1pEVEoyOWo2NlM2cUVpSXRtc3FGUVNQS2c3WF9rdUlvZ0V6aGRsSmZZRWlQVmRib3NGNExjM0s3bXlhUV80UlBHNnVoYU9hdzk0?oc=5"
+    },
+    {
+      "c": "AX/DX/정책",
+      "t": "Flydubai pilot allegedly used cockpit crash ax in attack on captain - Gephardt Daily",
+      "d": "",
+      "s": "Gephardt Daily",
+      "tm": "10.04 00:58",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGJSZ21uOVpuZzc5MUUzUmZMYVBBZTZoZUZ1dHFDYlh5Z3VNRjlKME9faHF5QmJJSHRjek5CWFMtN0pfVFpEeGE0WGttcUM1d0Y3ZDlCa083SHJNMnN1MlBtbGFVV0M4eXh2M1FSdjJpVGk3S285Wmk0UHdKb2tWVTNwbGExMlN5emZmX3dXZDN5UEVGMnc1Z1ZsZzZmRmJwRUl1LXlaZWJYZw?oc=5"
+    },
+    {
+      "c": "AX/DX/정책",
+      "t": "FlyDubai co-pilot attacked captain with cockpit’s crash ax: State media - Modern Ghana",
+      "d": "",
+      "s": "Modern Ghana",
+      "tm": "10.04 00:30",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wbDBsVEp5YmtkNFB0OWo0R3FSb1NQQlYyZjJ6NVVsRThrS3ZoLS1RWG5xN3RLZDdLbUlMYTBnTE9yZXg1WjNIRURuNG1kQ2x1ekUwSHZrRXNNNHpIdlNN0gFcQVVfeXFMTjhTZFA5S1BYd2dPM1JIdG1vWlJMVGtyb2pmZW1Ea0FhMFdpeHUyWU9ZbEo3Q1dJUER3bXhDNGdkSWl2djRISmhQOVVvb0Nicm9lRmVUTmNJYjByTTI?oc=5"
+    },
+    {
+      "c": "AX/DX/정책",
+      "t": "FlyDubai Attacker Used ‘Crash Ax,’ a Common Fixture on Many Jets - WSJ",
+      "d": "",
+      "s": "WSJ",
+      "tm": "10.04 00:28",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ2tZX3AxeENQblRLRGd4X2JxcGNLREtUYTBiQ3ZWUFAwMUhJTGwtMmVJa1k2QTZXYUZJRWRLMnhXUU9WcWQwb25HN3NjbWFCaFBZSWpCOGFUNTZRNXVCMFR6aHV0dzd4LWRJNDdHWmluSF9lZFlDeWhyV1JJTzk3YzJUd0I0OHlMbDJlemhJeDU?oc=5"
+    },
+    {
+      "c": "AX/DX/정책",
+      "t": "FlyDubai co-pilot used crash ax to attempt ‘terrorist act,’ UAE says - The Washington Post",
+      "d": "",
+      "s": "The Washington Post",
+      "tm": "10.04 00:26",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRmN6QTZoNW9lYktQLUNSUVY5c20tUm9udG0xRkNBa1RXd1Z3MTFQNEoxa1RUSDQ2MmdEb0JDQUU4RDZtQzVxZmllanhjWGJhakFqamc1eUpZRVBBSVA4VVZDSG9rSUNyaGgydmJlMk5jUF9KcGxXLWpnN2lGZTE1aEtXR2NmY2ROMnBoZlRHSzhhSXdvR2RaZGs2U0xzX3lBSTRkVTlUTQ?oc=5"
+    },
+    {
+      "c": "AX/DX/정책",
+      "t": "AI 시대 금수저보다 무서운 '뇌 사용의 양극화'",
+      "d": "지난 9월 21일 세종시 다솜로 세종 코트야드 메리어트 호텔에서 열린 'M.AX CEO 해커톤' 행사에서 김정관 산업통상부 장관이 'AI시대와 CEO의 3A(ADAPT·ADEPT·ADOPT) 생존법'을 주제로 강연하고 있다. (사진=연합뉴스) 같은 AI를... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:18",
+      "link": "https://www.newsverse.kr/news/articleView.html?idxno=11580"
+    },
+    {
+      "c": "AX/DX/정책",
+      "t": "Ax-wielding FlyDubai co-pilot had been flagged over extremism concerns - Oskaloosa Herald",
+      "d": "",
+      "s": "Oskaloosa Herald",
+      "tm": "10.04 00:04",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbFZJSG40Y0IwU1hGTEdLMFluaXNYcTZZZWpCOU9TRlUxY2hWZ19jc0RTMjJQVG9OQUNxMXgycWpwN3BIdnA2Qkhja3FYQWtJbFZIdTNuaHB4QWlWSDJLRnVHVW0yMjgxaUV6bUl2R0tCUnJFQzd5SUN3MDI2LXYyczlrZXN0WWdGU1owWHJSYVFDNmUzY2w5OF9zX0RKdXR6bVFCUkVIanNEUG1TckhPVnNBM1AzLVg1THp0S2d4TTdRUkl2MExTMGEwXy1fSnhRbGE3aEhoc0Z0dlBsOUpHUURwV3RCa09kbmlUcl9LY080WHdjVFZCVw?oc=5"
+    },
+    {
+      "c": "AX/DX/정책",
+      "t": "[통신리뷰] KT '사장이지', AI면접부터 마케팅까지…소상공인 경영 지원...",
+      "d": "기존 매장 관리와 경영정보 제공을 넘어 채용과 마케팅 등 실제 경영 업무까지 지원하는 소상공인 인공지능전환(AX) 플랫폼으로 발전시켜 나갈 계획이다. KT Customer부문 디바이스사업본부장 손정엽 상무는... ",
+      "s": "네이버뉴스",
+      "tm": "10.04 00:02",
+      "link": "https://www.theguru.co.kr/news/article.html?no=107850"
+    },
+    {
+      "c": "AX/DX/정책",
+      "t": "UAE says flydubai copilot used cockpit emergency ax to attack captain in ‘terrorist act’ - The Times of Israel",
+      "d": "",
+      "s": "The Times of Israel",
+      "tm": "10.03 23:19",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYjNKMXdXV1VFMEFiSUJCRG1YczF4QTZUaGlfYmx0ZWNZOW10WnExdUtkUWNYZkVEbFkyMGdrQU1Qak50RlBXZkZyS3NZaFRkOGl6SUh6OGJmNVBTOFpPdk4wVlBDYmhHTnJXTGw5QUhXV2UtUjJiS3k1QVN3OGNTdV9acnUxZUN5REd6YnFIR1pBQkdNUzZIOHRBRWYxODZnZjg3d1FYTnh3bHNmU0ZYSEFSU2RrMWcz0gG-AUFVX3lxTFBSZWRLdEpNcnlfcXJrV0YxSDA2eWx2Y05oLWpGNTRsWkZibG04QVlDaGtkcHNXSTJJb0h3WF9VMHpaNVF6YWNLdnphQjhicHl5bmV4dWJTYjQ3a04zQ0pPRFlXSGViQnN6ODNkN1RNWFo1TUdTcG1Ia08tZTRiYy1PajVKaUp2VVU3UVFXUC01eVMtc0o5aktQT2tSMDU1eGZPdUJQaHBFUF9FcHduVmIzNUxkeE9sZ0FCYVBfWWc?oc=5"
+    },
+    {
+      "c": "AX/DX/정책",
+      "t": "“먹태깡 시들했는데 두쫀쿠는 롱런”…해외서 잘나가는 K푸드, 이유 있...",
+      "d": "윤영솔 고려무역 실장은 지난달 29일 인천 송도에서 열린 제24차 세계한상대회에서 매경AX와 만나 “한국에서 유행한다고 무작정 제품을 가져오면 실패하는 경우도 있다”며 “현지 소비자가 어떤 경로로 제품을 접하고... ",
+      "s": "네이버뉴스",
+      "tm": "10.03 23:06",
+      "link": "https://www.mk.co.kr/article/12167855"
+    },
+    {
+      "c": "AX/DX/정책",
+      "t": "When mobile phones reach TZ farms, smallholders gain opportunities, but new digital divides emerge - dailynews.co.tz",
+      "d": "",
+      "s": "dailynews.co.tz",
+      "tm": "10.03 23:03",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbWNYWUZucVBYY1dhblNlczBLQmV0cVhsWm9iM0pOS0RDdlJWbTZqUGRLTk1udVZ6WkdFazNneGxQUmVtallFX1NZZFZGTjUwUVBaMjBaOTdlbkJwZGNlRmNWeTBPd0NFbHIxVGJLbFNfZmk4cml1eHVyZU51aDBCRzlPZ0UxUkxSNEJJa2ROdnVud3RuUW5qa3VwXzVtRG1uY29BWmViUTV2b0lEN25QV0NTU0lTMHRKVG1Cendn?oc=5"
+    },
+    {
+      "c": "AX/DX/정책",
+      "t": "Egypt plans to launch unified licensing window to facilitate investor procedures - Economy - Business - Ahram Online",
+      "d": "",
+      "s": "Ahram Online",
+      "tm": "10.03 22:57",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TN1phc19JUkd5WkRlZE9SUE5aR1BHbGFGWldjekZ4T1JYRFhZeFY1MXBwOTZNLXZpTk9VQUU2TmJGWVo3VFJBWVVWM0pQWGxPc0R3YldSbUE?oc=5"
+    },
+    {
+      "c": "AX/DX/정책",
+      "t": "49ers’ 6-foot-3, 293-Pound DT Tops List of ‘Impossible to Ignore’ NFL Rookies - heavy.com",
+      "d": "",
+      "s": "heavy.com",
+      "tm": "10.03 22:42",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaTlTRmJWOEJZWTZOU2lobncxTktNQ25qcUlIOVhOSnc5b0NUa2w0eWdWanl3bkk4cHQyNTNXTC1IMW94RC1yTWp1Vkt4OG1mSnFRVWNDLTFqaEdpaEIxbGxXbHZ0MUdmVy1hRmhzWnBKVXlyNlZXX2ZwOGlhdUQ5S2d6emNBaHhmZnhRVUY3aE93NXB5bTQxT2xwemU0cEU?oc=5"
+    },
+    {
+      "c": "AX/DX/정책",
+      "t": "The next big tech opportunity in Bangladesh could be digital ecosystem for property management - daily-sun.com",
+      "d": "",
+      "s": "daily-sun.com",
+      "tm": "10.03 21:31",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMFZfblBrX3Zwd2NxMUVzRk1pOTI2Y2VUeWhSenNqeXNJNGRfSjFhaExuUG95Tm5SUXdDVDBocXE0LWliWGRmcW5vTnI2VFlGMENDWVdPaVhfR1l5UFFXYVRZYThaT2VXZ2FocHQzaU9QZ21Ua1FCSjRLUEtydzFhSUhiN0xHZ1MtdEZwNnBXeWY1bVo2WERyNWFtMG1WTXBodFdtU2hOSzk0aUMzX1J6TGJYVVRKNXpYc1hzcVpUZWlMRk9lZG15RzhJWmlDdlhtZW1QeENyMnpGTEVvUnFr?oc=5"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 비아이매트릭스 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003267"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 엠로 - [기재정정]반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.28 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.28 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260828001423"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 슈어소프트테크 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.13 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.13 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813000798"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 뉴엔AI - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814000864"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 노타 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003297"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 와이즈넛 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002489"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 에스투더블유 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.13 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.13 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001570"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 비큐AI - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.11 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.11 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260811000203"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 코난테크놀로지 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002288"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 모아데이타 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002441"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 셀바스AI - [기재정정]반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.09.30 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "09.30 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000456"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 위세아이텍 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002051"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 인지소프트 - [첨부추가]반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814001873"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 시큐브 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814004159"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 케이사인 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002127"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 엑셈 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814001932"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 이스트소프트 - [첨부추가]반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002336"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 아이퀘스트 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.12 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.12 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812000182"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 핑거 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003937"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 브리지텍 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.12 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.12 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812000387"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 솔트룩스 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814001518"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 마음AI - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002855"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 바이브컴퍼니 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002481"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 크라우드웍스 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814001178"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 레인보우로보틱스 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002901"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 뉴로메카 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002265"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 두산로보틱스 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003345"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] NAVER - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002266"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] YG PLUS - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003232"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] NHN벅스 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002252"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 드림어스컴퍼니 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814001773"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] KT지니뮤직 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814000733"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] SAMG엔터 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003350"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 대원미디어 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814001403"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 자이언트스텝 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002501"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 덱스터 - [첨부정정]반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.20 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.20 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260820000112"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 하이브 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814004127"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] JYP Ent. - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003204"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 에스엠 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002930"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 와이지엔터테인먼트 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814004237"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 다날 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002403"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 멀티캠퍼스 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003903"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] YBM넷 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814001493"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 아이스크림에듀 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.13 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.13 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813000061"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 비상교육 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002214"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 로보로보 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003213"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 웅진씽크빅 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814004136"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 럭스로보 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.28 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.28 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260828001879"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 대교 - 반기보고서 (2026.06)",
+      "d": "보고기간: 2026.06 | 접수일: 2026.08.14 | 구분: 반기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003757"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 비아이매트릭스 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515001049"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 엠로 - [기재정정]분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.07.16 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "07.16 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260716000557"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 슈어소프트테크 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515000936"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 뉴엔AI - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515000219"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 노타 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515000463"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 와이즈넛 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515000505"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 에스투더블유 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.14 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260514001399"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 비큐AI - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.14 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260514000251"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 코난테크놀로지 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515001462"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 모아데이타 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515002116"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 셀바스AI - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515000382"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 위세아이텍 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515000096"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 인지소프트 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.14 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260514000645"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 시큐브 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515002983"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 케이사인 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.14 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260514001115"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 엑셈 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.14 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260514000515"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 이스트소프트 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.14 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260514000983"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 아이퀘스트 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.07 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.07 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260507000065"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 핑거 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515001975"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 브리지텍 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.14 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260514000198"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 솔트룩스 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.14 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260514000748"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 마음AI - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515001291"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 바이브컴퍼니 - [기재정정]분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.08.14 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002432"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 크라우드웍스 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515002109"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 레인보우로보틱스 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515002401"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 뉴로메카 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.14 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260514001429"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 두산로보틱스 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515001834"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] NAVER - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515001511"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] YG PLUS - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515001527"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] NHN벅스 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515002041"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 드림어스컴퍼니 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.14 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260514000350"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] KT지니뮤직 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515000460"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] SAMG엔터 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515001389"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 대원미디어 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.14 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260514000488"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 자이언트스텝 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515002036"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 덱스터 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515000831"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 하이브 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515001930"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] JYP Ent. - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515002272"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 에스엠 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515002991"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 와이지엔터테인먼트 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515002248"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 다날 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515001478"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 멀티캠퍼스 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515001646"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] YBM넷 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.14 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260514001021"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 아이스크림에듀 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515001231"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 비상교육 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.11 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.11 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260511000530"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 로보로보 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515001597"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 웅진씽크빅 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.15 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.15 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515002027"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 럭스로보 - 분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.05.29 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "05.29 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260529000143"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 대교 - [기재정정]분기보고서 (2026.03)",
+      "d": "보고기간: 2026.03 | 접수일: 2026.06.09 | 구분: 분기보고서",
+      "s": "DART 정기공시",
+      "tm": "06.09 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260609000086"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 비아이매트릭스 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.20 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.20 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260320001308"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 엠로 - [기재정정]사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.07.16 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "07.16 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260716000549"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 슈어소프트테크 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.19 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.19 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260319000594"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 뉴엔AI - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.18 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.18 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260318000699"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 노타 - [기재정정]사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.23 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.23 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260323000987"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 와이즈넛 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.18 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.18 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260318001190"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 에스투더블유 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.18 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.18 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260318001533"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 비큐AI - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.23 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.23 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260323001692"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 코난테크놀로지 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.23 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.23 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260323000784"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 모아데이타 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.23 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.23 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260323000530"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 셀바스AI - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.19 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.19 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260319001250"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 위세아이텍 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.20 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.20 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260320000390"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 인지소프트 - [기재정정]사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.08.14 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814001568"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 시큐브 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.23 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.23 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260323001582"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 케이사인 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.18 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.18 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260318000845"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 엑셈 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.18 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.18 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260318001293"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 이스트소프트 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.18 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.18 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260318001289"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 아이퀘스트 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.18 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.18 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260318000686"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 핑거 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.23 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.23 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260323001250"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 브리지텍 - [첨부추가]사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.18 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.18 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260318000356"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 솔트룩스 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.19 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.19 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260319001029"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 마음AI - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.19 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.19 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260319000767"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 바이브컴퍼니 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.20 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.20 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260320001232"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 크라우드웍스 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.23 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.23 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260323001402"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 레인보우로보틱스 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.20 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.20 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260320000803"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 뉴로메카 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.19 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.19 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260319000890"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 두산로보틱스 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.18 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.18 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260318001562"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] NAVER - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.13 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.13 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260313001021"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] YG PLUS - [첨부정정]사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.20 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.20 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260320001330"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] NHN벅스 - [기재정정]사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.08.14 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "08.14 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814000419"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 드림어스컴퍼니 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.19 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.19 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260319000743"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] KT지니뮤직 - [기재정정]사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.06.05 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "06.05 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260605000121"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] SAMG엔터 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.23 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.23 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260323000799"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 대원미디어 - [첨부추가]사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.18 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.18 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260318000827"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 자이언트스텝 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.23 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.23 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260323001226"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 덱스터 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.20 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.20 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260320000939"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 하이브 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.20 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.20 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260320000802"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] JYP Ent. - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.18 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.18 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260318001519"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 에스엠 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.17 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.17 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260317000781"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 와이지엔터테인먼트 - [기재정정]사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.23 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.23 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260323001610"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 다날 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.19 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.19 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260319000938"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 멀티캠퍼스 - [기재정정]사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.16 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.16 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260316000476"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] YBM넷 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.18 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.18 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260318001317"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 아이스크림에듀 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.18 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.18 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260318001021"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 비상교육 - [기재정정]사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.06.25 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "06.25 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260625000299"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 로보로보 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.13 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.13 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260313000261"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 웅진씽크빅 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.18 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.18 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260318001421"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 럭스로보 - 사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.03.23 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "03.23 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260323001564"
+    },
+    {
+      "c": "공시",
+      "t": "[정기공시] 대교 - [기재정정]사업보고서 (2025.12)",
+      "d": "보고기간: 2025.12 | 접수일: 2026.06.09 | 구분: 사업보고서",
+      "s": "DART 정기공시",
+      "tm": "06.09 00:00",
+      "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260609000080"
+    }
+  ]
+}
